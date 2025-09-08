@@ -1,7 +1,6 @@
 # bot.py
 # Discord bot for interacting with Ollama models via FastAPI (discord.py v2)
 import discord
-from discord import app_commands
 from discord.ext import commands
 import os
 
@@ -71,8 +70,8 @@ async def setup_hook():
 # Attache la méthode setup_hook au bot
 bot.setup_hook = setup_hook
 
-# Commande hybride pour recharger tous les cogs et resynchroniser les commandes
-@bot.hybrid_command(name="reloadcogs", with_app_command=True, description="Reload all cogs and resync commands")
+# Commande slash pour recharger tous les cogs et resynchroniser les commandes
+@bot.slash_command(guild_ids=[Config.GUILD_ID], name="reloadcogs", description="Reload all cogs and resync commands")
 @commands.has_permissions(administrator=True)
 async def reload_cogs(ctx: commands.Context):
     notes = []
@@ -100,8 +99,6 @@ async def reload_cogs(ctx: commands.Context):
 
     await ctx.send("Reload complete: " + " | ".join(notes))
 
-# Restreint la commande slash à la guilde cible
-reload_cogs.app_command.guilds = [discord.Object(id=Config.GUILD_ID)]
 
 # Point d'entrée du bot
 if __name__ == "__main__":
