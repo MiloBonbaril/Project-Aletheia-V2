@@ -1,5 +1,4 @@
 import discord
-from discord import app_commands
 from discord.ext import commands
 from config import Config
 import os  # For checking file existence and removing files after playback

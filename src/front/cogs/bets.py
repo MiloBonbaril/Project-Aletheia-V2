@@ -1,5 +1,4 @@
 import discord
-from discord import app_commands
 from discord.ext import commands
 import json
 import os
@@ -46,8 +45,7 @@ class BetsCog(commands.Cog):
     # ---------------------------------------------------------------------
     # CREATING A BET
     # ---------------------------------------------------------------------
-    @app_commands.guilds(Config.GUILD_ID)
-    @commands.hybrid_command(name="createbet", with_app_command=True)
+    @commands.slash_command(guild_ids=[Config.GUILD_ID], name="createbet")
     @commands.has_permissions(administrator=True)
     async def create_bet(self, ctx, title: str, win_condition: str, participants:str):
         """
@@ -112,8 +110,7 @@ class BetsCog(commands.Cog):
     # ---------------------------------------------------------------------
     # PLACING A BET
     # ---------------------------------------------------------------------
-    @app_commands.guilds(Config.GUILD_ID)
-    @commands.hybrid_command(name="bet", with_app_command=True)
+    @commands.slash_command(guild_ids=[Config.GUILD_ID], name="bet")
     async def place_bet(self, ctx, bet_id: str, participant: str, amount = 0):
         """
         Place a bet on a specific participant of a bet.
@@ -165,8 +162,7 @@ class BetsCog(commands.Cog):
     # ---------------------------------------------------------------------
     # MODIFY A BET
     # ---------------------------------------------------------------------
-    @app_commands.guilds(Config.GUILD_ID)
-    @commands.hybrid_command(name="modifybet", with_app_command=True)
+    @commands.slash_command(guild_ids=[Config.GUILD_ID], name="modifybet")
     @commands.has_permissions(administrator=True)
     async def modify_bet(self, ctx, bet_id: str, field: str, *, new_value: str):
         """
@@ -282,8 +278,7 @@ class BetsCog(commands.Cog):
     # ---------------------------------------------------------------------
     # DELETE A BET
     # ---------------------------------------------------------------------
-    @app_commands.guilds(Config.GUILD_ID)
-    @commands.hybrid_command(name="deletebet", with_app_command=True)
+    @commands.slash_command(guild_ids=[Config.GUILD_ID], name="deletebet")
     @commands.has_permissions(administrator=True)
     async def delete_bet(self, ctx, bet_id: str):
         """
@@ -303,8 +298,7 @@ class BetsCog(commands.Cog):
     # ---------------------------------------------------------------------
     # DECLARE A WINNER
     # ---------------------------------------------------------------------
-    @app_commands.guilds(Config.GUILD_ID)
-    @commands.hybrid_command(name="declarewinner", with_app_command=True)
+    @commands.slash_command(guild_ids=[Config.GUILD_ID], name="declarewinner")
     @commands.has_permissions(administrator=True)
     async def declare_winner(self, ctx, bet_id: str, winner: str):
         """
