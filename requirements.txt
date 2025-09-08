@@ -3,5 +3,5 @@ uvicorn>=0.25
 pytest>=7.0
 httpx>=0.24
 ollama>=0.3
-discord.py>=2.3
+py-cord[voice]
 python-dotenv>=1.0
