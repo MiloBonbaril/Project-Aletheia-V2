@@ -5,7 +5,7 @@
 set -e
 
 if [ ! -d ".venv" ]; then
-    python -m venv .venv
+    python3.12 -m venv .venv
 fi
 
 source .venv/bin/activate

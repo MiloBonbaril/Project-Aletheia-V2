@@ -3,7 +3,7 @@ REM Create a virtual environment, install dependencies, and activate it
 REM Usage: call scripts\setup_venv.bat
 
 if not exist .venv (
-    python -m venv .venv
+    python3.12 -m venv .venv
 )
 
 call .\.venv\Scripts\activate
