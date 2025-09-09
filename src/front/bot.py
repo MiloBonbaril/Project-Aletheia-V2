@@ -34,7 +34,7 @@ async def load_extensions_and_sync():
 
     for cog in COGS:
         try:
-            await bot.load_extension(f"cogs.{cog}")
+            bot.load_extension(f"cogs.{cog}")
             print(f"Cog {cog} loaded successfully.")
             if user:
                 try:
@@ -44,19 +44,12 @@ async def load_extensions_and_sync():
         except Exception as e:
             print(f"Failed to load cog {cog}: {e}")
 
-    try:
-        guild = discord.Object(id=Config.GUILD_ID)
-        synced = await bot.tree.sync(guild=guild)
-        print(f"Synced {len(synced)} commands to guild {Config.GUILD_ID}")
-    except Exception as e:
-        print(f"Error syncing guild commands: {e}")
-
-
 @bot.event
 async def on_ready():
     # DM l'utilisateur défini pour signaler que le bot est prêt
     try:
         user = await bot.fetch_user(USER_ID)
+        await load_extensions_and_sync()
         await user.send("Bot is ready")
     except Exception:
         pass
@@ -73,31 +66,23 @@ bot.setup_hook = setup_hook
 # Commande slash pour recharger tous les cogs et resynchroniser les commandes
 @bot.slash_command(guild_ids=[Config.GUILD_ID], name="reloadcogs", description="Reload all cogs and resync commands")
 @commands.has_permissions(administrator=True)
-async def reload_cogs(ctx: commands.Context):
+async def reload_cogs(ctx: discord.ApplicationContext):
     notes = []
     for cog in COGS:
         module = f"cogs.{cog}"
         try:
-            await bot.reload_extension(module)
+            bot.reload_extension(module)
             notes.append(f"reloaded {cog}")
-        except commands.ExtensionNotLoaded:
+        except discord.ExtensionNotLoaded:
             try:
-                await bot.load_extension(module)
+                bot.load_extension(module)
                 notes.append(f"loaded {cog}")
             except Exception as e:
                 notes.append(f"failed {cog}: {e}")
         except Exception as e:
             notes.append(f"failed {cog}: {e}")
 
-    # Resynchronise la tree sur la guilde
-    try:
-        guild = discord.Object(id=Config.GUILD_ID)
-        synced = await bot.tree.sync(guild=guild)
-        notes.append(f"synced {len(synced)} cmds")
-    except Exception as e:
-        notes.append(f"sync error: {e}")
-
-    await ctx.send("Reload complete: " + " | ".join(notes))
+    await ctx.respond("Cogs reload complete: "+" | ".join(notes))
 
 
 # Point d'entrée du bot

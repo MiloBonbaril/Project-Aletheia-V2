@@ -20,6 +20,9 @@ class BetsCog(commands.Cog):
 
         self.bets = self.load_bets()  # We load bets from the JSON file on startup
 
+    bets = discord.SlashCommandGroup("bets", "Bet management commands", guild_ids=[Config.GUILD_ID])
+    bets_management = bets.create_subgroup("manage", "Administrative bet management commands", guild_ids=[Config.GUILD_ID])
+
     # ---------------------------------------------------------------------
     # JSON DATA HANDLING
     # ---------------------------------------------------------------------
@@ -45,7 +48,7 @@ class BetsCog(commands.Cog):
     # ---------------------------------------------------------------------
     # CREATING A BET
     # ---------------------------------------------------------------------
-    @commands.slash_command(guild_ids=[Config.GUILD_ID], name="createbet")
+    @bets_management.command(guild_ids=[Config.GUILD_ID], name="create")
     @commands.has_permissions(administrator=True)
     async def create_bet(self, ctx, title: str, win_condition: str, participants:str):
         """
@@ -110,7 +113,7 @@ class BetsCog(commands.Cog):
     # ---------------------------------------------------------------------
     # PLACING A BET
     # ---------------------------------------------------------------------
-    @commands.slash_command(guild_ids=[Config.GUILD_ID], name="bet")
+    @bets.command(guild_ids=[Config.GUILD_ID], name="place_bet")
     async def place_bet(self, ctx, bet_id: str, participant: str, amount = 0):
         """
         Place a bet on a specific participant of a bet.
@@ -162,7 +165,7 @@ class BetsCog(commands.Cog):
     # ---------------------------------------------------------------------
     # MODIFY A BET
     # ---------------------------------------------------------------------
-    @commands.slash_command(guild_ids=[Config.GUILD_ID], name="modifybet")
+    @bets_management.command(guild_ids=[Config.GUILD_ID], name="modify_bet")
     @commands.has_permissions(administrator=True)
     async def modify_bet(self, ctx, bet_id: str, field: str, *, new_value: str):
         """
@@ -196,7 +199,7 @@ class BetsCog(commands.Cog):
     # ---------------------------------------------------------------------
     # ADD A PARTICIPANT TO AN EXISTING BET
     # ---------------------------------------------------------------------
-    @commands.command(name="addparticipant")
+    @bets_management.command(guild_ids=[Config.GUILD_ID], name="add_participant")
     @commands.has_permissions(administrator=True)
     async def add_participant(self, ctx, bet_id: str, participant: str):
         """
@@ -237,7 +240,7 @@ class BetsCog(commands.Cog):
     # ---------------------------------------------------------------------
     # SHOW A SPECIFIC BET
     # ---------------------------------------------------------------------
-    @commands.command(name="showbet")
+    @bets.command(guild_ids=[Config.GUILD_ID], name="show_bet")
     async def show_bet(self, ctx, bet_id: str):
         """
         Display details of an existing bet.
@@ -278,7 +281,7 @@ class BetsCog(commands.Cog):
     # ---------------------------------------------------------------------
     # DELETE A BET
     # ---------------------------------------------------------------------
-    @commands.slash_command(guild_ids=[Config.GUILD_ID], name="deletebet")
+    @bets_management.command(guild_ids=[Config.GUILD_ID], name="delete_bet")
     @commands.has_permissions(administrator=True)
     async def delete_bet(self, ctx, bet_id: str):
         """
@@ -298,7 +301,7 @@ class BetsCog(commands.Cog):
     # ---------------------------------------------------------------------
     # DECLARE A WINNER
     # ---------------------------------------------------------------------
-    @commands.slash_command(guild_ids=[Config.GUILD_ID], name="declarewinner")
+    @bets_management.command(guild_ids=[Config.GUILD_ID], name="declare_winner")
     @commands.has_permissions(administrator=True)
     async def declare_winner(self, ctx, bet_id: str, winner: str):
         """
@@ -372,9 +375,5 @@ class BetsCog(commands.Cog):
         await ctx.send(embed=embed)
 
 
-# Finally, we need to add a setup function so the bot can load this cog
-async def setup(bot):
-    await bot.add_cog(BetsCog(bot))
-
-async def teardown(bot):
-    await bot.remove_cog("BetsCog")
+def setup(bot):
+    bot.add_cog(BetsCog(bot))

@@ -8,8 +8,5 @@ class Ollama(commands.Cog):
         super().__init__()
         self.bot = bot
 
-async def setup(bot):
-    await bot.add_cog(Ollama(bot))
-
-async def teardown(bot):
-    await bot.remove_cog("Ollama")
+def setup(bot):
+    bot.add_cog(Ollama(bot))

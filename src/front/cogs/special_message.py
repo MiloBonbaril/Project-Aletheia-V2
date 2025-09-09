@@ -34,7 +34,8 @@ class special_message(commands.Cog):
         content = msg.content.lower()
         content_without_ponctuation = ''.join(e for e in content if e.isalnum())
         content_without_ponctuation_and_spaces = content_without_ponctuation.replace(" ", "")
-        if content_without_ponctuation_and_spaces.endswith("quoi") or content_without_ponctuation_and_spaces.endswith("koi") or content_without_ponctuation_and_spaces.endswith("qoi"):
+        print(f"Received message: {msg.content} | Processed as: {content_without_ponctuation_and_spaces}")
+        if content_without_ponctuation_and_spaces.endswith("quoi") or content_without_ponctuation_and_spaces.endswith("koi") or content_without_ponctuation_and_spaces.endswith("qoi") or content_without_ponctuation_and_spaces.endswith("qoa") or content_without_ponctuation_and_spaces.endswith("koa") or content_without_ponctuation_and_spaces.endswith("quoa"):
             random.seed(msg.id + msg.created_at.timestamp())
             random_response = ["feur", "https://tenor.com/view/theobabac-feur-meme-theobabac-feur-gif-11339780952727019434", "https://tenor.com/view/feur-meme-gif-24407942", "https://tenor.com/view/quoicoubeh-quoicoube-tiktok-quoi-ok-quoicoubeh-gif-27667316", "coubeh"]
             await msg.channel.send(random.choice(random_response))
@@ -57,8 +58,5 @@ class special_message(commands.Cog):
         except Exception:
             pass
 
-async def setup(bot):
-    await bot.add_cog(special_message(bot))
-
-async def teardown(bot):
-    await bot.remove_cog("special_message")
+def setup(bot):
+    bot.add_cog(special_message(bot))
