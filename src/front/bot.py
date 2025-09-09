@@ -84,6 +84,27 @@ async def reload_cogs(ctx: discord.ApplicationContext):
 
     await ctx.respond("Cogs reload complete: "+" | ".join(notes))
 
+# Commande slash pour recharger un cog précis
+@bot.slash_command(guild_ids=[Config.GUILD_ID], name="reloadcog", description="Reload a specific cog and resync commands")
+@commands.has_permissions(administrator=True)
+async def reload_cog(ctx: discord.ApplicationContext, cog_name: str):
+    if cog_name not in COGS:
+        await ctx.respond(f"Cog {cog_name} is not recognized.")
+        return
+
+    module = f"cogs.{cog_name}"
+    try:
+        bot.reload_extension(module)
+        await ctx.respond(f"Cog {cog_name} reloaded successfully.")
+    except discord.ExtensionNotLoaded:
+        try:
+            bot.load_extension(module)
+            await ctx.respond(f"Cog {cog_name} loaded successfully.")
+        except Exception as e:
+            await ctx.respond(f"Failed to load cog {cog_name}: {e}")
+    except Exception as e:
+        await ctx.respond(f"Failed to reload cog {cog_name}: {e}")
+
 
 # Point d'entrée du bot
 if __name__ == "__main__":
