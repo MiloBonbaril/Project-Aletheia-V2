@@ -4,4 +4,5 @@ pytest>=7.0
 httpx>=0.24
 ollama>=0.3
 py-cord[voice]
+PyNaCl
 python-dotenv>=1.0
