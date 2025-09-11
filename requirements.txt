@@ -3,6 +3,6 @@ uvicorn>=0.25
 pytest>=7.0
 httpx>=0.24
 ollama>=0.3
-py-cord[voice]
+py-cord[voice]==2.7.0rc1
 PyNaCl
 python-dotenv>=1.0

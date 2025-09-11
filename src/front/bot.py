@@ -3,6 +3,7 @@
 import discord
 from discord.ext import commands
 import os
+import logging
 
 # add workspace to sys.path
 import sys
@@ -15,6 +16,18 @@ USER_ID = Config.USER_ID
 
 # Liste centrale des cogs à gérer
 COGS = ["special_message", "voice", "bets", "ollama"]
+
+logger_voice = logging.getLogger('discord.voice_client')
+logger_voice.setLevel(logging.DEBUG)
+handler_voice = logging.FileHandler(filename='discord_voice.log', encoding='utf-8', mode='w')
+handler_voice.setFormatter(logging.Formatter('%(asctime)s:%(levelname)s:%(name)s: %(message)s'))
+logger_voice.addHandler(handler_voice)
+
+logger = logging.getLogger('discord')
+logger.setLevel(logging.INFO)
+handler = logging.FileHandler(filename='discord.log', encoding='utf-8', mode='w')
+handler.setFormatter(logging.Formatter('%(asctime)s:%(levelname)s:%(name)s: %(message)s'))
+logger.addHandler(handler)
 
 # Initialisation du bot
 intents = discord.Intents.all()

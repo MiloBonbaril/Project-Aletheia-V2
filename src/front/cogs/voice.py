@@ -12,29 +12,39 @@ class Voice(commands.Cog):
     channel = voice.create_subgroup("channel", "Voice channel management commands", guild_ids=[Config.GUILD_ID])
 
     @channel.command(guild_ids=[Config.GUILD_ID], name="join")
-    async def join(self, ctx):
+    async def join(self, ctx: discord.ApplicationContext):
         if not ctx.author.voice or not getattr(ctx.author.voice, "channel", None):
-            await ctx.respond("You are not connected to a voice channel")
+            await ctx.respond("Tu n'es pas dans un salon vocal.")
             return
-        channel = ctx.author.voice.channel
-        if ctx.voice_client is not None:
-            await ctx.voice_client.move_to(channel)
-            await ctx.respond(f"Moved to {channel}")
-            return
-        await channel.connect()
-        await ctx.respond(f"Joined {channel}")
-        return
+
+        dest = ctx.author.voice.channel
+        vc = ctx.voice_client
+        try:
+            if vc and vc.is_connected():
+                if vc.channel.id != dest.id:
+                    await vc.move_to(dest)
+                    await ctx.respond(f"Déplacé vers {dest}")
+                else:
+                    await ctx.respond(f"Déjà connecté à {dest}")
+            else:
+                # clé: reconnect=True + timeout explicite
+                await dest.connect(reconnect=True, timeout=30)
+                await ctx.respond(f"Connecté à {dest}")
+        except Exception as e:
+            await ctx.respond(f"Connexion voix impossible : '{e}'")
 
     @channel.command(guild_ids=[Config.GUILD_ID], name="leave")
-    async def leave(self, ctx):
-        vc:discord.voice_client.VoiceClient = ctx.voice_client
-        if vc is None:
-            await ctx.respond("I am not connected to a voice channel")
+    async def leave(self, ctx: discord.ApplicationContext):
+        vc: discord.VoiceClient = ctx.voice_client
+        if not vc:
+            await ctx.respond("Je ne suis pas connecté à un salon vocal.")
             return
-        if vc.is_connected():
-            await vc.disconnect()
-            await ctx.respond("Left voice channel")
-            return
+        try:
+            # clé: force=True pour forcer la fermeture + cleanup interne
+            await vc.disconnect(force=True)
+            await ctx.respond("Déconnecté.")
+        except Exception as e:
+            await ctx.respond(f"Échec de la déconnexion : '{e}'")
 
 def setup(bot):
     bot.add_cog(Voice(bot))
