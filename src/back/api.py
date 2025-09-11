@@ -3,7 +3,7 @@
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from typing import List, Dict, Any, Optional
-from src.back.ollama.client import OllamaClient
+from ollama_interface.client import OllamaClient
 
 app = FastAPI()
 
