@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "project-aletheia-v2"
+version = "0.1.0"
+description = "Unified project config with service-specific extras (front/back)"
+requires-python = ">=3.12"
+license = { text = "Proprietary" }
+authors = [
+  { name = "MiloBonbaril" }
+]
+dependencies = [
+  "python-dotenv>=1.0",
+]
+
+[project.optional-dependencies]
+# Backend API and local model client
+back = [
+  "fastapi>=0.110",
+  "uvicorn>=0.25",
+  "ollama>=0.3",
+]
+
+# Discord bot with voice support
+front = [
+  "py-cord[voice]==2.7.0rc1",
+  "PyNaCl",
+]
+
+# Developer tooling and tests
+dev = [
+  "pytest>=7.0",
+  "httpx>=0.24",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["*"]
