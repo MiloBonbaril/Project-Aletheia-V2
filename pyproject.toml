@@ -35,6 +35,7 @@ front = [
 dev = [
   "pytest>=7.0",
   "httpx>=0.24",
+  "requests>=2.31",
 ]
 
 [tool.setuptools]
