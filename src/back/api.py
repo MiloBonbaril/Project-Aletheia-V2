@@ -125,6 +125,11 @@ def get_ollama_client(clients: InternalClients = Depends(get_clients)) -> Ollama
     return clients.ollama
 
 
+@app.get("/health")
+async def health_check():
+    return {"status": "ok"}
+
+
 @app.get("/models")
 @limiter.limit("60/minute")
 async def list_models(
@@ -182,4 +187,3 @@ async def chat(
     except Exception as exc:
         logger.exception("Chat request failed", extra={"model_name": req.model_name})
         raise HTTPException(status_code=400, detail=str(exc)) from exc
-
