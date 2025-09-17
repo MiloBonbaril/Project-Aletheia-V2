@@ -21,6 +21,8 @@ back = [
   "fastapi>=0.110",
   "uvicorn>=0.25",
   "ollama>=0.3",
+  "httpx>=0.24",
+  "slowapi>=0.1.8",
 ]
 
 # Discord bot with voice support
