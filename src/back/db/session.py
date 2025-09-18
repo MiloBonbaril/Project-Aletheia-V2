@@ -68,6 +68,12 @@ def get_session_factory() -> async_sessionmaker[AsyncSession]:
     return _session_factory
 
 
+def get_engine() -> Optional[AsyncEngine]:
+    """Expose the underlying AsyncEngine if it has been initialised."""
+
+    return _engine
+
+
 @asynccontextmanager
 async def get_session() -> AsyncGenerator[AsyncSession, None]:
     session_factory = get_session_factory()

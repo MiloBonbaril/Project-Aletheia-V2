@@ -26,6 +26,7 @@ back = [
   "sqlalchemy[asyncio]>=2.0",
   "asyncpg>=0.29",
   "alembic>=1.12",
+  "nvidia-ml-py>=12.535.108",
 ]
 
 # Discord bot with voice support

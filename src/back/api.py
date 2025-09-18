@@ -2,11 +2,12 @@
 # FastAPI application for Ollama model interactions with observability and shared middleware
 from __future__ import annotations
 
+import asyncio
 import logging
 import os
 from datetime import datetime
 from uuid import UUID
-from contextlib import asynccontextmanager
+from contextlib import asynccontextmanager, suppress
 from typing import Any, Dict, List, Optional
 
 from fastapi import Depends, FastAPI, HTTPException, Request
@@ -29,6 +30,7 @@ from back.internal_clients import InternalClients, create_internal_clients, shut
 from back.observability import RequestContextMiddleware, configure_logging
 from back.timeout import RequestTimeoutMiddleware
 from back.ollama_interface.client import OllamaClient
+from back.system_metrics import run_metrics_loop
 
 load_dotenv("./back/.env")
 configure_logging()
@@ -61,6 +63,14 @@ def _http_client_timeout() -> float:
         return 10.0
 
 
+def _metrics_interval_seconds() -> float:
+    try:
+        raw = float(os.getenv("BACK_METRICS_INTERVAL", "30"))
+    except ValueError:
+        raw = 30.0
+    return max(5.0, raw)
+
+
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     logger.info("API startup")
@@ -75,8 +85,29 @@ async def lifespan(app: FastAPI):
             http_timeout=_http_client_timeout(),
         )
         app.state.clients = clients
+        app.state.metrics_stop_event = None
+        app.state.metrics_task = None
+        if controller_client.enabled:
+            metrics_stop_event = asyncio.Event()
+            app.state.metrics_stop_event = metrics_stop_event
+            app.state.metrics_task = asyncio.create_task(
+                run_metrics_loop(
+                    controller_client,
+                    interval=_metrics_interval_seconds(),
+                    stop_event=metrics_stop_event,
+                )
+            )
         yield
     finally:
+        metrics_stop_event = getattr(app.state, "metrics_stop_event", None)
+        metrics_task = getattr(app.state, "metrics_task", None)
+        if metrics_stop_event is not None:
+            metrics_stop_event.set()
+        if metrics_task is not None:
+            metrics_task.cancel()
+            with suppress(asyncio.CancelledError):
+                await metrics_task
+
         if clients is not None:
             await shutdown_clients(clients)
         await shutdown_engine()
