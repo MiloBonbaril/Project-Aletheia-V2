@@ -18,20 +18,24 @@ from slowapi import Limiter
 from slowapi.errors import RateLimitExceeded
 from slowapi.middleware import SlowAPIMiddleware
 from slowapi.util import get_remote_address
+from shared import ControllerClient
 from sqlalchemy import select
 from sqlalchemy.ext.asyncio import AsyncSession
+from dotenv import load_dotenv
 
 from back.db import get_session, init_engine, shutdown_engine
 from back.db.models import Stream
-from internal_clients import InternalClients, create_internal_clients, shutdown_clients
-from observability import RequestContextMiddleware, configure_logging
-from timeout import RequestTimeoutMiddleware
-from ollama_interface.client import OllamaClient
+from back.internal_clients import InternalClients, create_internal_clients, shutdown_clients
+from back.observability import RequestContextMiddleware, configure_logging
+from back.timeout import RequestTimeoutMiddleware
+from back.ollama_interface.client import OllamaClient
 
-
+load_dotenv("./back/.env")
 configure_logging()
 logger = logging.getLogger("api.app")
 limiter = Limiter(key_func=get_remote_address, default_limits=["120/minute"])
+
+controller_client = ControllerClient(component="back.api", base_url="http://127.0.0.1:8001", timeout=10.0)
 
 
 def _allowed_origins() -> List[str]:
@@ -60,6 +64,8 @@ def _http_client_timeout() -> float:
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     logger.info("API startup")
+    controller_client.emit_log_nowait("INFO", "API startup")
+    controller_client.emit_metric_nowait({"event": "api_startup"})
     await init_engine()
     clients: InternalClients | None = None
 
@@ -75,6 +81,8 @@ async def lifespan(app: FastAPI):
             await shutdown_clients(clients)
         await shutdown_engine()
         logger.info("API shutdown complete")
+        controller_client.emit_log_nowait("INFO", "API shutdown complete")
+        controller_client.emit_metric_nowait({"event": "api_shutdown"})
 
 
 

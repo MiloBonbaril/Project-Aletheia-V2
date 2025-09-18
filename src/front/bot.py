@@ -9,10 +9,13 @@ import logging
 import sys
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../')))
 from config import Config
+from shared import ControllerClient
 
 # Remplacement des variables dans bot.py par celles de Config
 TOKEN = Config.DISCORD_TOKEN
 USER_ID = Config.USER_ID
+
+controller_client = ControllerClient(component="front.bot")
 
 # Liste centrale des cogs à gérer
 COGS = ["special_message", "voice", "bets", "ollama"]
@@ -49,6 +52,7 @@ async def load_extensions_and_sync():
         try:
             bot.load_extension(f"cogs.{cog}")
             print(f"Cog {cog} loaded successfully.")
+            await controller_client.emit_log("INFO", "Cog loaded", {"cog": cog})
             if user:
                 try:
                     await user.send(f"{cog} is ready")
@@ -56,13 +60,16 @@ async def load_extensions_and_sync():
                     pass
         except Exception as e:
             print(f"Failed to load cog {cog}: {e}")
+            await controller_client.emit_log("ERROR", "Cog load failed", {"cog": cog, "error": str(e)})
 
     # Ensure slash commands from all loaded cogs are registered in Discord
     try:
         await bot.sync_commands()
         print("Slash commands synced.")
+        await controller_client.emit_log("INFO", "Slash commands synced")
     except Exception as e:
         print(f"Failed to sync slash commands: {e}")
+        await controller_client.emit_log("ERROR", "Slash command sync failed", {"error": str(e)})
 
 @bot.event
 async def on_ready():
@@ -71,6 +78,15 @@ async def on_ready():
         user = await bot.fetch_user(USER_ID)
         await load_extensions_and_sync()
         await user.send("Bot is ready")
+        await controller_client.emit_log("INFO", "Bot ready", {"guilds": len(bot.guilds)})
+        latency = getattr(bot, 'latency', None)
+        metrics_payload = {
+            "event": "bot_ready",
+            "guild_count": len(bot.guilds),
+        }
+        if latency is not None:
+            metrics_payload["latency_ms"] = round(latency * 1000, 2)
+        await controller_client.emit_metric(metrics_payload)
     except Exception:
         pass
 
@@ -110,6 +126,9 @@ async def reload_cogs(ctx: discord.ApplicationContext):
         notes.append(f"sync failed: {e}")
 
     await ctx.respond("Cogs reload complete: "+" | ".join(notes))
+    await controller_client.emit_log("INFO", "Reload all cogs", {"notes": notes})
+    failures = sum(1 for note in notes if note.startswith('failed') or note.startswith('sync failed'))
+    await controller_client.emit_metric({"event": "reload_cogs", "total": len(notes), "failures": failures})
 
 # Commande slash pour recharger un cog précis
 @bot.slash_command(guild_ids=[Config.GUILD_ID], name="reloadcog", description="Reload a specific cog and resync commands")
@@ -136,8 +155,10 @@ async def reload_cog(ctx: discord.ApplicationContext, cog_name: str):
     # Re-sync slash commands for the guild
     try:
         await bot.sync_commands()
+        await controller_client.emit_log("INFO", "Reloaded cog", {"cog": cog_name})
     except Exception as e:
         await ctx.respond(f"Warning: commands sync failed: {e}")
+        await controller_client.emit_log("ERROR", "Reload cog sync failed", {"cog": cog_name, "error": str(e)})
 
 class MyHelp(commands.HelpCommand):
     def get_command_signature(self, command):

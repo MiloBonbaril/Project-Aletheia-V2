@@ -11,10 +11,14 @@ from typing import Any, Dict, Optional
 from starlette.middleware.base import BaseHTTPMiddleware
 from starlette.requests import Request
 from starlette.responses import Response
+from shared.controller_client import ControllerClient
 
 REQUEST_ID_HEADER = "X-Request-ID"
 
 request_id_ctx_var: ContextVar[str] = ContextVar("request_id", default="-")
+
+
+CONTROLLER_CLIENT = ControllerClient(component="back.api")
 
 
 class RequestIdFilter(logging.Filter):
@@ -106,6 +110,27 @@ class RequestContextMiddleware(BaseHTTPMiddleware):
                     "duration_ms": round(duration_ms, 2),
                 },
             )
+            CONTROLLER_CLIENT.emit_log_nowait(
+                "ERROR",
+                "Request failed",
+                {
+                    "method": request.method,
+                    "path": request.url.path,
+                    "status_code": 500,
+                    "client_host": request.client.host if request.client else None,
+                    "duration_ms": round(duration_ms, 2),
+                    "request_id": request_id,
+                },
+            )
+            CONTROLLER_CLIENT.emit_metric_nowait(
+                {
+                    "event": "http_request",
+                    "path": request.url.path,
+                    "method": request.method,
+                    "status_code": 500,
+                    "duration_ms": round(duration_ms, 2),
+                }
+            )
             raise
         else:
             duration_ms = (time.perf_counter() - start) * 1000
@@ -119,6 +144,27 @@ class RequestContextMiddleware(BaseHTTPMiddleware):
                     "client_host": request.client.host if request.client else None,
                     "duration_ms": round(duration_ms, 2),
                 },
+            )
+            CONTROLLER_CLIENT.emit_log_nowait(
+                "INFO",
+                "Request completed",
+                {
+                    "method": request.method,
+                    "path": request.url.path,
+                    "status_code": response.status_code,
+                    "client_host": request.client.host if request.client else None,
+                    "duration_ms": round(duration_ms, 2),
+                    "request_id": request_id,
+                },
+            )
+            CONTROLLER_CLIENT.emit_metric_nowait(
+                {
+                    "event": "http_request",
+                    "path": request.url.path,
+                    "method": request.method,
+                    "status_code": response.status_code,
+                    "duration_ms": round(duration_ms, 2),
+                }
             )
             return response
         finally:

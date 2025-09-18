@@ -32,6 +32,7 @@ back = [
 front = [
   "py-cord[voice]==2.7.0rc1",
   "PyNaCl",
+  "httpx>=0.24",
 ]
 
 # Developer tooling and tests
