@@ -23,9 +23,6 @@ back = [
   "ollama>=0.3",
   "httpx>=0.24",
   "slowapi>=0.1.8",
-  "sqlalchemy[asyncio]>=2.0",
-  "asyncpg>=0.29",
-  "alembic>=1.12",
 ]
 
 # Discord bot with voice support

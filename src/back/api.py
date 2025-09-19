@@ -4,8 +4,6 @@ from __future__ import annotations
 
 import logging
 import os
-from datetime import datetime
-from uuid import UUID
 from contextlib import asynccontextmanager
 from typing import Any, Dict, List, Optional
 
@@ -13,16 +11,12 @@ from fastapi import Depends, FastAPI, HTTPException, Request
 from fastapi.concurrency import run_in_threadpool
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
-from pydantic import BaseModel, ConfigDict
+from pydantic import BaseModel
 from slowapi import Limiter
 from slowapi.errors import RateLimitExceeded
 from slowapi.middleware import SlowAPIMiddleware
 from slowapi.util import get_remote_address
-from sqlalchemy import select
-from sqlalchemy.ext.asyncio import AsyncSession
 
-from back.db import get_session, init_engine, shutdown_engine
-from back.db.models import Stream
 from internal_clients import InternalClients, create_internal_clients, shutdown_clients
 from observability import RequestContextMiddleware, configure_logging
 from timeout import RequestTimeoutMiddleware
@@ -60,22 +54,17 @@ def _http_client_timeout() -> float:
 @asynccontextmanager
 async def lifespan(app: FastAPI):
     logger.info("API startup")
-    await init_engine()
-    clients: InternalClients | None = None
+    clients = create_internal_clients(
+        ollama_url=os.getenv("OLLAMA_API_URL"),
+        http_timeout=_http_client_timeout(),
+    )
+    app.state.clients = clients
 
     try:
-        clients = create_internal_clients(
-            ollama_url=os.getenv("OLLAMA_API_URL"),
-            http_timeout=_http_client_timeout(),
-        )
-        app.state.clients = clients
         yield
     finally:
-        if clients is not None:
-            await shutdown_clients(clients)
-        await shutdown_engine()
+        await shutdown_clients(clients)
         logger.info("API shutdown complete")
-
 
 
 app = FastAPI(lifespan=lifespan)
@@ -128,18 +117,6 @@ class ChatRequest(BaseModel):
     options: Optional[Dict[str, Any]] = None
 
 
-class StreamResponse(BaseModel):
-    """Payload minimal pour exposer les streams via l'API."""
-    model_config = ConfigDict(from_attributes=True)
-
-    id: UUID
-    vtuber_name: str
-    title: Optional[str] = None
-    started_at: datetime
-    ended_at: Optional[datetime] = None
-    duration_seconds: Optional[int] = None
-
-
 def get_clients(request: Request) -> InternalClients:
     return request.app.state.clients
 
@@ -160,18 +137,6 @@ async def list_models(
     ollama: OllamaClient = Depends(get_ollama_client),
 ):
     return await run_in_threadpool(ollama.list_models)
-
-
-@app.get("/streams", response_model=List[StreamResponse])
-async def list_streams(
-    limit: int = 20,
-    session: AsyncSession = Depends(get_session),
-):
-    safe_limit = max(1, min(limit, 100))
-    result = await session.execute(
-        select(Stream).order_by(Stream.started_at.desc()).limit(safe_limit)
-    )
-    return result.scalars().all()
 
 
 @app.post("/models/pull")
