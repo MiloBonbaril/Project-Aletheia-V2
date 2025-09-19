@@ -24,6 +24,10 @@ class ChatRequest(BaseModel):
     messages: List[Dict[str, str]]
     options: Optional[Dict[str, Any]] = None
 
+@app.get("/health")
+def health_check():
+    return {"status": "ok"}
+
 @app.get("/models")
 def list_models():
     return client.list_models()
@@ -48,6 +52,6 @@ def warm_model(req: WarmModelRequest):
 def chat(req: ChatRequest):
     try:
         response = client.chat(req.model_name, req.messages, req.options)
-        return {"message": response.message.content}
+        return response
     except Exception as e:
         raise HTTPException(status_code=400, detail=str(e))
