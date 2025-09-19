@@ -5,7 +5,7 @@ from typing import Optional
 
 import httpx
 
-from back.ollama_interface.client import OllamaClient
+from ollama_interface.client import OllamaClient
 
 
 @dataclass
