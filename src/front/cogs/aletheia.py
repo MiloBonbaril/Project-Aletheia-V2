@@ -63,7 +63,8 @@ class Aletheia(commands.Cog):
                     "timestamp": message.created_at.isoformat(),
                     "attachments": [a.url for a in message.attachments],
                     # get the discord stickers too
-                    "stickers": [s.name for s in message.stickers] if message.stickers else []
+                    "stickers": [s.name for s in message.stickers] if message.stickers else [],
+                    "reactions": [{str(reaction.emoji): reaction.count} for reaction in message.reactions]
                 }
                 messages.append(msg_data)
                 self.logger.debug(f"Retrieved message: {msg_data['author']}: {msg_data['content']}")
@@ -72,7 +73,7 @@ class Aletheia(commands.Cog):
             return
 
         # Save messages to a text file
-        filename = f"channel_{channel_id}_data.txt"
+        filename = f"channel_{channel_id}_data.json"
         try:
             with open(filename, "w", encoding="utf-8") as f:
                 json.dump(messages, f, ensure_ascii=False, indent=4)
