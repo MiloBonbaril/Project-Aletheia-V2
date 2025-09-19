@@ -27,10 +27,6 @@ def _env_bool(name: str, default: str = "false") -> bool:
     return os.getenv(name, default).lower() in {"1", "true", "t", "yes", "y"}
 
 
-def _auto_create_schema() -> bool:
-    return _env_bool("DATABASE_AUTO_CREATE", "true")
-
-
 def _build_engine_kwargs() -> dict:
     kwargs: dict = {
         "echo": _env_bool("DATABASE_ECHO"),
@@ -46,7 +42,7 @@ def _build_engine_kwargs() -> dict:
     return kwargs
 
 
-async def init_engine(create_schema: Optional[bool] = None) -> AsyncEngine:
+async def init_engine(create_schema: bool = True) -> AsyncEngine:
     """Initialise la connexion globale SQLAlchemy et optionnellement la base."""
     global _engine, _session_factory
     if _engine is None:
@@ -54,8 +50,7 @@ async def init_engine(create_schema: Optional[bool] = None) -> AsyncEngine:
         _engine = create_async_engine(database_url, **_build_engine_kwargs())
         _session_factory = async_sessionmaker(_engine, expire_on_commit=False)
 
-        should_create = _auto_create_schema() if create_schema is None else create_schema
-        if should_create:
+        if create_schema:
             async with _engine.begin() as conn:
                 await conn.run_sync(Base.metadata.create_all)
 
