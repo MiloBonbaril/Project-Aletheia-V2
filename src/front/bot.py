@@ -45,15 +45,12 @@ async def load_extensions_and_sync():
     except Exception:
         pass
 
+    loaded_cogs = []
     for cog in COGS:
         try:
             bot.load_extension(f"cogs.{cog}")
             print(f"Cog {cog} loaded successfully.")
-            if user:
-                try:
-                    await user.send(f"{cog} is ready")
-                except Exception:
-                    pass
+            loaded_cogs.append(cog)
         except Exception as e:
             print(f"Failed to load cog {cog}: {e}")
 
@@ -61,6 +58,12 @@ async def load_extensions_and_sync():
     try:
         await bot.sync_commands()
         print("Slash commands synced.")
+        if user:
+            try:
+                cog_messages = ", ".join(loaded_cogs) if loaded_cogs else "no cogs"
+                await user.send(f"{cog_messages} are ready")
+            except Exception:
+                pass
     except Exception as e:
         print(f"Failed to sync slash commands: {e}")
 
