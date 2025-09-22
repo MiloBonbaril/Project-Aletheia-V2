@@ -1,0 +1,7 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 126]
+Période: 2025-09-16 à 2025-09-16
+[12:14] 177442452934754304: Le Trombi de salopard
+[12:14] 177442452934754304: Réactions: [😂 x5], [<a:6379_vikingparrot:819704104997748756> x3] Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1417483808189714482/IMG_20250916_141408.jpg?ex=68d1e66b&is=68d094eb&hm=dab55a39f8b605df786d788eb2a3afeea3748f69a199a5cd14b3a4eb50f654d5&]
+"""

@@ -1,0 +1,14 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 72]
+Période: 2025-03-14 à 2025-03-14
+[12:57] 318105451810127872: y'a des gens qui utilisent MyCanal ?
+[12:59] 318105451810127872: Je regarde la F1 et j'ai genre une qualité de merde tah 480p sur PC
+[12:59] 318105451810127872: et sur mon tel j'ai une belle image
+[12:59] 318105451810127872: et je trouve pas pourquoi
+[12:59] 362260685540818944: Att je peux peut être voir
+[13:00] 318105451810127872: Et sur l'app c'est encore pire, j'ai du décalage son image donc je regarde avec Edge
+[13:02] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1350091743676076032/266A4044-FFF5-4110-BA1B-736BF901217E.png?ex=68d1f1ab&is=68d0a02b&hm=d408ea4676546dc106d9f83ee9ab69e9f05601fe8e9029a29e259e6f5a74d690&]
+[18:57] 318105451810127872: https://x.com/Focus_entmt/status/1900226944853004392
+[18:57] 318105451810127872: <@293414992663805952>
+"""

@@ -1,0 +1,22 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 110]
+Période: 2025-07-17 à 2025-07-19
+[21:30] 894963658189332480: Bon les gars, c'est retour au Fc célibat pour moi mdr
+[21:32] 894963658189332480: je devais rencontrer la famille le 2 août mais elle ma quitté mdr Réactions: [<a:f_:1029587734148435988> x8]
+[21:32] 894963658189332480: donc bas retour au source, go pecho des fitgirl avec un gros cul
+[09:37] 306809650802589696: Toi aussi tu va nous faire des streams tinder en légende ?
+[09:39] 362260685540818944: Ptdr c'est bon ils sont assez pour faire une flex
+[12:12] 894963658189332480: non il y a déja assez de gens sur serv x)
+[12:12] 306809650802589696: Ils vont monter la squad du swipe to the right
+[12:13] 894963658189332480: après je me dis que je peux retrouver rapidement parce que demain je vais signer le bail pour ma colocation et on sera 2 hommes 2 femmes donc ça sera du 2v2
+[12:16] 362260685540818944: Le genre de coloc qui ne fini jamais bien
+[12:17] 894963658189332480: en vrai je m'en fou de la colocation j'avais plus que ça pour me loger donc bon je verrai bien mdr
+[16:29] 306809650802589696: le mec va solo 1V2 tu va avoir la mort x)
+[07:43] 894963658189332480: en vrai faut voir a quoi elles ressemblent x)
+[19:33] 362260685540818944: Là je suis fatigué patron
+[19:39] 362260685540818944: Le man de mon groupe qui a créé le repo git qui me met le token api pour la ci dans les variables plutôt que les secrets
+[19:39] 362260685540818944: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1396214860382998620/514643503_600714262684391_4494124455614675274_n.jpg?ex=68d24eab&is=68d0fd2b&hm=a3175b5e35498292b940ee63437ab8838f4fd6673aa155eeae11906f5c1107c6&]
+[19:40] 362260685540818944: ça faisait vraiment 4h que j'étais comme ça devant le pc Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1396215204852797451/514229356_1261090939056975_6084143743848010338_n.jpg?ex=68d24efd&is=68d0fd7d&hm=836faf407533b2155023e9c1c61c47c43a016bc5f93ad664551dd7b12acf3515&]
+[22:16] 362260685540818944: C'est qui lui encore Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1396254342419583059/image.png?ex=68d1cab0&is=68d07930&hm=84ee601046c05f93a0a37ec66120a072529a7d57b5eeca872904d94cdd263ee0&]
+"""

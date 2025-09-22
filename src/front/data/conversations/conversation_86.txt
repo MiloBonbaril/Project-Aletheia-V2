@@ -1,0 +1,6 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 86]
+Période: 2025-04-26 à 2025-04-26
+[18:27] 231502335287754752: <a:PoggersRow:488850025317793805> Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1365756174326300773/-w89wd5.jpg?ex=68d23dce&is=68d0ec4e&hm=f07bcbb6c4b470ad3f4ccf60966600486121a8e1d1cfc7ebd2b93dcbc694ecf9&]
+"""

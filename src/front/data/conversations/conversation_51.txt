@@ -1,0 +1,31 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 51]
+Période: 2024-11-24 à 2024-11-25
+[22:34] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1310373101673906337/image0.jpg?ex=68d1cf0c&is=68d07d8c&hm=13f9c4d69b1ff453f120218347a0a03c6e44c05e0a40ae2c9f7734a0dc4ab72f&]
+[22:34] 318105451810127872: Je tiens à préciser
+[22:35] 318105451810127872: Que ce fils de pute
+[22:35] 318105451810127872: Est certainement à 160 sur la voie rapide pour rentrer chez lui
+[22:36] 293414992663805952: Que 130 hassoul Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1310373528092020836/IMG_1562.jpg?ex=68d1cf72&is=68d07df2&hm=76b6276b98e1a7cc44df2edf2b0d2a867622053595127933f147ca4379a4aed4&]
+[22:36] 293414992663805952: Y a l’autopilot tkt
+[22:44] 318105451810127872: T’es un déchet
+[22:44] 293414992663805952: <:hapy:1216695875644952616>
+[22:50] 733261833993060352: Il m'as fatigué
+[10:01] 265210499627614208: un man déter dans le milieu Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1310545772869058601/image.png?ex=68d1c71d&is=68d0759d&hm=ca2c7f4cf74226efe876bab82a33945bb8c48e100cddca3bbe864ab275c8b051&]
+[10:01] 293414992663805952: damn
+[11:55] 318105451810127872: Alors la question à se poser
+[11:55] 318105451810127872: Comment tu es tombé dessus ?
+[12:25] 265210499627614208: je cherchais des outils d'osint
+[12:25] 265210499627614208: et ce gars figure dans les contributors d'un outil de zinzin
+[12:25] 265210499627614208: donc je pensais qu'il allait avoir  des trucs croustillants, mais par croustillant je n'imaginais pas ça
+[14:06] 265210499627614208: https://dailydarkweb.net/trello-data-breach-exposes-personal-information-of-15-million-customers/
+[14:06] 265210499627614208: 🙃
+[14:07] 293414992663805952: <:wut:1216695984889794570>
+[14:08] 177442452934754304: https://tenor.com/view/mister-v-gif-23137790
+[14:09] 265210499627614208: Ah bah là ouais ça fait beaucoup
+[14:09] 362260685540818944: https://tenor.com/view/la-cite-de-peur-combien-gif-18570725
+[14:09] 265210499627614208: surtout avec ça la semaine dernière
+[14:10] 265210499627614208: https://www.bleepingcomputer.com/news/security/cyberattack-at-french-hospital-exposes-health-data-of-750-000-patients/
+[14:10] 293414992663805952: https://cdn.discordapp.com/attachments/1248973434285723709/1274717790770696263/4x27-ezgif.com-webp-to-gif-converter.gif
+[14:10] 293414992663805952: ff
+"""

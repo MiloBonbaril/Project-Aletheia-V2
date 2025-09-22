@@ -1,0 +1,10 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 36]
+Période: 2024-09-06 à 2024-09-06
+[15:59] 293414992663805952: https://www.twitch.tv/zerator
+[15:59] 293414992663805952: guys 1 minute
+[16:08] 318105451810127872: alors maintenant la vraie question
+[16:08] 318105451810127872: en combien de temps
+[16:08] 318105451810127872: MV va perdre sa voix
+"""

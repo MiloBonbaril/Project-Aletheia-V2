@@ -1,0 +1,71 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 67]
+Période: 2025-02-12 à 2025-02-14
+[22:36] 362260685540818944: https://youtu.be/a_wNFT4j6qI?si=o1odq9JG9WoyBHEl
+[14:22] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1339602564496232531/88431028-825E-41D5-95F4-616DC0BC6360.png?ex=68d2045b&is=68d0b2db&hm=56edf81c2f724d1e87aba1f402c619f1ce06fdc4961b33180e1883f141bc4930&]
+[14:22] 318105451810127872: quel bonheur
+[14:22] 318105451810127872: presque 100fps de moyenne en élevé
+[14:26] 293414992663805952: ?
+[14:26] 293414992663805952: t'as changé un truc ?
+[14:27] 318105451810127872: alors
+[14:27] 318105451810127872: en fait on peut forcer MHWilds à tourner sous DLSS 4
+[14:27] 318105451810127872: le prb c'est qu'on change les dll dans le dossier
+[14:27] 318105451810127872: et que c'est pas forcément légal
+[14:27] 318105451810127872: genre si y'a an anticheat c'est ban
+[14:27] 293414992663805952: <:wut:1216695984889794570>
+[14:28] 318105451810127872: mais ça veut surtout dire que le jeu peut tourner de manière fluide sous une plus petite config
+[15:30] 177442452934754304: "une plus petite config"
+[15:30] 177442452934754304: Chef
+[15:30] 177442452934754304: Tu parles bien du dlss 4?
+[15:31] 177442452934754304: La techno qui n'est dispo UNIQUEMENT sur la série 50XX d'nvidia
+[15:31] 177442452934754304: Plus petite config les khey
+[15:31] 293414992663805952: <:actually:1210328760986116136>
+[15:31] 293414992663805952: en réalité tu peux l'utiliser sur les anciennes cartes
+[15:32] 177442452934754304: En réalité c'est surtout une adaptation mal branlée du dlss 3
+[15:32] 293414992663805952: la seule chose qui est dispo uniquement sur les 50xx, c'est la 'multi frame generation'
+[15:33] 177442452934754304: Au risque de te surprendre
+[15:33] 177442452934754304: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1339620529639915520/image0.jpg?ex=68d21517&is=68d0c397&hm=117fe67883447e5441a29a84503f3beae57881ed2f33e00d5bc4eed0f795afb6&]
+[15:33] 177442452934754304: Même la 4090 n'a pas le dlss 4
+[15:34] 293414992663805952: <@318105451810127872> dis de la merde
+[15:35] 177442452934754304: Il est fort probable que le dlss de MHW soit daubé peu importe la gen
+[15:35] 177442452934754304: Et que 2/3 modifications de dll plus tard, tu fasses mieux
+[15:36] 177442452934754304: Mais quand il a parlé de dlss 4 j'étais léger perplexe quand il a mis "plus petite config" dans la même phrase
+[15:36] 177442452934754304: J'ai un peu parlé en chinois mandarin si tu vois ce que je veux dire
+[15:36] 177442452934754304: No offense <@289796655862251521>
+[16:22] 265210499627614208: 1er exo de cyber
+[16:23] 265210499627614208: j'ai enculé la VM donc j'avais les flags mais les autres pouvaient pas faire la manip xD
+[16:23] 265210499627614208: Oupsi
+[16:23] 177442452934754304: issou de secours
+[16:24] 265210499627614208: Stickers [azerty]
+[16:37] 318105451810127872: 'fin ma bad de ne pas avoir la science infuse et de juste dire ce que tout le monde dit
+[16:37] 318105451810127872: le fait est
+[16:37] 318105451810127872: que en remplaçant les dll du dlss
+[16:37] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1339636630029340756/D9F276AA-8698-43B7-8519-1E536A0A996A.png?ex=68d22415&is=68d0d295&hm=00f7ff6141a5a7d949ccddbfc3f0aa693097fbd6bb2f45144de8989abe51588e&]
+[16:37] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1339636663508533361/4F7CC986-A699-4097-B504-33A1DCAE9051.png?ex=68d2241d&is=68d0d29d&hm=201aaec65459aec3ae1af2919c8562661ca48f22d9437da984a5303c31940aea&]
+[16:38] 318105451810127872: En utilisant AMD FSR 3.1.3
+[16:39] 318105451810127872: dll aussi remplacée
+[16:39] 733261833993060352: Eh frr on s'en branle  tant que le jeu il tourne
+[16:40] 318105451810127872: Bah justement non il tourne pas
+[16:46] 318105451810127872: nvidia DLSS 310.2.1 Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1339638797851299991/781A8AAA-29A2-4414-8A74-2F58A6FDAC51.png?ex=68d2261a&is=68d0d49a&hm=2c7aee6d7cf6fd594eca1ef6316447265dda5105c6f7e630858777e023259c5e&]
+[17:50] 320991311312322560: Flachi a jouer a des jeu avec 3fps pendant 10 ans de sa vie il sait de quoi il parle !
+[17:51] 318105451810127872: WTF pc diff ?
+[10:13] 293414992663805952: https://youtu.be/K4YY3QZcAQU
+[10:13] 293414992663805952: ils ont pété un putain de cable
+[10:13] 293414992663805952: <@306809650802589707>
+[10:13] 306809650802589696: J’ai vu
+[10:14] 306809650802589696: J’ai bander
+[10:14] 306809650802589696: Je vais jouer
+[10:14] 306809650802589696: Je vais tester
+[10:14] 306809650802589696: Je vais être déçu
+[10:14] 306809650802589696: Je connais la chanson
+[10:14] 293414992663805952: en vrai le retour de la tourelle niv3 de torbjorn me met bcp trop bien
+[10:14] 306809650802589696: J’ai juste pas la date de sorti
+[10:15] 293414992663805952: quand la prochaine saison sort
+[10:18] 306809650802589696: Faudra tester, t’es chaud ?
+[10:18] 306809650802589696: Ressortir les genji mechanics
+[10:18] 293414992663805952: mouai, on peut se chopper une petite team de 5 en plus
+[10:18] 306809650802589696: Nice
+[10:57] 733261833993060352: OMG je pourrais donc jouer aux jeux
+[16:45] 894963658189332480: je peut être compter dedans ?
+"""

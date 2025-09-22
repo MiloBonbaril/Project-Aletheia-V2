@@ -1,0 +1,74 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 106]
+Période: 2025-06-25 à 2025-06-27
+[21:25] 362260685540818944: https://www.youtube.com/watch?v=2zhqLMrhCxQ&list=RD2zhqLMrhCxQ&start_radio=1
+[21:28] 177442452934754304: Damn
+[08:37] 177442452934754304: casual thursday morning Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1387713254851084349/image.png?ex=68d25c2e&is=68d10aae&hm=9b42aed790fbca01b150ce8123ee83ab971db4dd1dbfe8b0da9e60f3bbc06201&]
+[08:57] 733261833993060352: Et dans 2h flo se réveille pour les rejoindres
+[08:58] 177442452934754304: 4**
+[08:58] 733261833993060352: My bad
+[08:59] 177442452934754304: il n'est **QUE** 11h
+[09:29] 362260685540818944: wtf le man est déjà là
+[09:32] 733261833993060352: Damn
+[10:04] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1387735310368116776/image.png?ex=68d1c7f8&is=68d07678&hm=e614bbeae0a257d2143d15e815500e97c8112a42b1d9582e6d73835231451dca&]
+[10:04] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1387735339539370024/image.png?ex=68d1c7ff&is=68d0767f&hm=b3772ab0b22a1b9c2a49b198207c6b5da1e1ba2c5a92e5763db728de509c2e05&]
+[10:55] 318105451810127872: 'fin j'avais pas vu, les gars, vous voulez vous faire des ronds facile, pariez sur le fait que je me lève à telle ou telle heure
+[10:55] 318105451810127872: par contre, vraie raison de pourquoi je me suis levé aussi tôt
+[10:55] 318105451810127872: y'a une vla la zebi la mouche qui s'était prise dans une toile d'araignée et elle faisait un bruit de batard
+[11:24] 362260685540818944: Voilà donc les journées de taff d'ethan Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1387755342481461448/image.png?ex=68d1daa0&is=68d08920&hm=c2e2e144e2c024105b9f2ff5bec354ca033a2b101c7640227c4cf8dc46fe3303&]
+[11:26] 362260685540818944: Fillion avait au moins l'intelligence d'essayer de cacher ses emplois fictifs
+[11:55] 733261833993060352: Si Ethan bossait ça se saurait
+[12:38] 362260685540818944: Eh gros sayer le projet d'entreprise qui fonctionne grâce à la seule volonté de Maven. Si tu fais pas tes 4 prières avant de compiler il te chie à la gueule. J'ai des flashback tah les projets graphiques CSFML où il fallait recompiler 12 fois . Je cite mon maitre d'alternance: "Ouais il est un peu capricieux maven par moment", frère je code ou je suis en cellule psy sa grande tante la gnome
+[13:30] 177442452934754304: <:nez:415921564840755201>
+[14:04] 257130155720441856: tu cites le "dieu du Java" de sa propre nomination
+[14:08] 362260685540818944: Allez on va réciter les écrits de james gosling
+[14:08] 362260685540818944: avant chaque compilation
+[14:11] 362260685540818944: ```
+The Better Way is Here Now.
+Now there is a better way—it’s the Java™ programming language environment
+(“Java” for short) from Sun Microsystems. Imagine, if you will, this
+development world…
+• Your programming language is object oriented, yet it’s still dead simple.
+• Your development cycle is much faster because Java is interpreted. The
+compile-link-load-test-crash-debug cycle is obsolete—now you just compile
+and run.
+• Your applications are portable across multiple platforms. Write your
+applications once, and you never need to port them—they will run without
+modification on multiple operating systems and hardware architectures.
+• Your applications are robust because the Java run-time system manages
+memory for you.
+• Your interactive graphical applications have high performance because
+multiple concurrent threads of activity in your application are supported by
+the multithreading built into Java environment.
+• Your applications are adaptable to changing environments because you can
+dynamically download code modules from anywhere on the network.
+• Your end users can trust that your applications are secure, even though
+they’re downloading code from all over the Internet; the Java run-time
+system has built-in protection against viruses and tampering.
+You don’t need to dream about these features. They’re here now. The Java
+Programming Language Environment provides a portable, interpreted, high-
+performance, simple, object-oriented programming language and supporting run-
+time environment.```
+[14:11] 362260685540818944: Amen 🙏
+[15:03] 177442452934754304: BISMILLAH
+[15:04] 362260685540818944: https://media.discordapp.net/attachments/772140977921982474/1194352326291501066/image0.gif
+[15:13] 177442452934754304: https://tenor.com/view/islamic-dance-remix-gif-7233363
+[17:32] 362260685540818944: Oh je sens que la soirée va être longue, un man dans mon groupe qui arrive pas à lancer un script python
+[17:35] 265210499627614208: J'ai commis un pêcher capital
+[17:35] 265210499627614208: J'ai repris wow...
+[17:38] 362260685540818944: https://tenor.com/view/lovyyn-tu-vas-aller-en-enfer-go-to-hell-threat-menace-gif-23716182
+[17:42] 310709886121934848: mais nan
+[17:43] 310709886121934848: j'y pense aussi à reprendre
+[17:49] 362260685540818944: Non non là t'as vraiment le fou du bus
+[20:09] 177442452934754304: Je l'avais call seconde une... Je pensais pas que tu tiendrais aussi longtemps sans prendre ta daily dose de drogue dure mais finally tu y est retourné
+[20:10] 265210499627614208: MAIS
+[20:10] 265210499627614208: pas de raid
+[20:11] 177442452934754304: Super ! On fais une aventure wow classic hardcore?
+[20:11] 265210499627614208: Non
+[20:11] 177442452934754304: <:nez:415921564840755201>
+[21:03] 318105451810127872: Demain rdv chez <@733261833993060362> sa daronne elle fait des cookies
+[16:34] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1388195770922172458/IMG_2936.png?ex=68d2234f&is=68d0d1cf&hm=45d02e51651d249b2d0060b058ea1f120d06a573a0e1b6520843e5eda462dbd3&]
+[16:35] 310709886121934848: qui a dis que je voulais t'appeler lundi ?
+[16:35] 733261833993060352: On va s'occuper de ton cas mon copain
+"""

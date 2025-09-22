@@ -1,0 +1,18 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 82]
+Période: 2025-04-06 à 2025-04-06
+[18:56] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1358515623033966632/IMG_2643.jpg?ex=68d24484&is=68d0f304&hm=ce6c2f0933dfdb94274fa4c3dd9f5f353476d75d64aef9675dbdc7b9a37968ae&]
+[18:56] 318105451810127872: Du miel pour les papilles
+[21:02] 310709886121934848: qu'est ce que c'est que cette merde
+[21:06] 362260685540818944: Je sais que c'est bon
+[21:06] 362260685540818944: Mais vasi
+[21:06] 362260685540818944: y'a 0 effort sur la photo
+[21:06] 318105451810127872: alors
+[21:07] 293414992663805952: réel
+[21:07] 310709886121934848: réel
+[21:07] 318105451810127872: la photo tire la gueule parce que y'avait pas de lumière
+[21:07] 318105451810127872: mais c'était un giga bbq là
+[21:17] 177442452934754304: l'homme qui découvre son flash en 2025
+[21:18] 177442452934754304: <:blunder:1133740295729717350>
+"""

@@ -1,0 +1,20 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 75]
+Période: 2025-03-20 à 2025-03-20
+[11:59] 293414992663805952: https://youtube.com/shorts/ibF4sNq9jbY?si=mbqZKV6WHpX3LeS8
+[11:59] 293414992663805952: Pov <@318105451810127872>
+[15:15] 471793126873497600: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1352299598713983056/IMG_0200.jpg?ex=68d210e4&is=68d0bf64&hm=910ac6b297fe6414e20484e307c582eaa64d929e4c7018f24003174692aa71d4&]
+[15:24] 177442452934754304: Santé
+[15:31] 362260685540818944: Pas de Ricard à l'horizon on a l'air de bien s'emmerder là bas quand même Réactions: [🗣️ x1]
+[15:38] 177442452934754304: MEME PAS UN PERROQUET
+[15:47] 318105451810127872: Y’a du foie gras
+[15:49] 362260685540818944: Mouais
+[15:49] 362260685540818944: Le foie gras en question
+[15:53] 318105451810127872: J’avoue que
+[15:53] 318105451810127872: Le foie gras il est pas aromatisé
+[15:53] 318105451810127872: Ni au porto ni au cognac
+[16:03] 362260685540818944: Armagnac* stp, on est landais ici
+[16:08] 318105451810127872: Armagnac mb
+[16:09] 318105451810127872: C’est moi qui confond
+"""

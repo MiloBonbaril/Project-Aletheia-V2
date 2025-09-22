@@ -1,0 +1,19 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 68]
+Période: 2025-02-16 à 2025-02-16
+[02:22] 293414992663805952: Nouveau PB: 200km/h (GPS: waze) 206cc
+[09:32] 733261833993060352: Nan mais fin c'est sad
+[09:59] 345687789146341376: <@293414992663805952> <@306809650802589707> <@733261833993060362> <@318105451810127872> <@310709886121934850> 
+
+on commence quand ce jdr je peux quasi tous les soirs dites moi un truc qu'on le pose ce truc là
+[10:00] 306809650802589696: Pas dispo les mardi soir et les vendredis soi après c’est good pour moi
+[10:04] 733261833993060352: Quel JDR ?
+[10:05] 345687789146341376: ché pa regarde tes mps gros cochon
+[10:06] 733261833993060352: He frr jsp j'ai oublié
+[10:07] 345687789146341376: j'avais compris tout seul ça
+[10:07] 345687789146341376: xD
+[11:57] 318105451810127872: Déjà pas les mercredis, on a séance avec Ethan
+[20:24] 362260685540818944: Eh gros sayer le seul connard qui ronfle dans tous le train il est à côté de moi
+[20:27] 293414992663805952: https://tenor.com/view/oh-la-boulette-as-de-la-jungle-roger-roger-le-jardinier-gif-11065058356198134565
+"""

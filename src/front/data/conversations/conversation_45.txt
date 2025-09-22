@@ -1,0 +1,35 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 45]
+Période: 2024-10-17 à 2024-10-17
+[14:52] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1296485877316321290/image.png?ex=68d20b50&is=68d0b9d0&hm=5ae53be38ea52352ddc9176a4680938c520e2ae19e3bb62515caa086df79b349&]
+[14:52] 318105451810127872: <@293414992663805952> un avis sur la botlane du seigneur ?
+[14:52] 318105451810127872: Senna ADC Lee support
+[14:52] 293414992663805952: 👍
+[14:53] 318105451810127872: 63% de WR sur 8 games pour le moment
+[14:56] 293414992663805952: moi tout ce que je vois, c'est un lee sin pas très solide sur les appui
+[14:56] 293414992663805952: pk build leta
+[14:56] 318105451810127872: tu vois très mal
+[14:56] 318105451810127872: ce lee sin est plus que solide
+[14:57] 293414992663805952: je trouve mon braum meilleur Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1296487358195175424/image.png?ex=68d20cb1&is=68d0bb31&hm=a1b233359e5df3cbea574da5cd1137ac9fe05e498c3b02e82a944ed45a11bd43&]
+[14:58] 362260685540818944: la fragilité de cette botlane ptn
+[14:59] 318105451810127872: Le braum de matthew reste mieux
+[14:59] 293414992663805952: Stickers [ImGonnaSayN]
+[14:59] 318105451810127872: Et puis
+[14:59] 318105451810127872: il n'y a pas le fluide entre nous deux Ethan
+[14:59] 293414992663805952: mais bébou
+[15:00] 293414992663805952: mon rammus support ne t'avais pas plu ?
+[15:00] 293414992663805952: https://tenor.com/view/rammus-league-of-legends-pet-pet-oet-rammuslol-gif-19649617
+[15:00] 318105451810127872: Matthew et moi on est tout rempli de flux
+[15:01] 293414992663805952: <@733261833993060362> un avis sur mon braum ?
+[15:01] 293414992663805952: (il va dire que le sien est mieux)
+[15:04] 362260685540818944: Ouais on a compris que tu prenais dans le petit
+[15:06] 293414992663805952: le man a pecho matthew
+[15:13] 733261833993060352: Tu le dis tout seul
+[15:32] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1296496149217411156/image.png?ex=68d214e1&is=68d0c361&hm=a3e298acd9d6b5ffba95104f1cab84f4347f13542e4241c0be3abe4da8010c4b&]
+[15:33] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1296496195652554823/image.png?ex=68d214ec&is=68d0c36c&hm=26d8bde20b2e15512b8533f184e846378bca5e6d3fd0f4b5a3b515cd2fa41ec2&]
+[15:33] 318105451810127872: ce lee sin est tout sauf weak
+[15:33] 318105451810127872: la kaisa était plat
+[15:33] 318105451810127872: elle venait en lane, elle repartait instant
+[17:29] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1296525544569045105/image.png?ex=68d23042&is=68d0dec2&hm=22ec6b0d2742ae49e3706ac69ec78a5a416edecd9e887274da4f57b5440b99b8&]
+"""

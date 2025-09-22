@@ -1,0 +1,11 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 113]
+Période: 2025-08-01 à 2025-08-01
+[07:02] 306809650802589696: J’arrive la matin chill au taf je vois y’a personne c’est bizarre, je Check la conv d’équipe, le chef avait annoncé hier à 23h télétravail pour tout le monde
+[07:02] 306809650802589696: Envie de canner
+[10:02] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1400780612922638407/IMG_3077.png?ex=68d1c75b&is=68d075db&hm=124045cd1ade5cf6e7162b8d8733bd912d39a11eb8ae517f013e34c053ebf1c8&]
+[10:15] 471793126873497600: Le message a été lu en plus
+[10:18] 318105451810127872: BAHAHHAH j’avais pas vu mdr
+[10:18] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1400784698858278932/IMG_3074.png?ex=68d1cb29&is=68d079a9&hm=4361b074586573d6dd3a5367ced750c3fa56e70a0fc4c9ca45bbf2edde14c901&]
+"""

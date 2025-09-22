@@ -1,0 +1,7 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 53]
+Période: 2024-11-30 à 2024-11-30
+[10:07] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1312359367458422867/image0.jpg?ex=68d1c8a7&is=68d07727&hm=0e5d68ef2fd62f5e2e8d77c378760c774a3ec5b90b18ccb9205a714e243449fd&]
+[10:07] 318105451810127872: Depuis quand Facebook c’est tinder ?
+"""

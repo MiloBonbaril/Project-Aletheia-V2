@@ -1,0 +1,11 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 59]
+Période: 2024-12-29 à 2024-12-30
+[14:37] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1322936533979889805/IMG_2207.png?ex=68d207e8&is=68d0b668&hm=54d51b1923339df8db4db91d72e1dbbb8223488615a94c9c6727f0553025219a&]
+[14:37] 318105451810127872: <@600318773383397399>
+[14:53] 362260685540818944: 🤡 Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1322940677268574218/Screenshot_2024-12-29-15-53-37-066-edit_com.vsct.vsc.mobile.horaireetresa.android.jpg?ex=68d20bc4&is=68d0ba44&hm=0af64d710fa6626353ba121a659fe4453ef84fee07814f4246dfda22e301cfa8&]
+[10:40] 362260685540818944: omg un nouveau chomeur débarque dans le game Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1323239178875572345/image.png?ex=68d1d044&is=68d07ec4&hm=d1b5bfbcf34920170f9e014d6ede8b67f6ee0061fe48854ce1df49cf191d742e&]
+[10:40] 289796655862251520: j'attends un fils de pute qui me dis omw puis att et qui afk
+[20:45] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1323391633307467807/IMG_2226.png?ex=68d25e40&is=68d10cc0&hm=8369b732606289a9b766841d850fe8f2054c8e45573f30b93dcd6e579b2e8a2e&]
+"""

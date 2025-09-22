@@ -1,0 +1,21 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 24]
+Période: 2024-07-27 à 2024-07-28
+[19:47] 362260685540818944: https://www.youtube.com/watch?v=cJowjYixfEs
+
+ptn en faite on a raté le meilleur moment de la cérémonie hier soir
+[19:47] 362260685540818944: C'est quoi cette dingz
+[19:48] 293414992663805952: bah oui
+[19:48] 293414992663805952: le monde ne parle que de ça XD
+[19:08] 318105451810127872: Oskour
+[19:09] 318105451810127872: C’est le compte BK de mon père
+[19:09] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1267197175201267793/IMG_1770.jpg?ex=68d24795&is=68d0f615&hm=ecb009eaa7fbaf3a09c28a48ec1c7ed72a5dc972e5f8babeeed09f98767f684e&]
+[19:09] 318105451810127872: Et là on vient d’en rajouter 123
+[20:45] 318105451810127872: J'ai descendu mon setup chez mes darons
+[20:45] 318105451810127872: j'ai rammené ma tour
+[20:45] 318105451810127872: mon clavier
+[20:45] 318105451810127872: mon casque
+[20:45] 318105451810127872: mon micro
+[20:46] 318105451810127872: qui a oublié le cable du micro <:hapy:1216695875644952616>
+"""
