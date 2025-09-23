@@ -1,0 +1,35 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 237]
+Période: 2025-02-24 à 2025-02-25
+[22:25] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1343710398821564548/PXL_20241110_132844043.png?ex=68d1ccd4&is=68d07b54&hm=938441b7df5e9a06e046552db4a656f196201ef9105ce2aa487a36163a41fd6c&]
+[22:26] 306809650802589696: https://www.leboncoin.fr/ad/motos/2942380947
+[00:10] 318105451810127872: Oh je vais hurler
+[00:11] 318105451810127872: Mais si fort
+[00:11] 318105451810127872: Sur Tinder
+[00:11] 318105451810127872: J’ai eu un nouveau like
+[00:11] 318105451810127872: J’me dis chouette
+[00:11] 318105451810127872: Une meuf vla fond de la classe
+[00:11] 318105451810127872: Vla pas un chico droit
+[00:11] 318105451810127872: Swipe gauche
+[00:11] 318105451810127872: “Vous passez à côté d’un match”
+[02:09] 289796655862251520: n'oublie pas que tu es un mec sur tinder
+[02:10] 471793126873497600: Ah relou mais tkt tu retomberas dessus
+[02:12] 289796655862251520: je pense que le ratio mec/meuf est encore plus biaisé qu'à tek
+[04:52] 471793126873497600: Oui c’est ultra biaisé mais c’est fait exprès
+[15:28] 345687789146341376: mes petits chomeurs ça va? Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1343967746366640219/image.png?ex=68d213c0&is=68d0c240&hm=b68c74c593bb8e3977e068b21159e24aee385436f7746c5125e285255f330fd4&]
+[15:35] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1343969621388034181/image0.jpg?ex=68d2157f&is=68d0c3ff&hm=4d9a5924a4b7965399ef86a9d31a68937b9bdf793154a3c50d4824fed5bbf8c6&]
+[15:35] 318105451810127872: Sir Stormrazor m’a répondu 🫣
+[15:38] 733261833993060352: C'est qui ?
+[15:38] 362260685540818944: Flo' il nous présente 1 random par jour
+[15:39] 318105451810127872: https://www.instagram.com/stormrazorlol?igsh=NjZiNXYzcmx2bDVi
+[15:47] 471793126873497600: Je suis en repos donc ouais oklm
+[15:50] 345687789146341376: ah mais vraiment c'est inouïe
+[15:50] 345687789146341376: hassoul alors
+[16:52] 471793126873497600: ouais
+[17:00] 293414992663805952: https://youtu.be/c6Oc8Dh4K08
+[17:00] 293414992663805952: résumé: le jeu est trop simple par rapport aux anciens jeux, mais le jeu est cool
+[17:00] 293414992663805952: et ils ont mis 8/10
+[17:10] 362260685540818944: Ouais bon
+[17:11] 362260685540818944: Super ils ont trouvé le tuto facile
+"""

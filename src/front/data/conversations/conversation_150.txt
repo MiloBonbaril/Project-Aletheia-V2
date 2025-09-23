@@ -1,0 +1,22 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 150]
+Période: 2024-10-20 à 2024-10-20
+[12:24] 318105451810127872: ??? Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1297535947168022589/image.png?ex=68d1e8c4&is=68d09744&hm=a6e7d841314acf9dd96b41e7165d5550f08866bae90492cedc2b21773f77ad90&]
+[12:49] 293414992663805952: ui
+[12:51] 293414992663805952: ils sont maintenant reconnu par le ministère de l'éducation
+[12:51] 293414992663805952: du coup ils ont des exams en plus
+[12:51] 293414992663805952: et les admissions uniquement par parcoursup
+[12:51] 318105451810127872: donc
+[12:51] 318105451810127872: premier tri par PS
+[12:51] 318105451810127872: encore un tri par la piscine
+[12:51] 293414992663805952: ui
+[12:52] 318105451810127872: ils vont avoir des promos de 4 mdr
+[12:52] 293414992663805952: c'est déjà le cas btw
+[12:52] 318105451810127872: sah ?
+[12:52] 318105451810127872: ils sont combien en tek1 ?
+[12:52] 293414992663805952: toute la promo de tek 1 tiens dans la 2.1
+[12:52] 293414992663805952: ils sont genre 40-50
+[16:21] 231502335287754752: Ils etaient deja 50 l'année dernière
+[16:28] 231502335287754752: Le downfall de tek
+"""

@@ -1,0 +1,10 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 211]
+Période: 2025-01-22 à 2025-01-22
+[11:25] 318105451810127872: Fin
+[11:25] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1331585478402510868/IMG_2333.jpg?ex=68d1dadd&is=68d0895d&hm=d054ab86699ef3db3883532174a2c5303cd02517c879458cc0b01331365d4270&]
+[11:25] 318105451810127872: Elle est longue son offre Halloween
+[11:55] 306809650802589696: les fréro je suis tomber sur un génie de prof, contexte : 
+Cours d'administration AD. Le prof nous dit n'installer pas windows server en CLI parceque les ligne de command c'est chiant, tout ça pour nous faire créer des compte AD en ligne de command dans powershell alors que l'interface graphique fonctionne bien hein
+"""

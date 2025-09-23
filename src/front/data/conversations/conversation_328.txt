@@ -1,0 +1,7 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 328]
+Période: 2025-07-27 à 2025-07-27
+[20:55] 289796655862251520: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1399133201389064274/image.png?ex=68d26095&is=68d10f15&hm=d72593ab1e313b82278b90d9dd32f07740056d4b51bdb2e16a1c697d77adfa39&]
+[20:56] 289796655862251520: j'ai un peu de retard
+"""

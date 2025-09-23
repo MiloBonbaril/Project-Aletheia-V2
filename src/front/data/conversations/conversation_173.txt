@@ -1,0 +1,8 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 173]
+Période: 2024-11-23 à 2024-11-23
+[18:17] 265210499627614208: L'envergure de mon calendrier
+[18:17] 265210499627614208: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1309945949082095687/20241123_190641.jpg?ex=68d23b7b&is=68d0e9fb&hm=c764a0a66784ebf97b780a19bbfbf7fda9b80631f3dcc9618619fad83b2589e1&]
+[18:18] 231502335287754752: Si tu me l'envoi maintenant il arrivera a temps pour le 1er décembre  ^^ Réactions: [<:kekw:917151549355077663> x2]
+"""

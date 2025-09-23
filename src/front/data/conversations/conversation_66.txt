@@ -1,48 +1,30 @@
 Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
 """
 [Conversation 66]
-Période: 2025-02-10 à 2025-02-11
-[14:26] 318105451810127872: 'fin
-[14:27] 318105451810127872: va falloir que je me refasse une config entière en fait
-[14:27] 318105451810127872: j'ai fais ni le bon choix de CPU ni de GPU
-[14:27] 293414992663805952: Bah oui
-[14:27] 293414992663805952: T’es con
-[14:27] 293414992663805952: Normal aussi
-[14:28] 362260685540818944: Après t'as joué sur la version pas optimisé sur la beta
-[14:28] 318105451810127872: mais même en général
-[14:28] 318105451810127872: mon proco se prend une torpille par tous les autres
-[14:29] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1338517108924874815/images.png?ex=68d205f3&is=68d0b473&hm=63191334030910380646fe52ae588da34742adbd21f91eefa92af67152c4340f&]
-[14:29] 318105451810127872: mon cpu en question
-[14:29] 310709886121934848: t'as quoi comme cpu
-[14:29] 318105451810127872: Ryzen 7 5800x
-[14:30] 318105451810127872: je check des bench comparatifs
-[14:30] 318105451810127872: c'est presque unanime
-[14:30] 318105451810127872: 50fps de moins qu'un 5700 X3D
-[14:32] 293414992663805952: Question
-[14:33] 293414992663805952: Pourquoi tu ne regardes pas les bench AVANT ?
-[14:33] 293414992663805952: Nan parce que c’est un peu le principe d’un bench
-[14:34] 318105451810127872: pitetre parce que j'ai fait l'erreur de trust des gens
-[14:34] 293414992663805952: ´fin
-[14:34] 293414992663805952: Déjà tu connais des gens
-[14:34] 293414992663805952: Après tu côtoies des gens cons
-[14:34] 293414992663805952: Et après tu ne vérifies pas mes dires
-[14:35] 293414992663805952: Y a un moment c’est sûr que ça va mal se passer
-[14:36] 318105451810127872: y'a que ma ram qui va bien lmao
-[14:45] 362260685540818944: Des bonnes rames dans une barque trouée ça marche pas vla bien
-[14:45] 362260685540818944: *Beyou - 2025*
-[14:46] 362260685540818944: à méditer
-[14:46] 293414992663805952: https://tenor.com/view/sardoch-sardoche-filosof-philosophe-philo-gif-24226685
-[14:56] 318105451810127872: ça fait réchléfir
-[15:19] 265210499627614208: j'avais le meme proco que toi et j'ai upgrade avec le X3D et je confirme que la diff est violente
-[09:53] 318105451810127872: https://vm.tiktok.com/ZNeowrcx3/
-[09:53] 318105451810127872: Fin
-[09:54] 318105451810127872: Faut aller se faire foutre mdr
-[13:01] 318105451810127872: https://x.com/monsterhunter/status/1888907040879485237/photo/1
-[13:50] 310709886121934848: il l'avait pas annoncé hier ?
-[13:50] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1338869724322201661/image.png?ex=68d1fcd9&is=68d0ab59&hm=98df599630ce1f890a814a54ee08439c3a98e955ac5ab79ea76c7e54191d104c&]
-[13:51] 310709886121934848: ah oui my bad j'ai pas lu
-[13:51] 293414992663805952: https://tenor.com/view/belle-engin-evangelion-gif-3432679606910286085
-[13:51] 310709886121934848: https://tenor.com/view/palu-machu-pas-lu-j%27ai-pas-lu-osef-gepalu-gif-3761676826778835718
-[17:17] 318105451810127872: https://x.com/monsterhunter/status/1889359179187396812
-[18:19] 318105451810127872: Réactions: [👍 x1] Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1338937395084525568/Gje2-nubUAMFF7B.png?ex=68d23bdf&is=68d0ea5f&hm=baba6438c102b14a5065e1491a62a5645f45b8038ccf7ee816234e59cf02d6b9&]
+Période: 2024-06-07 à 2024-06-07
+[11:19] 318105451810127872: 10 lettres
+[11:19] 318105451810127872: 1 mot
+[11:19] 318105451810127872: STARFALLAH
+[11:20] 318105451810127872: https://x.com/RadioGenoa/status/1798900915505967305
+[11:24] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1248598477064110141/image.png?ex=68d1dab2&is=68d08932&hm=649b843f96a75e708195c59b70f32168da14263894f3a71dfe6e224d43667f89&]
+[11:24] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1248598531950772225/image.png?ex=68d1dabf&is=68d0893f&hm=83ec9696bf0df7fed2e557d8c8ae17042a44903a461d5763538c0f7e7307193e&]
+[11:24] 318105451810127872: https://tenor.com/view/je-suis-content-maskey-gif-21162757
+[11:54] 293414992663805952: Ptn la meme gorlock que j’ai au taf
+[11:58] 318105451810127872: je la préfère toujours à miss Allemagne
+[12:00] 318105451810127872: au moins elle ça se voit qu'elle est du pays
+[12:00] 318105451810127872: <:mmmyes:1216696107657203722>
+[12:22] 265210499627614208: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1248612951762538557/image.png?ex=68d1e82d&is=68d096ad&hm=9e9cc26d24f6dbad7cd271ee54f8b35cac4b1da9db87f8857dd970b7e10bdea9&]
+[12:22] 265210499627614208: Stickers [GardonOfJudgement]
+[12:26] 318105451810127872: alors
+[12:26] 318105451810127872: je peux tout expliquer
+[12:30] 318105451810127872: j'ai eu l'argent de ma switch et la sécu doit me rembourser
+[15:21] 293414992663805952: J’ai l’impression que tu dépenses tout le temps
+[15:22] 293414992663805952: Where investissement ?
+[15:27] 177442452934754304: quitte a avoir une vie de merde d'ici 15/20 ans autant ne pas investir et profiter tant que c'est encore possible
+[15:27] 177442452934754304: https://tenor.com/view/palmashow-bruant-bruantax-bruantinho-caffaffa-gif-20047396
+[15:37] 362260685540818944: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1248662125388234782/IMG_6399.png?ex=68d215f9&is=68d0c479&hm=980217fb1336082e7659d921d9e0597d453965bf486ce00caefa517e9aff7c8c&]
+[15:50] 289796655862251520: je viens de découvrir que y'a un tournoi de gaming interbibliothèque à Bordeaux
+[15:51] 289796655862251520: et les jeux en liste c'est Rocket league et Overcooked
+[22:41] 265210499627614208: <@362260685540818944> https://www.youtube.com/shorts/1hbfFvPLfro?feature=share
+[22:41] 265210499627614208: ohlbatar
 """

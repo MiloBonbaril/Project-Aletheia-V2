@@ -1,0 +1,57 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 157]
+Période: 2024-10-29 à 2024-10-30
+[10:29] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1300768445771546644/image0.jpg?ex=68d1cdc4&is=68d07c44&hm=9be4f42a2e3756704c56f098014766f31ebaddd20ddab6b394eb699232d69cba&]
+[10:29] 293414992663805952: <a:q_pepeblushytips:737817891751067779>
+[10:29] 318105451810127872: <:12moche:1298985639424954483>
+[10:57] 306809650802589696: Je suis officiellement le dev le plus Pipo de l’histoire Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1300775608879550514/IMG_1535.png?ex=68d1d470&is=68d082f0&hm=c4df9b147796b467d981bbcc4d570f1484d2e7648f386a850b50a2a5d7144864&]
+[10:58] 306809650802589696: J’ai jamais taper une seul ligne de code même pas un hello world et on me qualifie de dev dans mon diplôme
+[11:01] 293414992663805952: Fait gaffes y a moi dans la course
+[11:03] 306809650802589696: Même toi tu a fait plus que moi, 
+Mon palmarès de dev c’est une applis en C qui reproduit teams fait en full chat GPT donc bon
+[11:03] 306809650802589696: Même pas sécurisé
+[14:07] 293414992663805952: palmarès de la journée: faire 1 commentaire jira
+[14:07] 293414992663805952: psartek
+[14:08] 231502335287754752: Ca va tu te touches pas trop les couilles
+[14:09] 293414992663805952: ah et j'ai oublié 1 réunion ou j'ai juste dit bonjour et aurevoir
+[14:09] 293414992663805952: <:7thumbsUp:581980200758411305>
+[14:09] 231502335287754752: Where do i sign up
+[14:10] 293414992663805952: arkea (cmso et cmb)
+[14:11] 293414992663805952: tout ce qu'on fait, c'est des réunions pour prévoir de taffer, se rendre compte qu'on a pas les permissions, demander les permissions, attendre et recommencer
+[14:11] 231502335287754752: Pas mal
+[14:12] 231502335287754752: Productif, j'aime bien
+[14:12] 289796655862251520: legit le mec aurait pas pu trouver un meilleur job
+[14:13] 231502335287754752: Ah bah branlette land là
+[14:13] 289796655862251520: Il est chômeur professionnel et il trouve un taff adapté à ses compétences Réactions: [😂 x1]
+[14:13] 231502335287754752: En plus le mec on va lui dire tas bien taffé 20/20
+[14:14] 293414992663805952: et le tout très bien payé
+[14:14] 293414992663805952: Stickers [mazal]
+[14:15] 293414992663805952: alors déconne mais hier ils m'ont félicité parce que j'ai fait des commentaires sur jira, parce que meme eux n'en font pas
+[14:15] 231502335287754752: Ptn moi aussi jveux être bien payer pour me branler
+[14:15] 231502335287754752: A.. ah...
+[14:15] 289796655862251520: 🤡
+[14:15] 293414992663805952: <:clownyai:625755115759861771>
+[15:25] 310709886121934848: Mon bilan de la journée 500 km un repas payé par mon etp et un dessin
+[15:29] 289796655862251520: je commence à coder avec un écran vertical ça fait bizarre au début
+[18:05] 293414992663805952: <@289796655862251521> y a des watch party pour la finale des worlds comme l'année dernière ?
+[19:35] 289796655862251520: en ligne?
+[19:36] 293414992663805952: même en physique
+[23:18] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1300962102730686495/image.png?ex=68d1d95f&is=68d087df&hm=8dc480a10b02a9148fb1f5f0acbf1e53fd022f0d0bf7947aa11754dded134b2b&]
+[10:57] 293414992663805952: ptn <@362260685540818944> y a pas la beta de wilds qui a commencé ?
+[10:57] 362260685540818944: Pour PS5
+[10:57] 293414992663805952: ahhhhh
+[10:57] 293414992663805952: il est vrai
+[10:57] 362260685540818944: C'est début novembre PC
+[10:58] 293414992663805952: ok ok
+[10:59] 362260685540818944: C'est du 1 au 4 sur toutes les plateformes
+[11:01] 293414992663805952: Je l’aurais peut-être acheté d’ici là
+[12:56] 306809650802589696: Faut que je le fasse ce soir
+[14:58] 289796655862251520: d'ailleurs <@293414992663805952> c'est nsfw pas nswf (pour "Not safe for work")
+[14:58] 289796655862251520: https://tenor.com/view/nerd-emoji-nerd-emoji-avalon-play-avalon-gif-24241051
+[14:59] 293414992663805952: Eh gros sayer
+[14:59] 293414992663805952: Commence pas toi
+[15:00] 289796655862251520: c'est pas comme si tu bossais
+[15:00] 289796655862251520: donc t'as le temps de le changer
+[15:00] 293414992663805952: C’est fait
+"""

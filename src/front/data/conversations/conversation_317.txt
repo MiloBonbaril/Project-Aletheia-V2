@@ -1,0 +1,7 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 317]
+Période: 2025-07-05 à 2025-07-05
+[12:45] 293414992663805952: Oh shit here we go again Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1391037273147048057/IMG_1826.jpg?ex=68d1edaa&is=68d09c2a&hm=cf47f2b7a5030d9c0e4c95bd6af0cfcdf4ffe037cf867f3f3012f07e6677ddec&]
+[14:27] 318105451810127872: oshit
+"""

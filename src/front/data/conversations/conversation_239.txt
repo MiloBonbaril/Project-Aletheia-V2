@@ -1,0 +1,71 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 239]
+Période: 2025-02-28 à 2025-02-28
+[09:23] 293414992663805952: imagine faire une formation sur un langage déprécié depuis plus de 8 ans
+[09:25] 362260685540818944: <:mmmyes:1216696107657203722>
+[10:15] 318105451810127872: imagine tu dois aller à Brest pour faire une formation sur un langage déprécié depuis plus de 8 ans
+[10:15] 362260685540818944: C'est quoi le langage ?
+[10:21] 293414992663805952: techniquement c'est du PIG
+[10:21] 293414992663805952: mais vu que ça a besoin de HADOOP
+[10:21] 293414992663805952: c'est du HADOOP/PIG
+[10:21] 293414992663805952: un truc random d'apache
+[10:23] 362260685540818944: Il me terrifie le logo Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1344978288287813662/png-clipart-apache-pig-apache-hive-apache-hadoop-big-data-mapreduce-pig-latin-purple-carnivoran-thumbnail.png?ex=68d1cc64&is=68d07ae4&hm=68e0d28ef4a5a44031ee5a2b0578b26cdd792277bfd7ba5e381c855a1c0bec52&]
+[10:26] 293414992663805952: ui
+[10:27] 318105451810127872: ce qui me terrifie
+[10:27] 293414992663805952: tu vois que c'est un truc d'il y a 2 décennies
+[10:27] 318105451810127872: c'est le putain de fond "transparent"
+[10:27] 293414992663805952: tu préfère Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1344979404547428383/Apache_Pig_Logo.png?ex=68d1cd6e&is=68d07bee&hm=7d9a7c2d5697318c9839ae0095c849e328f4ba103cd22340e404b3d3cd55943c&]
+[10:39] 293414992663805952: imagine le truc est tellement vieux que si tu penses pas à l'opti et que tu inverse 2 ligne, ton script met pas 10min mais 12 HEURES
+[10:40] 293414992663805952: pour le même résultat btw
+[12:27] 362260685540818944: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1345009497608949800/RDT_20250228_1327212475246467046126611.jpg?ex=68d1e975&is=68d097f5&hm=19747de776d6fcc3e5e8b10ca348f8854c73682fcc8e0c85daf9e65a8db3ba4c&]
+[13:04] 293414992663805952: Stickers [chokbar de bz]
+[13:04] 318105451810127872: Ethan tu rentres à quelle heure ?
+[13:04] 293414992663805952: linux master race
+[13:04] 293414992663805952: normalement pas loin de 23h
+[13:04] 318105451810127872: donc tu pars à ?
+[13:04] 293414992663805952: 17h
+[13:06] 293414992663805952: inchallah je survie
+[13:07] 293414992663805952: j'aurais dû prendre un thermos
+[13:07] 293414992663805952: histoire d'avoir une source de café pendant ces 6h
+[13:20] 293414992663805952: Imagine tu peux pas avancer dans ta formation, parce que les script doivent s'executer avec des container speciaux qui sont commun à tout le monde et qu'il y a 3 connard qui prennent toutes les ressources
+[15:00] 293414992663805952: dans une 1h y aura une POV max verstappen
+[15:10] 310709886121934848: https://tenor.com/view/max-verstappen-f1-formule-1-gif-15087359750872636720
+[15:13] 293414992663805952: en vrai, à 200km/h au lieu de 130
+[15:13] 293414992663805952: je m'en fou c'est pas moi qui paye l'essence
+[15:13] 733261833993060352: mdr
+[15:14] 733261833993060352: https://tenor.com/view/evo-flying-car-rally-lancer-gif-23111547
+[15:14] 293414992663805952: ptit coup de swim quand j'arrive à nior et nantes
+[15:14] 293414992663805952: pour skip les bouchons
+[15:53] 318105451810127872: les reufs
+[15:53] 318105451810127872: je compte changer de cg
+[15:53] 318105451810127872: sauf que
+[15:53] 318105451810127872: mon boitier ne me permet pas d'avoir une cg avec 3 ventilos
+[15:54] 318105451810127872: est-ce que y'a une différence notable entre une 2 et 3 ventilos ?
+[15:54] 293414992663805952: oui
+[15:55] 293414992663805952: par contre tu cherche la merde
+[15:55] 293414992663805952: le man a une 4060 mais nan il veut plus encore
+[15:55] 318105451810127872: hein ?
+[15:55] 318105451810127872: d'où j'ai une 4060
+[15:57] 293414992663805952: une 3060 ?
+[15:57] 318105451810127872: oui
+[15:57] 318105451810127872: 3060ti
+[15:57] 293414992663805952: ouai bah c'est emplement suffisant
+[15:57] 318105451810127872: regarde moi bien que non
+[15:57] 318105451810127872: elle souffle là
+[15:57] 318105451810127872: puis bon
+[15:57] 293414992663805952: ah
+[15:58] 293414992663805952: j'entends du bouh bouh bouh
+[15:58] 318105451810127872: mon frère il a que une 1660ti
+[15:58] 293414992663805952: attention
+[15:58] 318105451810127872: à quoi ?
+[16:00] 320991311312322560: oublie pas que toi meme tu fait 130kg donc ça reduit ton pourcentage de moove speed... sad
+[16:00] 318105451810127872: tu parles mal
+[16:00] 318105451810127872: il est en sub 120 bientot
+[16:01] 320991311312322560: je constate juste je trouve que ca lui fait son charme les 130kg
+[16:01] 320991311312322560: enfin je crois
+[16:01] 320991311312322560: la yoummou sous le capot et cest tipar
+[17:46] 184396639593562112: Nettoie ton pc gros dégueulasse
+[18:06] 318105451810127872: tkt pas mon pc il est biiiien tout propre
+[18:06] 318105451810127872: j'ai changé la pâte thermique y'a 3 semaines
+"""

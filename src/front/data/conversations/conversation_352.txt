@@ -1,0 +1,9 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 352]
+Période: 2025-09-04 à 2025-09-04
+[19:07] 306809650802589696: https://www.youtube.com/watch?v=uEAJxkXRZ9I
+[19:38] 485830755537125376: Faut que je regarde cette masterclasse 😎
+[21:53] 177442452934754304: https://www.youtube.com/watch?v=NieeRKHPiZU
+[21:56] 362260685540818944: Mais c'est absolument cinéma
+"""

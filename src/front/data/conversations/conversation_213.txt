@@ -1,0 +1,11 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 213]
+Période: 2025-01-25 à 2025-01-25
+[03:08] 293414992663805952: Les gars
+[03:08] 293414992663805952: Après 3 ans de bon et loyaux services
+[03:09] 293414992663805952: L’embrayage de la mini est mort
+[03:09] 293414992663805952: <:salute:754839993054134372>
+[08:20] 320991311312322560: https://x.com/hancock_lol/status/1882807099291472070?s=46&t=BQlwvBbYyEn48unZAE9u-g
+[09:30] 733261833993060352: Ha ff là
+"""

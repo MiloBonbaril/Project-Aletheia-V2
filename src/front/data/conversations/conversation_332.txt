@@ -1,0 +1,12 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 332]
+Période: 2025-08-03 à 2025-08-03
+[14:05] 318105451810127872: Switch 1 en tendance twitter
+[14:05] 318105451810127872: je vais voir, tout curieux en mode "ils ont fermés les serveurs ?"
+[14:05] 318105451810127872: https://x.com/AFarCryAway/status/1951445846517752225
+[14:06] 318105451810127872: https://tenor.com/view/vilebrequin-vilbrequin-sylvain-pierre-sylvain-vilebrequin-gif-23624159
+[20:22] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1401661639966851092/image.png?ex=68d258e0&is=68d10760&hm=427dbd7bdaf3c806ea1e6d8d35cd53f7fba9c0f1f69003cea876c1a3e6b75991&]
+[20:23] 362260685540818944: https://tenor.com/view/pedro-pascal-gif-10455738442136230044
+[20:24] 318105451810127872: le daron est un peu chockbar
+"""

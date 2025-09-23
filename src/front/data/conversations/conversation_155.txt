@@ -1,0 +1,7 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 155]
+Période: 2024-10-27 à 2024-10-27
+[20:35] 293414992663805952: https://open.spotify.com/intl-fr/track/4Qgcx3CfIfObK0aWuCk92A?si=fe2f69dd89424a32 <@265210499627614209>
+[20:35] 293414992663805952: turbo kevin qui est de retour
+"""

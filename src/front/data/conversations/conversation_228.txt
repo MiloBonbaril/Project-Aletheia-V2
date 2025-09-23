@@ -1,0 +1,16 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 228]
+Période: 2025-02-11 à 2025-02-11
+[09:53] 318105451810127872: https://vm.tiktok.com/ZNeowrcx3/
+[09:53] 318105451810127872: Fin
+[09:54] 318105451810127872: Faut aller se faire foutre mdr
+[13:01] 318105451810127872: https://x.com/monsterhunter/status/1888907040879485237/photo/1
+[13:50] 310709886121934848: il l'avait pas annoncé hier ?
+[13:50] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1338869724322201661/image.png?ex=68d1fcd9&is=68d0ab59&hm=98df599630ce1f890a814a54ee08439c3a98e955ac5ab79ea76c7e54191d104c&]
+[13:51] 310709886121934848: ah oui my bad j'ai pas lu
+[13:51] 293414992663805952: https://tenor.com/view/belle-engin-evangelion-gif-3432679606910286085
+[13:51] 310709886121934848: https://tenor.com/view/palu-machu-pas-lu-j%27ai-pas-lu-osef-gepalu-gif-3761676826778835718
+[17:17] 318105451810127872: https://x.com/monsterhunter/status/1889359179187396812
+[18:19] 318105451810127872: Réactions: [👍 x1] Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1338937395084525568/Gje2-nubUAMFF7B.png?ex=68d23bdf&is=68d0ea5f&hm=baba6438c102b14a5065e1491a62a5645f45b8038ccf7ee816234e59cf02d6b9&]
+"""

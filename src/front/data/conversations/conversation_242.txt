@@ -1,0 +1,33 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 242]
+Période: 2025-03-09 à 2025-03-10
+[21:24] 345687789146341376: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1348406200248697004/image.png?ex=68d1bea2&is=68d06d22&hm=78dd8035daf72db3579c5b589a226bcc231e068bd5c5bbd34dfb0e2deccf6a9d&]
+[21:25] 345687789146341376: pour sur mon banquier m'appelle demain
+[21:29] 733261833993060352: damn
+[21:32] 345687789146341376: j'ai mal a mon cul cul
+[21:33] 345687789146341376: et j'ai plus rien de côté let's go
+[21:59] 293414992663805952: Aye
+[07:29] 471793126873497600: C’est le pc ?
+[10:40] 318105451810127872: je  vais chier partout
+[10:40] 318105451810127872: ma daronne prend la voiture 1 fois dans la semaine
+[10:41] 318105451810127872: ce matin je me réveille, elle me sort quoi
+[10:41] 318105451810127872: "ouais j'ai freiné et derrière ça a fait un bruit comme si je roulais sur la neige"
+[10:42] 362260685540818944: <:hapy:1216695875644952616>
+[10:43] 318105451810127872: et qui c'est qui va passer toute son aprem à regarder :)
+[10:44] 177442452934754304: le garagiste?
+[10:44] 177442452934754304: <:mr_happy:928669335952699443>
+[10:45] 318105451810127872: https://tenor.com/view/hidethepain-hidepain-harold-pain-smile-hide-the-pain-harold-gif-14922529
+[10:45] 318105451810127872: le garagiste ouais
+[16:25] 345687789146341376: ui
+[17:00] 471793126873497600: Banger la ton pc
+[17:00] 345687789146341376: 5070 ti 16 go en même temps
+[17:01] 471793126873497600: Ah oui propre en vrai
+[17:13] 177442452934754304: ma 5080 a couté moins cher wtf?
+[17:13] 177442452934754304: 1900€ ta 5070?
+[17:14] 362260685540818944: Y'a le reste
+[17:14] 177442452934754304: bah le reste c'est le -2500 non?
+[17:14] 293414992663805952: y a le reste et c'est pas une founder edition
+[17:14] 362260685540818944: non 2579 c'est le tout
+[17:14] 177442452934754304: okay
+"""

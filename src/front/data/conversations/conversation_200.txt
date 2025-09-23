@@ -1,0 +1,8 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 200]
+Période: 2025-01-04 à 2025-01-05
+[20:21] 293414992663805952: c drole mais c ki ? Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1325197562004635719/0F4AB39F-927D-4A28-A5A9-43C7FCC40C8D.png?ex=68d258a7&is=68d10727&hm=bdc7190305c708fa3643c2685ed6c401f45d230055a4fccb5d35b7dcecccb433&]
+[03:52] 471793126873497600: Oh pas mal
+[12:50] 265210499627614208: Exceptionnel
+"""

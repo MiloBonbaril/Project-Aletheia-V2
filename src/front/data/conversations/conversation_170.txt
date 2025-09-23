@@ -1,0 +1,8 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 170]
+Période: 2024-11-17 à 2024-11-17
+[18:14] 318105451810127872: géplu de hdd :)
+[18:45] 318105451810127872: gére un hdd :)
+[18:46] 318105451810127872: c'est dingue ce qu'une simple petite case dans le bios peut tout casser
+"""

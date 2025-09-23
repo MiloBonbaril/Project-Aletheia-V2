@@ -1,7 +1,7 @@
 Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
 """
 [Conversation 84]
-Période: 2025-04-20 à 2025-04-20
-[08:39] 362260685540818944: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1363433889791475843/Screenshot_2025-04-20-10-38-42-689-edit_com.miui.home.jpg?ex=68d25cc2&is=68d10b42&hm=208401aade34714c046de0bd776e8032ba34e9ce711a454c0015e3ad50ed597e&]
-[08:39] 362260685540818944: https://tenor.com/view/zemmour-oh-bah-alors-comme-cest-bizarre-gif-25753974
+Période: 2024-07-06 à 2024-07-06
+[11:42] 265210499627614208: <@177442452934754305> tiens c'est chelou, ils ont l'air de perdre comme hier Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1259112351131635753/image.png?ex=68d1df01&is=68d08d81&hm=b0484e7b6b4aba8139c11ce004d755d58ad37fa770f66bd5f780231ddc15dfa6&]
+[12:19] 177442452934754304: Ptdr
 """

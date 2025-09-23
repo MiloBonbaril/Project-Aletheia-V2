@@ -1,0 +1,26 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 299]
+Période: 2025-06-04 à 2025-06-05
+[10:00] 362260685540818944: - "Ouiii pas besoin de check si c'est null on est sûr que ça va jamais être null"
+
+Bah tiens mange tes grands morts, y'a un testeur qu'à réussi à faire passer un null, eh gros sayer
+[10:01] 293414992663805952: Stickers [Potiblagueur]
+[10:05] 362260685540818944: Puis bien sûr tout le reste du code est en mode "ça là, woullah radim que c'est pas null"
+[11:31] 177442452934754304: Java null pointer exception
+[15:29] 306809650802589696: https://tenor.com/view/waah-waa-sad-wah-waaah-gif-25875771
+[15:29] 306809650802589696: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1379844602798014474/IMG_2016.png?ex=68d2142d&is=68d0c2ad&hm=03cf213d253bc89ac988b4581040c8bdb817a0c9d195c9742541ecba10f40c10&]
+[15:30] 733261833993060352: A wait le site est vraiment down ?
+[15:30] 318105451810127872: https://tenor.com/view/tf2-meme-fridge-scout-gif-4662599414317018485
+[23:31] 318105451810127872: https://x.com/Mediavenir/status/1930369492984492265
+[23:31] 318105451810127872: 1000 %
+[23:32] 318105451810127872: faut calmer sa bite un peu
+[06:39] 293414992663805952: Surtout quand tu as d’autres sutes qui existent
+[06:43] 733261833993060352: Les mans avaient vraiment ***BESOIN*** de cum
+[07:30] 177442452934754304: Je vous ai call de miser dessus
+[07:30] 177442452934754304: C'est littéralement le 5eme site le plus visité au monde
+[09:50] 362260685540818944: bahahaha mon maitre d'alternance qui vient de lâcher à l'instant, "ça c'est pas un bug, c'est une feature"
+[09:51] 733261833993060352: Issou
+[09:51] 362260685540818944: Stickers [g pas de verr]
+[10:55] 177442452934754304: Bah issou
+"""

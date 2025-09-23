@@ -1,0 +1,7 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 224]
+Période: 2025-02-06 à 2025-02-06
+[14:52] 293414992663805952: Btw l’effet du benchmark sur capcom en bourse Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1337073395925385307/image0.jpg?ex=68d20b63&is=68d0b9e3&hm=6266e6df444e9bb63835884276be2254977d1ede6b207e0936c17af577bda3a9&]
+[14:53] 733261833993060352: Mdr
+"""

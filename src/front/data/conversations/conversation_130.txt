@@ -1,0 +1,13 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 130]
+Période: 2024-09-15 à 2024-09-15
+[11:10] 177442452934754304: reste concentré quand tu donnes un prenom a ton gosse stp Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1284833770268131392/Screenshot_2024-09-15-13-10-20-07_e0e9f6119b55acc269ad5dac6c296f7b.jpg?ex=68d1d771&is=68d085f1&hm=3414675d46e4fe9406e8ae6cc1e1e0add18fdd6a7dafe53bff250224ce464ff8&]
+[12:01] 184740927108153344: On a vu pire
+[12:01] 184740927108153344: Trust
+[12:08] 177442452934754304: Tasbihullah il y a aucun effort de fourni
+[12:08] 177442452934754304: C'est a la limite de l'envie de nuire
+[12:34] 293414992663805952: [/Script/Engine.GameSession]
+MaxPlayers=X
+[12:35] 306809650802589696: [/Script/Engine.GameSession] MaxPlayers=16
+"""

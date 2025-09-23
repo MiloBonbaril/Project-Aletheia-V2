@@ -1,0 +1,23 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 231]
+Période: 2025-02-14 à 2025-02-14
+[10:13] 293414992663805952: https://youtu.be/K4YY3QZcAQU
+[10:13] 293414992663805952: ils ont pété un putain de cable
+[10:13] 293414992663805952: <@306809650802589707>
+[10:13] 306809650802589696: J’ai vu
+[10:14] 306809650802589696: J’ai bander
+[10:14] 306809650802589696: Je vais jouer
+[10:14] 306809650802589696: Je vais tester
+[10:14] 306809650802589696: Je vais être déçu
+[10:14] 306809650802589696: Je connais la chanson
+[10:14] 293414992663805952: en vrai le retour de la tourelle niv3 de torbjorn me met bcp trop bien
+[10:14] 306809650802589696: J’ai juste pas la date de sorti
+[10:15] 293414992663805952: quand la prochaine saison sort
+[10:18] 306809650802589696: Faudra tester, t’es chaud ?
+[10:18] 306809650802589696: Ressortir les genji mechanics
+[10:18] 293414992663805952: mouai, on peut se chopper une petite team de 5 en plus
+[10:18] 306809650802589696: Nice
+[10:57] 733261833993060352: OMG je pourrais donc jouer aux jeux
+[16:45] 894963658189332480: je peut être compter dedans ?
+"""

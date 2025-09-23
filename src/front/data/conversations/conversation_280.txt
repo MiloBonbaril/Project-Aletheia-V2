@@ -1,0 +1,17 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 280]
+Période: 2025-05-11 à 2025-05-11
+[08:51] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1371047117715668992/IMG_2808.jpg?ex=68d25fa1&is=68d10e21&hm=48308e1853c6f1379d66e22d61dee32be37f53d1423347741ee49d3ca4f19bd8&]
+[08:54] 733261833993060352: Ethan avec Maëlle
+[08:55] 733261833993060352: https://tenor.com/view/tiens-tiens-tiens-booba-gif-13764164
+[08:55] 318105451810127872: Pour rappel
+[08:55] 318105451810127872: Elle a 16 ans
+[08:55] 733261833993060352: C'est bien pour ça que c'est lui
+[08:55] 318105451810127872: Mais pour le coup c’était vraiment Ethan Maëlle
+[09:01] 362260685540818944: C'est chaud le mec qui s'appelle "Oasis" Réactions: [🗣️ x3], [<:issou:936327309554761748> x3]
+[11:06] 733261833993060352: Ptn fallait que le beau père allume la télé pour mettre de la musique et c'est pile sur maître Gims sur 🗣️ " Ciel tu m'avais pas dit que c'était une magicienne" jpp
+[11:14] 471793126873497600: Vrai banger cette musique
+[11:22] 318105451810127872: <@362260685540818944> REPREND TA MERDE Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1371085027596828782/image.png?ex=68d1da30&is=68d088b0&hm=3924e5cceef384d97fc836770fb0c6223bd6d8297cc612da77186b052a4488ee&]
+[11:22] 362260685540818944: <:hapy:1216695875644952616>
+"""

@@ -1,0 +1,10 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 199]
+Période: 2025-01-03 à 2025-01-03
+[18:04] 320991311312322560: Des gens pour 5v5 customs ce soir ? un peuuuu de fuuuuunnnnn
+[18:09] 318105451810127872: Alors
+[18:09] 318105451810127872: Tout dépend du “ce soir” en question
+[18:09] 318105451810127872: On arrive vers 22h avec Azog
+[20:53] 318105451810127872: 22.30 au gps
+"""

@@ -1,0 +1,11 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 357]
+Période: 2025-09-17 à 2025-09-17
+[16:05] 177442452934754304: allez Réactions: [<:HAHA:721519342348664874> x1] Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1417904403590942856/image.png?ex=68d21ca1&is=68d0cb21&hm=f45b5196cf29cd99a86517ee9a7b6f557b1360593246a45401e612b728adfab4&]
+[16:05] 177442452934754304: moi je me casse de ces trombis de merde
+[16:48] 362260685540818944: Ohnon
+[17:07] 177442452934754304: Janvier frère
+[17:08] 362260685540818944: J'ai craqué sur le Ohui perso
+[17:14] 177442452934754304: OH UIIIIIIIIIIIIIIIIII
+"""

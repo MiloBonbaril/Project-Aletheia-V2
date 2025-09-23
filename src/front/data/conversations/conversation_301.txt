@@ -1,0 +1,9 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 301]
+Période: 2025-06-09 à 2025-06-09
+[08:40] 304220517273960448: https://www.instagram.com/reel/DKWgD2XKAaX/?igsh=MXQ1dWo2NzUxeTdoZw==
+[08:40] 304220517273960448: Dan??????
+[09:14] 293414992663805952: ui
+[10:00] 289796655862251520: mon goat
+"""

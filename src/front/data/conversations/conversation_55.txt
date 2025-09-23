@@ -1,15 +1,6 @@
 Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
 """
 [Conversation 55]
-Période: 2024-12-08 à 2024-12-09
-[13:11] 318105451810127872: Les reufs
-[13:11] 318105451810127872: C’est fini
-[13:11] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1315304828322189372/IMG_2140.png?ex=68d1f3d4&is=68d0a254&hm=9f085299fd29ec46c4601e3b86e0ec6f87c8f7e09c72d4cbcbdf51c2e119c012&]
-[13:11] 318105451810127872: Ethan va cook de la d encore
-[13:12] 318105451810127872: Nasus OS
-[13:12] 293414992663805952: comme si j'allais t'attendre
-[13:12] 318105451810127872: J’en ai la preuve
-[09:08] 293414992663805952: Je vais me faire gank par teemo demain Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1315605873611243561/image0.jpg?ex=68d26373&is=68d111f3&hm=880732e6596c55fe11f83d6abc841b37d4b09193dac6b71ce384469a7a21a5c0&]
-[09:09] 733261833993060352: Omg
-[09:31] 318105451810127872: Donc tu as dit à ton tuteur que tu seras absent tout naturellement
+Période: 2024-05-09 à 2024-05-09
+[18:27] 471793126873497600: Alors en vrai c'est possible le 30 secondes je pense, mais je reste perplexe en vrai
 """

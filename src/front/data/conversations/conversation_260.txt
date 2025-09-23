@@ -1,0 +1,20 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 260]
+Période: 2025-04-08 à 2025-04-08
+[12:57] 318105451810127872: Envie de crever
+[12:57] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1359150218859249704/IMG_2654.jpg?ex=68d1f087&is=68d09f07&hm=e2d4643694769916f7e388692db41ed451e21b61144e202a855c6222c59efa72&]
+[13:08] 293414992663805952: un problème avec ta clim frro ?
+[13:15] 318105451810127872: Un problème avec
+[13:15] 318105451810127872: Ma clim
+[13:15] 318105451810127872: Mon ventilateur d'eau
+[13:15] 318105451810127872: Mon huile
+[13:16] 318105451810127872: Un arabe à cames
+[13:17] 318105451810127872: Et obligé de tout faire sois même
+[13:17] 318105451810127872: parce que chaque intervention garage coute littéralement plus cher que la voiture
+[13:18] 318105451810127872: Mais du coup ouais, là c'était la soufflerie qui était grippée, la pute
+[13:39] 733261833993060352: Toujours de leurs fautes
+[14:40] 318105451810127872: incroyable
+[14:40] 318105451810127872: je voulais check le code panne que j'avais sur ma voiture
+[14:40] 318105451810127872: bah la voiture veut pas me donner de code
+"""

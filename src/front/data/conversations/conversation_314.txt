@@ -1,0 +1,38 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 314]
+Période: 2025-07-02 à 2025-07-02
+[11:24] 362260685540818944: Eh flo'  je te vois écrire là, ftg ton message il est trop long
+[11:24] 318105451810127872: Ma famille est au Credit Agricole depuis toujours, donc on a ouvert notre compte au Centre Est, l'agence de Lyon.
+J'ai déplacé tous mes abonnements sur un compte Revolut.
+habituellement, je faisais un virement par carte sur le compte pour l'alimenter, mais avec les lois contre le blanchiment, c'est plus possible parce que Revolut c'est pas Français, il faut faire des virements bancaire.
+
+J'envoie un message à mon agence ( toujours CA Centre-Est ) pour leur demander de m'activer la fonctionnalité.
+
+Tout à l'heure elle m'appelle, et elle laisse un msg.
+Alors super, c'est un changement dans le contrat, c'est gratuit est instantané.
+Le hic, je dois aller en agence avec ma potite carte d'identité
+[11:24] 318105451810127872: toi là beyou
+[11:25] 318105451810127872: tu me tends le poing là
+[11:25] 733261833993060352: Oof beyou le sniper
+[11:25] 733261833993060352: https://tenor.com/view/youjo-senki-the-saga-of-tanya-the-evil-anime-gun-powerful-gif-17356585
+[11:26] 362260685540818944: @abregefrere
+[11:26] 318105451810127872: allez
+[11:26] 318105451810127872: TL:DR, je dois aller me faire foutre à lyon à cause de ma banque
+[11:26] 318105451810127872: content ?
+[11:26] 733261833993060352: Ha bas voilà
+[11:26] 362260685540818944: Ok bah vasi
+[11:26] 293414992663805952: Le problème c’est qu’a la base il n’y a pas de problème
+[11:26] 733261833993060352: C'était pas si compliqué
+[11:27] 362260685540818944: Et t'as pas une agence plus proche ?
+[11:28] 318105451810127872: bah j'en ai une à 5min mdr
+[11:28] 318105451810127872: mais ton compte est attaché à ton agence
+[11:28] 293414992663805952: Tout ça parce que gnegnegne je veux pas mes abonnements sur mon compte courant
+[11:29] 362260685540818944: Ouais bah tu fais la demande pour changer d'agence
+[11:30] 293414992663805952: Non c’est limité a la caisse centrale
+[11:30] 362260685540818944: Fin perso j'allais pas me faire chier à bouger jusqu'à Mont de marsan dès que j'ai un pb avec mon compte
+[11:30] 293414992663805952: Mais faut que tu aille quand meme dans l’est
+[11:30] 318105451810127872: my bad de vouloir suivre un minimum mon pognon même si j'en n'ai pas beaucoup
+[11:30] 293414992663805952: C’est pour ca que ta banque fournis une app
+[11:31] 318105451810127872: noshit
+"""

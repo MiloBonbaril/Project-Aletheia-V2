@@ -1,0 +1,18 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 277]
+Période: 2025-05-04 à 2025-05-05
+[20:47] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1368690537149763684/image.png?ex=68d25ea5&is=68d10d25&hm=1650e49e9fe7dd856e70c74f20bc76f768618d9f5e5df2147fb96bbc5ca43f75&]
+[20:47] 318105451810127872: vu dans la mini série d'asterix et obelix
+[20:48] 293414992663805952: oui c'est le même studio
+[08:12] 306809650802589696: https://tenor.com/view/steven-he-smells-like-unemployment-gif-24103074
+[08:12] 306809650802589696: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1368862917373722734/IMG_1961.png?ex=68d2566f&is=68d104ef&hm=4347a33fd11475f0d1d1ac5a73ebe502a651a4d6ac0e6c330f616a7aed4b5111&]
+[08:15] 293414992663805952: frr là c'est la merde
+[08:15] 293414992663805952: j'ai un déploiment en PROD qui a pété
+[08:20] 362260685540818944: Sounds like a you problem
+[08:31] 471793126873497600: Il a trouvé la solution, joué a candy crush
+[09:29] 318105451810127872: https://x.com/CerfiaFR/status/1919296621013049428 Réactions: [<a:leonardodicapriocheers:835477055889080320> x1]
+[09:30] 318105451810127872: on vit à la meilleure période de l'humanité je crois
+[21:24] 184396639593562112: C’est vraiment trop un kiffe d’être ici à ce moment là !
+[21:54] 293414992663805952: Pour toi oui c’est un kiffe, <@&1368865425018064916>
+"""

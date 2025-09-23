@@ -1,0 +1,31 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 217]
+Période: 2025-01-29 à 2025-01-29
+[13:00] 345687789146341376: Je viens de perdre 200h de taf y'a quelqu'un qui s'y connait en récupération de données ????
+[13:01] 289796655862251520: données de jeu?
+[13:01] 345687789146341376: Non de projet juste avant un rdv avec mon prof ou je devais être noté 🤡🤡
+[13:02] 293414992663805952: ah
+[13:02] 293414992663805952: rip
+[13:02] 177442452934754304: Mets ton pc dans du riz
+[13:02] 362260685540818944: https://cdn.discordapp.com/attachments/698792685363920911/1314564076084396113/bounce.gif Réactions: [😂 x2]
+[13:04] 345687789146341376: Pas sur ca marche ca
+[13:04] 177442452934754304: c'est ce qu'on m'a dit moi je m'y connais pas apres
+[13:05] 345687789146341376: Ca se voit
+[13:05] 345687789146341376: J'ai essayé la semoule perso
+[13:05] 345687789146341376: Ca absorbe plus rapidement mais aucune amélioration
+[13:06] 293414992663805952: mais qu'est ce qui t'es arrivé ????
+[13:08] 177442452934754304: team fécule de maïs
+[13:08] 177442452934754304: Banger la maïzena en vrai
+[13:14] 345687789146341376: Le pdf reader de mon entreprise qui m'a lâcher un pop up après le message que je pouvais retirer mon périphérique
+[13:14] 345687789146341376: Sauf que j'ai retirer a ce moment là donc j'ai plus rien
+[13:17] 362260685540818944: Seul moment dans la vie où il faut pas retirer trop tôt
+[13:17] 362260685540818944: 😔
+[13:25] 345687789146341376: Bah surtout quand ca te dit vas y
+[17:55] 362260685540818944: where <@293414992663805952>
+[17:55] 362260685540818944: where serveur
+[17:55] 362260685540818944: where API ?????
+[19:56] 265210499627614208: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1334250735629762731/Screenshot_20250129_204053_Facebook.jpg?ex=68d25294&is=68d10114&hm=30ad24644c9f00305340cb5b7c1c453a200a4f9670a34e475f9d27966201def9&]
+[19:56] 265210499627614208: <@362260685540818944>
+[19:57] 362260685540818944: ptdr
+"""

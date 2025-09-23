@@ -1,0 +1,18 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 318]
+Période: 2025-07-09 à 2025-07-09
+[09:16] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1392434247440273438/GvX7nTXXAAAfRFz.png?ex=68d26572&is=68d113f2&hm=2482ef5a29faaf9da05c2243c58c7a287778434db97d21bf4d5fb87d60c2381f&]
+[09:16] 318105451810127872: goat detected
+[16:01] 293414992663805952: <@362260685540818944> ca c’est des prix compétitifs Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1392536039599509595/IMG_1845.jpg?ex=68d21b7f&is=68d0c9ff&hm=4bb68f373168dd3abd18fc2c662f48eab7e7391412c0957fe50d6afb626c25be&]
+[16:01] 362260685540818944: Att t'es à papi peyo là ?
+[16:12] 293414992663805952: Oui
+[16:13] 293414992663805952: Et en plus ils sont GER-CHAR
+[16:14] 293414992663805952: T’es a l’epsi la ?
+[16:14] 362260685540818944: Bah non, j'étais en vla distanciel ajd
+[16:14] 293414992663805952: Ah ok ok
+[16:14] 177442452934754304: bah moi j'y vais demain
+[16:14] 293414992663805952: XD
+[16:15] 293414992663805952: Je peux y retourner demain <:heyyy:1216695537936367626>
+[16:16] 362260685540818944: Allez
+"""

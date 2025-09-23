@@ -1,21 +1,290 @@
 Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
 """
 [Conversation 43]
-Période: 2024-10-11 à 2024-10-12
-[13:54] 318105451810127872: Le caddie de ravagés qu’on fait
-[13:54] 293414992663805952: https://tenor.com/view/shaking-cat-shaking-cat-alien-cat-gif-17719290639671130907
-[13:54] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1294297062526947410/IMG_2014.jpg?ex=68d1fdd2&is=68d0ac52&hm=b4a828d30b856ff254b97bc6941ec24a49f6d5c5fda6c26d6a31bba44fbcb548&]
-[14:28] 471793126873497600: C'est quand notre réu pour les alcooliques anonymes déjà ?
-[14:30] 362260685540818944: Le ratio alcool / soft est pas bon chef
-[14:40] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1294308644707635301/IMG_2015.jpg?ex=68d2089b&is=68d0b71b&hm=c562a2fc28b90fdd4d449bec451032b2bd1c7781fb8e370a49eec128799f524f&]
-[15:25] 184740927108153344: Bordel
-[15:26] 184740927108153344: Le jean's français c'est supposé être du coca ?
-[05:52] 231502335287754752: ptn jveux du saucisson mtn
-[05:52] 231502335287754752: par contre dou tu prends du coca bootleg toi
-[09:27] 318105451810127872: C’est pour aller avec le whisky
-[09:27] 318105451810127872: Autrement dit osef
-[09:28] 231502335287754752: faut dormir
-[11:39] 184740927108153344: Réel
-[12:03] 318105451810127872: dis l'autre qui envoie un msg à 4h du mat
-[17:06] 231502335287754752: Eh
+Période: 2024-04-17 à 2024-04-18
+[04:11] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1230007735395811379/image.png?ex=68d21df8&is=68d0cc78&hm=2178e25f24d7e86f676aacbcca09299e655df9bb3a522f32b603d74ee2d5ff70&]
+[08:13] 318105451810127872: https://www.youtube.com/watch?v=ie8XpIOE4u4
+[08:13] 318105451810127872: <@310709886121934850>
+[08:29] 265210499627614208: Imagine te faire trash talk par un mec au taff pcq soit disant ton code c'est une class de 500 lignes alors que j'ai pas de class dans le code et que c'est littéralement du 20 lignes par fonction dont 15 de headers de requete http
+[08:30] 265210499627614208: l'autre enculer de fdp de dev java là
+[08:30] 231502335287754752: Eh
+[08:30] 231502335287754752: Insulte pas les dev java fdp
+[08:30] 265210499627614208: ah mais pas "les dev java"
+[08:31] 265210499627614208: LE dev java
+[08:31] 231502335287754752: Stickers [tfpaint]
+[08:31] 265210499627614208: l'enculer qui pense que python c'est forcément avec des classes xD
+[08:31] 231502335287754752: HEIN
+[08:31] 231502335287754752: QUOI
+[08:31] 362260685540818944: Stickers [GardonOfJudgement]
+[08:31] 231502335287754752: Ouais si baise le
+[08:32] 231502335287754752: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1230073401016586310/image0.gif?ex=68d25b20&is=68d109a0&hm=4a53b563abb1dae0932fd378b036508bad6aa68e352ea5e5e40bcc0d69ddc361&]
+[08:32] 310709886121934848: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1230073488203710528/ceff839ce1b3f3a20e88de90456a5be9.png?ex=68d25b35&is=68d109b5&hm=a45fb26615c691256b1d2dff69f80307c3d82a2de5c51cd8ae58f9199ed85db5&]
+[08:35] 265210499627614208: le mec a cru que tu pouvais rendre des requetes de scrap plus petite mais dsl man c'est la lib qui gère la taille de la query pas moi
+[08:36] 265210499627614208: surtout que le mec n'a meme pas vu mon code c'est juste il m'a trash dans le dos devant le boss comme ça genre
+[08:36] 265210499627614208: j'vais lui foutre une backdoor sur son vla pc il va moins rire l'enculer Réactions: [💀 x1]
+[08:37] 265210499627614208: Stickers [GardonOfJudgement]
+[08:45] 293414992663805952: Euuuuhhhhh
+[08:45] 293414992663805952: Chef
+[08:45] 293414992663805952: J’ai un script de 1000lignes devant moi sans classes
+[08:45] 293414992663805952: En python Biensur
+[08:45] 265210499627614208: Bah ouais évidemment c'est normal
+[08:45] 265210499627614208: genre en plus je me suis fait chier à faire un truc qui load mes modules d'osint au run time gerne
+[08:46] 293414992663805952: Btw y a 1 fonction qui fait 800 lignes
+[08:47] 265210499627614208: mdr
+[09:10] 318105451810127872: Allez je me fais vaner par mon frère maintenant Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1230083026159931443/IMG_0845.png?ex=68d26417&is=68d11297&hm=0710a6c4b33a85484d40b27436afdae195d437315f021ec46fd12cb4a6f53392&]
+[09:11] 471793126873497600: Les 35 balles de shipping sont folles
+[09:12] 471793126873497600: Ils se mettent sacrément bien
+[09:22] 265210499627614208: tf
+[09:22] 265210499627614208: tu commandes quoi
+[09:24] 318105451810127872: l'écran de mon laptop
+[09:24] 318105451810127872: shipment from Vancouver
+[09:41] 471793126873497600: En effet normal
+[09:53] 265210499627614208: et beh
+[10:29] 265210499627614208: un man qui a un compte Duolingo dans la salle ?
+[10:42] 293414992663805952: Ui
+[10:42] 293414992663805952: Moi
+[10:44] 293414992663805952: https://www.duolingo.com/profile/zemeko1?via=share_profile
+[10:51] 265210499627614208: Donne juste le mail
+[10:52] 265210499627614208: Pls
+[10:52] 293414992663805952: ethan.hary26@gmail.com
+[10:54] 265210499627614208: Ty
+[11:05] 293414992663805952: Et en quel honneur ?
+[11:08] 265210499627614208: Je continue mon tool de récupération de données open source et j'ai besoin de voir les retours
+[13:07] 265210499627614208: Fuck ils ont patch. Seum
+[13:08] 265210499627614208: <@293414992663805952> t'es sur que ton compte est sur ce mail?
+[13:10] 293414992663805952: Oui
+[13:10] 265210499627614208: F un peu
+[13:11] 293414992663805952: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1230143596041343027/image0.jpg?ex=68d1f3c0&is=68d0a240&hm=f4d76467648cd72343eb4d7311d48aee74e8bb51568977a00d9655cede72123a&]
+[13:13] 265210499627614208: oh putain je sais
+[13:13] 265210499627614208: oauth2 par google?
+[13:14] 265210499627614208: ou c'est un full compte duolingo
+[13:14] 293414992663805952: Y a moyen
+[14:47] 265210499627614208: Dommage ils ont patch relou l'ambiance
+[14:47] 265210499627614208: Mais ty
+[00:55] 318105451810127872: Je voulais voir si c’était jouable le laptop pour ce week end
+[00:55] 318105451810127872: Bon
+[00:55] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1230320774183780432/IMG_0850.jpg?ex=68d1f002&is=68d09e82&hm=27a1c8b6bb43de2e3697aa2846356753f129e8e5fd1db8f348c251906a39eaa4&]
+[01:52] 318105451810127872: en sah
+[01:53] 318105451810127872: ça passe
+[01:57] 471793126873497600: En vrai
+[01:57] 471793126873497600: https://tenor.com/view/hassoul-j%27me-suis-dit-hassoul-maxime-biaggi-gif-16546249780702445830
+[02:54] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1230350743169400912/IMG_0852.jpg?ex=68d20beb&is=68d0ba6b&hm=1d13ca27d8a83b42912f9b6fa4601d768f7e1b6c2d95328ab31fd6d4da30dc41&]
+[02:54] 318105451810127872: Ça passe laaaaaarge
+[06:40] 306809650802589696: On prend nos pc portable pour ce WE ?
+[06:53] 471793126873497600: Yep stv faire des games
+[06:53] 177442452934754304: Je veux bien prendre un pc portable mais si je vois une trace de LoL dessus je fais un avc donc...
+[06:53] 306809650802589696: 😂
+[06:55] 362260685540818944: Alors
+[06:56] 362260685540818944: <:actually:1210328760986116136> Y'a peut être déjà des traces de LoL dessus
+[06:56] 177442452934754304: Chut
+[06:56] 177442452934754304: 🤫
+[06:57] 177442452934754304: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1230411750436769833/image0.gif?ex=68d244bd&is=68d0f33d&hm=32703f8565269de00370f8a1842471dc261457faa8a49fce6d3e2a4939436e8d&]
+[06:59] 293414992663805952: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1230412495462858762/IMG_1184.jpg?ex=68d2456e&is=68d0f3ee&hm=3bad48e031d926d2759cc09881afbd0f0f0732fda8753c8bad3fa92317dcff9e&]
+[07:31] 293414992663805952: Oh putain
+[07:31] 293414992663805952: J’entends le patron du bâtiment parler en anglais au téléphone
+[07:31] 293414992663805952: Je suis full issou
+[07:31] 177442452934754304: Ayaaa
+[07:31] 293414992663805952: L’accent français est présent
+[07:32] 177442452934754304: Tg, je dois évaluer les oraux d'anglais pour les BTS Blanc de mes 1ere année
+[07:32] 293414992663805952: So whene ze roquette iz in pozichionne…
+[07:32] 293414992663805952: 😔
+[07:33] 177442452934754304: Je sent que le manque d'effort sera présent, c'est en début de semaine
+[07:33] 177442452934754304: Je vais arriver en mode : "les gars, j'ai mal aux cheveux" ça va être dur
+[07:33] 293414992663805952: XD
+[08:25] 265210499627614208: quand tu blacklist l'ip de la boite pcq tu ne retrouve plus ton mdp Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1230434017325613126/image.png?ex=68d2597a&is=68d107fa&hm=d7b8d056504556cdc9ad68d596e05fedf06b74be762fa4f4ad268c35a6cd4e80&]
+[08:25] 265210499627614208: xD
+[08:36] 318105451810127872: https://tenor.com/view/mister-mv-gif-12430935
+[08:43] 265210499627614208: tema la dinguerie au taff de mon pote
+[08:43] 265210499627614208: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1230438573279543357/image.png?ex=68d25db8&is=68d10c38&hm=0784662a5a4beb1d1af331e16ea1f47acd60b2c91eb7b1c8d945056098f0511c&]
+[08:43] 265210499627614208: Stickers [Chotto matte]
+[08:45] 362260685540818944: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1230439108732653681/Etchebest_oof.jpg?ex=68d25e37&is=68d10cb7&hm=fedd137376555d294a45c53276a24e4ba1d32794e658e23d575c50353db981c0&]
+[08:55] 293414992663805952: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1230441465776177192/IMG_1171.jpg?ex=68d26069&is=68d10ee9&hm=b4132c4a1862db46f78387a19657b8894d9a95719262444c1fb9aba2e288c139&]
+[08:57] 265210499627614208: xD
+[09:19] 293414992663805952: Vous en pensez quoi de: « Étron galbé » comme pseudo lol ?
+[09:21] 362260685540818944: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1230448132685430855/5f7b17b6933f4.png?ex=68d1bddf&is=68d06c5f&hm=9d804c22f6347c37ff0029bfe7c2a3fb43322c74b00af4ec7ee9e2b82062a786&]
+[09:29] 306809650802589696: Ricochet vicieux better
+[09:35] 318105451810127872: bon
+[09:36] 318105451810127872: j'aurai pas MON laptop pour ce weekend
+[09:38] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1230452429238308904/IMG_0857.jpg?ex=68d1c1df&is=68d0705f&hm=16860aa92d608dcb4a5f6eb7c681d33aa541e4637d8265e7c080d30871e102dd&]
+[09:39] 318105451810127872: par contre, j'ai enfin réussi à faire en sorte qu'il arrête de chauffer et de sucer la batterie
+[09:39] 293414992663805952: Au pire j’ai le miens mais faut une souris
+[09:39] 318105451810127872: je prendrai celui que tek me prête
+[09:40] 318105451810127872: je ferai le test ce soir s'il fait tourner lol
+[09:44] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1230453922020196394/IMG_0858.jpg?ex=68d1c343&is=68d071c3&hm=ea16af24581e8a7f02afba031d82b944f90b5b62c3e9b3c92a7933c082c24a55&]
+[09:44] 318105451810127872: j'ai baisé la daronne à qqn oooooooooooooooooooooooooou
+[09:45] 265210499627614208: xD
+[09:45] 265210499627614208: <@293414992663805952>
+[09:45] 265210499627614208: euhh
+[09:45] 265210499627614208: j'ai une bonne et une mauvaise nouvelle pour toi tu veux laquelle ?
+[09:47] 293414992663805952: On commence toujours par la mauvaise
+[09:48] 362260685540818944: Flo a baisé ta daronne apparement 😔
+[09:48] 293414992663805952: 😔
+[09:48] 265210499627614208: j'ai fait un search avec ton mail
+[09:48] 318105451810127872: je n'ai littéralement rien fait putain
+[09:48] 265210499627614208: et j'ai trouvé qu'elle est relié à un appareil qui s'est fait enculer
+[09:48] 265210499627614208: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1230455014263230504/image.png?ex=68d1c448&is=68d072c8&hm=ae1294b8ac3948cdb5775934747691e73d8c794315def9c57444cedfbcc6a67c&]
+[09:49] 362260685540818944: <:mmmyes:1216696107657203722>
+[09:49] 293414992663805952: Y a l’adresse mail de mon père X)
+[09:50] 293414992663805952: Et c’est quoi les infos ?
+[09:50] 293414992663805952: Genre comment tu connais l’appareil
+[09:50] 293414992663805952: J’ai trop de question là
+[09:50] 318105451810127872: les gars
+[09:50] 293414992663805952: Bref c’est quoi cette merde ?
+[09:50] 318105451810127872: normal que le pc il sente le Brico Depot ? Réactions: [<:hapy:1216695875644952616> x1], [🇳 x1], [🇴 x1]
+[09:50] 265210499627614208: en gros
+[09:51] 265210499627614208: sur le dark t'as des infos qui leak, et t'as des adresses mail qui sont liés à des pc si tu gères mal
+[09:51] 293414992663805952: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1230455655517917215/IMG_1172.jpg?ex=68d1c4e1&is=68d07361&hm=ba0056da03e5ddd220faa200349879fded9a08544fb8ab06a6175611a66565df&]
+[09:51] 265210499627614208: et tu t'es fait ken ton mail
+[09:51] 265210499627614208: qui est link à un pc
+[09:51] 265210499627614208: totu ça via un virus
+[09:51] 362260685540818944: gg wp
+[09:51] 265210499627614208: et de part le virus ils ont trouvé tout ça
+[09:52] 293414992663805952: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1230455869402251294/IMG_1194.jpg?ex=68d1c514&is=68d07394&hm=57b49316871f13ef611b107af983b989a2eb96b2b030a2583e9713636d998a46&]
+[09:52] 265210499627614208: mtn à toi d'aller chercher ce que fait le virus
+[09:52] 265210499627614208: et la bonne nouvelle bah j'en ai pas
+[09:52] 293414992663805952: X)
+[09:52] 293414992663805952: En vrai je vois pas c’est quoi cette ip
+[09:53] 293414992663805952: Probablement mon pc portable à tek
+[09:53] 362260685540818944: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1230456143399092255/Je_suis_un_poti_blagueur.jpg?ex=68d1c555&is=68d073d5&hm=bc11cd1ada7c92bde544c02ecebbc7ace7d97e8b4da93e5b38a932b13bdb4d5d&]
+[09:53] 293414992663805952: Mais ils sont tous reset à minima tout les 6 mois
+[09:53] 265210499627614208: c'est on ip public ça
+[09:54] 293414992663805952: Bah justement
+[09:54] 265210499627614208: l'ip en 81 c'est ip fr
+[09:54] 293414992663805952: Boh c’est pas méchant
+[09:54] 293414992663805952: Trql
+[09:55] 293414992663805952: Je savais déjà que mes mails étaient spotted sur le dark
+[09:55] 293414992663805952: Tu verais les dingueries des fois sur mes mails, je me tape des barres tellement c’est comique
+[09:55] 265210499627614208: non mais
+[09:56] 265210499627614208: c'est un virus sur ton pc hein
+[09:56] 265210499627614208: qui a log tout
+[09:56] 265210499627614208: x)
+[09:56] 265210499627614208: et après toutes tes infos sont leak
+[09:56] 293414992663805952: Oui mais tout mes pc ont reset
+[09:56] 265210499627614208: ah et tu t'es fait ken sur Stronghold Kingdoms
+[09:56] 265210499627614208: aussi
+[09:56] 293414992663805952: Sauf si tu me dis que ça datte de ce mois ci
+[09:56] 293414992663805952: <a:KEKWWA:1016495927923572847>
+[09:56] 265210499627614208: nonnon
+[09:58] 293414992663805952: Je suis en train de me demander quand est-ce que j’avais norton en antivirus
+[09:59] 293414992663805952: Y a moyen ça date de mon stage de 2eme année
+[09:59] 293414992663805952: C’est rigolo comme même
+[10:00] 293414992663805952: <:rigolo:760672686728020029>
+[10:01] 265210499627614208: x)
+[10:02] 293414992663805952: Et puis j’ai jamais eu windows entreprise, j’utilise que le pro ou le home
+[10:02] 293414992663805952: C’est tek qui s’en ai troll une petite ?
+[10:04] 293414992663805952: En vrai même pas
+[10:04] 293414992663805952: Oh putain je sais pas, c’est vraiment chelou cette histoire
+[10:05] 265210499627614208: jcp après elle a pu être re use sur d'autres pc par la suite pour te se faire passer pour toi hein
+[10:06] 293414992663805952: Bizarre bizarre
+[11:33] 362260685540818944: wesh
+[11:33] 362260685540818944: c'est une dinguerie comment il ronfle Pascal
+[11:33] 293414992663805952: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1230481431944499260/IMG_1197.png?ex=68d1dce2&is=68d08b62&hm=177e704bd0e8a8ad62a714f0ec1b4c216e3d4ac0bc596e5b135b8c83e346e21c&]
+[11:37] 362260685540818944: je suis full issou jpp
+[11:37] 293414992663805952: Record
+[11:37] 362260685540818944: c'est ce que j'ai fais
+[11:38] 362260685540818944: att je te cook un truc viteuf sur audacity mon gars
+[11:41] 362260685540818944: ça me fume parce qu'il se réveil par moment et il fait genre il clique sur des trucs
+[11:42] 293414992663805952: Comme moi XD
+[11:51] 362260685540818944: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1230485908273369188/pascalASMR.mp3?ex=68d1e10d&is=68d08f8d&hm=13ab73cfc09bd9f03730f20b7ca50176e4b94ee867283aabb2d3b478ced8b8ee&]
+[11:51] 362260685540818944: Je suis en larme bordel
+[11:52] 293414992663805952: XD
+[11:52] 362260685540818944: Le mec se réveille pour partir fumer, je cite: "Ptn c'est pas vrai je fais que m'endormir"
+[11:52] 362260685540818944: Oui Pascal je confirme
+[11:56] 265210499627614208: comme romain?
+[11:56] 265210499627614208: xD
+[11:57] 362260685540818944: btw je suis retombé sur ça Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1230487390527684649/raciste_margaux.mp3?ex=68d1e26f&is=68d090ef&hm=b5bdc8d0c7ff37fc66c16725fb5cfe1240b7c82f2f215c955a68fd2d64cf8d14&]
+[11:58] 362260685540818944: Jsp pour Romain mais là ptn
+[11:58] 362260685540818944: C'est trop pour moi
+[11:58] 362260685540818944: Il se rendort instant après en plus
+[13:39] 293414992663805952: Là je sais pas quoi dire Réactions: [😂 x1] Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1230513036293308436/image0.jpg?ex=68d1fa51&is=68d0a8d1&hm=b8943f3f670d9c01db0feab1c93a0313ddeb2a9292a985b8c978db79a9ba80c4&]
+[13:40] 293414992663805952: Y’en a qui veulent ken
+[13:40] 289796655862251520: bah disons qu'à tek c'est complexe quoi
+[13:41] 289796655862251520: il y un petit problème de répartition
+[13:44] 293414992663805952: Après c’est l’association enjoyBDX
+[13:44] 293414992663805952: !weather bordeaux
+[13:44] 289796655862251520: <#1217880292434640897>
+[13:44] 293414992663805952: Je sais mais ça m’a fait rire
+[13:46] 265210499627614208: XD
+[13:47] 293414992663805952: Je confirme, l’assos organise des événements pour des entreprises et des ecoles
+[13:48] 293414992663805952: Donc y’aura des inconnus et probablement une meilleure parité
+[13:49] 289796655862251520: bah évidemment...
+[13:59] 362260685540818944: Oh la gueule de la soirée
+[14:00] 293414992663805952: J’ai presque envie d’y aller pour la vanne
+[14:00] 289796655862251520: c'est pas super différent des sites de rencontres
+[14:01] 293414992663805952: Oui mais la grosse différence c’est que là tu les vois en vrai, et c’est pour ça que les site de rencontre y a mieux
+[14:02] 289796655862251520: tu vas devoir rencontrer des gens de toute façon
+[14:09] 362260685540818944: Ptn j'avais pas vu où c'était en plus oskouur
+[14:09] 289796655862251520: bah c'est clair au moins xd
+[14:09] 362260685540818944: <@293414992663805952> On y va en légende en mode 🍑
+[14:10] 289796655862251520: d'ailleurs j'ai pas capté la différence entre pas de sérieux et pas de prise de tête?
+[14:16] 362260685540818944: Pêche c'est un one-shot, Pastèque c'est une campagne
+[14:17] 289796655862251520: ça vient de l'appli que je vois tout le monde utiliser là?
+[14:17] 289796655862251520: le truc avec les fruits
+[14:17] 293414992663805952: Fruitz
+[14:17] 289796655862251520: ouais ça
+[14:18] 293414992663805952: https://tenor.com/view/alderiate-alde-adreitael-zevent-alderiate-fr-gif-14328407
+[14:18] 293414992663805952: # LÉGENDE !
+[14:20] 362260685540818944: Duo botlane en sah là, je serai ton thresh tu seras mon malphite, je hook l'ennemi et tu met un bon coup de R 😔
+[14:21] 293414992663805952: En sah je les bousilles 😔
+[14:21] 293414992663805952: Y a pas moyen de prendre les 3 bracelet ?
+[14:22] 362260685540818944: Comment ça mon reuf tu cherches ta moitié
+[14:24] 293414992663805952: Disons que ça ouvre plus de porte
+[14:24] 293414992663805952: Vu mon physique d’apollon je dois mettre toute les chances de mon côté
+[14:25] 289796655862251520: tu sais si je vois quelqu'un qui cherche à rencontrer des humains, des chevaux et des enfants j'ai ptet pas envie de le voir
+[14:25] 289796655862251520: je dis ça je dis rien
+[14:25] 293414992663805952: Frr
+[14:25] 293414992663805952: Wtf
+[14:25] 293414992663805952: Je sais qu’on parle de chienne mais comme même
+[14:27] 265210499627614208: on prend les bracelets pour ce week end aussi ou c'est no homo?
+[14:27] 265210499627614208: Stickers [kek]
+[14:27] 362260685540818944: <:heyyy:1216695537936367626>
+[14:27] 265210499627614208: si ma meuf voyait ce message elle me fumerait xD
+[14:27] 289796655862251520: il va aussi avoir un problème de répartition ce w-e
+[14:28] 293414992663805952: Pas besoin de bracelet suffit de demander <:bingchilling:1210328942800535643> Réactions: [<:kekw:917151549355077663> x1]
+[14:28] 265210499627614208: comment ça
+[14:28] 293414992663805952: Couman ça ??
+[14:29] 289796655862251520: je suis désolé de t'annoncer que je vous disais d'aller vous faire enculer c'était du second degré 😔
+[14:32] 293414992663805952: 😔
+[14:34] 293414992663805952: Moi je pense que le mec aux yeux aussi petit que son avenir doit bien fermer sa gueule
+[14:35] 362260685540818944: sa*
+[14:36] 289796655862251520: enfin bon un peu pathétique venant d'un mec qui est pas foutu de faire une bonne api
+[14:36] 293414992663805952: Une *
+[14:36] 293414992663805952: <:ethan:1229393727873880155>
+[14:40] 265210499627614208: W H E R E    A P IIIIII
+[15:46] 362260685540818944: Y'a des daronnes à soulever je crois Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1230544894720872458/Screenshot_2024-04-18-17-45-19-339_com.google.android.apps.messaging.jpg?ex=68d217fd&is=68d0c67d&hm=3f4a7120c155cd77a0fa68d7fea13ddb7acf86e3a087b62d5f256ada657cfadc&]
+[15:51] 265210499627614208: what is it ???
+[15:51] 265210499627614208: "bonjour 'C'" ??
+[15:51] 362260685540818944: C'était trop dur d'écrire Corentin je crois
+[15:51] 265210499627614208: MEc
+[15:52] 362260685540818944: Ils m'ont pris pour un perso Cyberpunk ces fdp
+[15:52] 265210499627614208: premier degrés j'avais compris que c'était C pour corentin vu que pour moi tu t'appelles beyou
+[15:52] 265210499627614208: xD
+[15:52] 265210499627614208: Stickers [Sweat Sakura]
+[15:52] 362260685540818944: <:wut:1216695984889794570>
+[15:52] 265210499627614208: Stickers [Chotto matte]
+[15:53] 362260685540818944: Btw Estelle qui m'a appelé y'a 5min pour me dire qu'elle avait oublié de m'envoyer les tests
+[15:53] 362260685540818944: Grosse folle
+[15:54] 265210499627614208: xD
+[15:54] 265210499627614208: les tests frr
+[15:54] 265210499627614208: VLA chaud sa mère
+[15:54] 265210499627614208: j'ai eu des tests d'admin système réseau
+[15:54] 362260685540818944: Issou
+[15:54] 265210499627614208: rien sur la cyber
+[15:54] 265210499627614208: envie de me tuer
+[15:55] 265210499627614208: tema
+[15:55] 265210499627614208: ```
+Vous êtes en charge de l'installation d'Active Directory sur un serveur Windows 2016/2019/2022. Une fois Active directory correctement installé vous essayez de joindre un ordinateur client dans le domaine et vous recevez l'erreur suivante :
+L'erreur suivante s'est produite lors de la demande à DNS de l'enregistrement de ressource Emplacement du service (SRV) permettant de trouver un contrôleur de domaine pour le domaine e-testing :
+L'erreur était : "Cette opération s'est terminée car le délai d'attente a expiré."
+(code d'erreur 0x000005B4 ERROR_TIMEOUT)
+La demande portait sur l'enregistrement SRV pour _ldap._tcp.dc._msdcs.e-testing.
+Que devez-vous faire pour résoudre le problème 
+```
+[15:56] 265210499627614208: OUi oui serveur windows baguette du fromage
+[15:57] 362260685540818944: <:catent:1216696293754146826>
+[15:57] 362260685540818944: Chiant un peu l'histoire
+[15:57] 265210499627614208: 40 questions comme ça j'étais là en mode " oui oui parfait c'est ça que c'est bon"
+[15:57] 362260685540818944: Aaah bon
+[15:58] 362260685540818944: Parce qu'elle m'a dit que ça prennait 1h15 à faire
+[16:53] 265210499627614208: oui
 """

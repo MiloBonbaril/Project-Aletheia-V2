@@ -1,0 +1,8 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 196]
+Période: 2024-12-29 à 2024-12-29
+[14:37] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1322936533979889805/IMG_2207.png?ex=68d207e8&is=68d0b668&hm=54d51b1923339df8db4db91d72e1dbbb8223488615a94c9c6727f0553025219a&]
+[14:37] 318105451810127872: <@600318773383397399>
+[14:53] 362260685540818944: 🤡 Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1322940677268574218/Screenshot_2024-12-29-15-53-37-066-edit_com.vsct.vsc.mobile.horaireetresa.android.jpg?ex=68d20bc4&is=68d0ba44&hm=0af64d710fa6626353ba121a659fe4453ef84fee07814f4246dfda22e301cfa8&]
+"""

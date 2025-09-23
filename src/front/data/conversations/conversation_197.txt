@@ -1,0 +1,8 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 197]
+Période: 2024-12-30 à 2024-12-30
+[10:40] 362260685540818944: omg un nouveau chomeur débarque dans le game Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1323239178875572345/image.png?ex=68d1d044&is=68d07ec4&hm=d1b5bfbcf34920170f9e014d6ede8b67f6ee0061fe48854ce1df49cf191d742e&]
+[10:40] 289796655862251520: j'attends un fils de pute qui me dis omw puis att et qui afk
+[20:45] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1323391633307467807/IMG_2226.png?ex=68d25e40&is=68d10cc0&hm=8369b732606289a9b766841d850fe8f2054c8e45573f30b93dcd6e579b2e8a2e&]
+"""

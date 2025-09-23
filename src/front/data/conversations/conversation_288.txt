@@ -1,0 +1,10 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 288]
+Période: 2025-05-20 à 2025-05-20
+[06:11] 362260685540818944: Wtf Ethan qui arrive en avance sur son poste de travail
+[06:33] 733261833993060352: Damn
+[06:53] 733261833993060352: Moi je veux travailler mais le destin il me dit "nuh uh" depuis hier
+[07:06] 733261833993060352: Legit j'ai commencé à travailler mon pont roulant à fait *clong* ***clonk***, là on me dit le moteur est mort et ça va prendre un bon moment
+[10:31] 318105451810127872: https://www.youtube.com/watch?v=MmXtgHs2ODg
+"""

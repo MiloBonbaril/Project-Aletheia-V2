@@ -1,0 +1,18 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 254]
+Période: 2025-03-29 à 2025-03-30
+[12:21] 293414992663805952: https://youtu.be/5OaC0PRnTrk
+[16:17] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1355576527563001959/IMG_2624.jpg?ex=68d21f45&is=68d0cdc5&hm=9ee45759e28122dd0ba51c4084c6aa6d75821526f063fec3d83f35e37936a2cf&]
+[16:17] 318105451810127872: Lourd la gare
+[02:08] 318105451810127872: sur quoi je suis tombé encore ??
+[02:08] 318105451810127872: https://x.com/UnjabbedDotNet/status/1897650489862541575
+[12:14] 318105451810127872: <@362260685540818944> <@310709886121934850> <@293414992663805952> <@733261833993060362> <@471793126873497601> Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1355877860186783946/DF2B4776-0587-4D9C-8569-8AAA1D1E53CA.png?ex=68d1e668&is=68d094e8&hm=f3e07b802f453df2d4df39d49a911b2e11a4e0f060f3eaef34034a9462d9c257&]
+[12:23] 362260685540818944: Stickers [O.O]
+[12:37] 362260685540818944: Je suis là dans 30min
+[13:10] 318105451810127872: Malevelon creek est déjà reprise :0
+[13:10] 318105451810127872: ou alors on l'a jamais perdue
+[13:11] 318105451810127872: mais en tous cas on peut pas aller dessus <:sadge:903055394304303105>
+[19:02] 304220517273960448: vous voulez faire du repo ce soir ?
+[19:19] 362260685540818944: Pourquoi pas ouais
+"""

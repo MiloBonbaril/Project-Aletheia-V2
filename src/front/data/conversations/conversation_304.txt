@@ -1,0 +1,31 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 304]
+Période: 2025-06-13 à 2025-06-14
+[12:44] 184396639593562112: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1383064423324717136/image.png?ex=68d1ed5e&is=68d09bde&hm=531978213f59dc7324d8096ca648f38ae4f688e669fee5c6fdacd0b7548dc81a&]
+[15:07] 318105451810127872: ah bon Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1383100595677827143/image.png?ex=68d20f0e&is=68d0bd8e&hm=58227c221d82e5e1fde01c058561bbd206d07e0dc7c9037755992ab84d3cc91e&]
+[15:44] 894963658189332480: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1383109801541898290/FD06FA86-7453-482F-AC9B-B6C80585F24C.png?ex=68d217a1&is=68d0c621&hm=372b34f21c1bf430665134347dba52227ec6c3c957caa258db9081ec51f05a07&]
+[16:15] 345687789146341376: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1383117568545521786/image.png?ex=68d21edd&is=68d0cd5d&hm=e44f1573a30462a6bc6f39a5a583fd2d1e7b4b441004586277cc03c7182fe148&]
+[16:49] 362260685540818944: 63% Alcool, ah ouais
+[16:55] 345687789146341376: bah je crois bien
+[19:09] 362260685540818944: Enfin à la maison ptn Réactions: [<:PensiveClown:585541849662357505> x1] Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1383161492660162611/IMG_20250613_210932.jpg?ex=68d247c5&is=68d0f645&hm=b6ac23ac490b2f1f6af33f2f86f809826bd90eed8700ef6e971cd286f3c069ec&]
+[19:31] 293414992663805952: mais qu'est-ce que tu fais là ?
+[19:32] 362260685540818944: Bah je suis à Madame Loyal, y'a un stand Ricard à l'entrée
+[19:32] 362260685540818944: Voilà
+[19:34] 362260685540818944: Là soirée risque d'être longue ou très courte c'est deja mon 4eme
+[19:34] 293414992663805952: https://tenor.com/view/happy-esquie-expedition33-obscur-clair-gif-8790475245597466468
+[19:36] 362260685540818944: Court extrait de ce que je vis atm Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1383168262766067864/VID_20250613_213609.mp4?ex=68d24e13&is=68d0fc93&hm=8a16a6e66d63976abc11f480ecdbe2983d372ad09dfc83e8435bbb64deb308d0&]
+[19:37] 293414992663805952: très court en effet
+[19:37] 293414992663805952: ||comme ma bite ||
+[19:40] 362260685540818944: Coup dur
+[19:40] 362260685540818944: Comme la mienne
+[19:45] 894963658189332480: t'es bien la sous ricard avec de la hard techno et tout
+[06:06] 733261833993060352: Mais nan tkt c'est ton ventre qui cache tout
+[10:33] 304220517273960448: Tout
+[10:34] 306809650802589696: Tu cherche quoi comme info ?
+[10:35] 304220517273960448: Des infos sur les ETB
+[10:35] 304220517273960448: J’aimerai en acheter pour mon neveux
+[12:21] 306809650802589696: https://lecoindesbarons.com/les-tcg/cartes-pokemon/coffret-dresseur-delite/
+[15:48] 362260685540818944: Je crois qu'on va manquer de bouteilles Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1383473236464898188/IMG_20250614_174753.jpg?ex=68d2189b&is=68d0c71b&hm=9f8740d31283f2c397949872b727ee21c755203a065371bfc42d777baf25a6c3&]
+[20:00] 362260685540818944: Je vais être bien pour Perceval là mdr Réactions: [<:ANW:786269005363019776> x1] Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1383536616219344936/IMG_20250614_215949.jpg?ex=68d253a2&is=68d10222&hm=b0985b4ab887b867f56cadcbc5790f62a54b748d18bf8b2aa141c23f2baa6c30&]
+"""

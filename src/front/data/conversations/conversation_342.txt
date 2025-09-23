@@ -1,0 +1,13 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 342]
+Période: 2025-08-16 à 2025-08-17
+[22:08] 289796655862251520: https://codenames.game/room/volcano-field-chain
+[10:00] 318105451810127872: Stickers [azerty_mirror]
+[10:01] 318105451810127872: Stickers [azerty]
+[15:42] 289796655862251520: https://codenames.game/room/university-pin-alaska
+[16:14] 318105451810127872: https://vm.tiktok.com/ZNdCUGL5x/
+[16:14] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1406672654076739714/image0.jpg?ex=68d21ebf&is=68d0cd3f&hm=308bb5559162810a880e6dedc428011dc62952f9c1416cb2135a9c778b64a365&]
+[21:58] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1406759194148868227/image.png?ex=68d1c698&is=68d07518&hm=7eff2f581412c42e800983694e85efd66eb19cf3bca99680f50ee6f7b34c5745&]
+[21:59] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1406759384121479278/absolute-bakushin-v0-wzepcj7af0bf1.png?ex=68d1c6c5&is=68d07545&hm=1232b3cfde0449c06be4218735faa1a7e6e7887564e5afa3466343ccd755c11b&]
+"""

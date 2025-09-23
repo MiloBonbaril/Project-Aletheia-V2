@@ -1,0 +1,26 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 333]
+Période: 2025-08-04 à 2025-08-04
+[11:51] 293414992663805952: Lourd le taf aujourd’hui Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1401895314138595428/IMG_1916.jpg?ex=68d1e100&is=68d08f80&hm=83b814fa12aabe828e3555269ad2a5eb8fc2b3bf7aae6fbf609afd3e05de7faa&]
+[11:51] 362260685540818944: https://tenor.com/view/fist-mad-angry-anger-meme-gif-17499271
+[11:52] 293414992663805952: <:hapy:1216695875644952616>
+[11:52] 293414992663805952: On connaissait le setup double moniteur, mais le setup double pc portable est pas mal
+[11:56] 362260685540818944: Y'a vraiment rien qui va
+[11:56] 362260685540818944: Le vscode il est vraiment là pour alt+tab
+[11:57] 293414992663805952: alors legit je travail sur le vs code mon pc perso
+[11:57] 293414992663805952: parce que j'essaye de faire un "Twitch plays Umamusume"
+[11:57] 318105451810127872: on notera que Teams n'est pas ouvert
+[12:32] 293414992663805952: Qu’est ce que j’en ai a foutre d’epitech atm
+[12:40] 318105451810127872: ah mais vous parlez pas sur teams au taf ?
+[12:41] 293414992663805952: Non on utilise toute la suite Google
+[12:41] 293414992663805952: Le pc du taf est celui de gauche btw
+[12:42] 362260685540818944: Franchement je m'en serai pas douté là
+[12:42] 293414992663805952: C’est pour flo, il faut l’aider un peu le pauvre
+[12:49] 318105451810127872: nan mais je sais que c'est le gauche enfoiré
+[12:49] 318105451810127872: je suis pas autiste
+[12:55] 362260685540818944: https://tenor.com/view/side-eye-dog-suspicious-look-suspicious-doubt-dog-doubt-gif-23680990
+[19:25] 293414992663805952: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1402009481059242115/group-testicle.png?ex=68d24b54&is=68d0f9d4&hm=46f463fa1d19e4568d29a14b671778bbe5f51878ab38bdc591ade378789db4da&]
+[19:26] 733261833993060352: <:mmmyes:1216696107657203722>
+[19:39] 362260685540818944: https://tenor.com/view/nice-balls-gang-gif-4370207098360551720
+"""

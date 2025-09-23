@@ -1,0 +1,8 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 355]
+Période: 2025-09-13 à 2025-09-13
+[11:45] 318105451810127872: Putain je suis au mcdo la
+[11:45] 318105451810127872: Ya le man il a dit CB12
+[11:45] 318105451810127872: Ya tous les gamins ils sont full issou
+"""

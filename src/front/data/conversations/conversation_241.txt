@@ -1,0 +1,10 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 241]
+Période: 2025-03-08 à 2025-03-08
+[22:19] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1348057468743450735/85394785-4A41-495B-8743-24A5849994EF.png?ex=68d1cb5a&is=68d079da&hm=f8e15500b015b3086b68f68ee88bb173b2e4d3c5e2d23417352a088edf6a7008&]
+[22:19] 318105451810127872: https://www.twitch.tv/kyokokishin
+[22:19] 318105451810127872: alors
+[22:19] 318105451810127872: je connais pas
+[22:19] 318105451810127872: comment j'ai pu recevoir un sub pour elle x)
+"""

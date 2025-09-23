@@ -1,0 +1,20 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 340]
+Période: 2025-08-14 à 2025-08-14
+[16:04] 306809650802589696: J’ai 40min à tuer a la gare de bordeaux y’a du monde pas loin ?
+[16:11] 471793126873497600: Dommage je suis pas loin mais là je fais les courses mdr
+[16:12] 306809650802589696: Rip
+[16:14] 306809650802589696: La chaleur de salopard
+[16:19] 471793126873497600: Ah bah là oui
+[16:19] 471793126873497600: Je crois y a un Starbucks tu peux aller chill la bas
+[16:20] 306809650802589696: Jvais y passer parceque de toute façon y’a des problèmes en gare j’suis même pas sur j’aurais mon ter
+[16:23] 471793126873497600: Bah la SNCF hein
+[16:49] 471793126873497600: Alors des news ?
+[16:50] 306809650802589696: J’ai mon ter j’attend qu’il parte la
+[16:50] 306809650802589696: Mais c’était la galère
+[16:50] 306809650802589696: SNCF be like
+[16:50] 471793126873497600: Déjà t’as le TER
+[17:14] 318105451810127872: J’ai mon train dans 30 min
+[17:14] 318105451810127872: Me porte pas la guigne
+"""

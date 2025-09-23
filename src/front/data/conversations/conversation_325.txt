@@ -1,0 +1,15 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 325]
+Période: 2025-07-22 à 2025-07-22
+[07:13] 265210499627614208: mec
+[07:13] 265210499627614208: voilà actuellement ce que ma promo fait
+[07:13] 265210499627614208: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1397114385054433381/image.png?ex=68d248aa&is=68d0f72a&hm=53d0c5b89894839532b7893e8b07e07bb022dbf4990933fcf682db14e4314090&]
+[07:32] 177442452934754304: Bahahhaha
+[07:48] 265210499627614208: y'a ue ça aussi Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1397123156120174664/image.png?ex=68d250d5&is=68d0ff55&hm=4098d1468f0523930f62f730e3367584cccc2b1c8157dd59d548389edb133fb7&]
+[10:08] 362260685540818944: Merge de salopard Réactions: [<:kekw:825766805644771378> x3] Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1397158467214770257/image.png?ex=68d1c8f8&is=68d07778&hm=163850ae1bffb48880d65764dff012f60e49ae03ceb6f161c5b4a20ebf47258e&]
+[13:57] 318105451810127872: Oh je viens de vivre un truc
+[13:57] 318105451810127872: Je reçois une notif, nouveau match tinder
+[13:57] 318105451810127872: Je vais voir
+[13:57] 318105451810127872: “Le match n’est plus disponible”
+"""

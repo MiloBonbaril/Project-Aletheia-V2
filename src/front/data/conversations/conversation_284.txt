@@ -1,0 +1,7 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 284]
+Période: 2025-05-15 à 2025-05-15
+[11:43] 293414992663805952: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1372539870781640794/IMG_1745.jpg?ex=68d1df1d&is=68d08d9d&hm=6f79efa42be81e00afccb2bf42622247967eaba21927455c403859ebb4644b41&, https://cdn.discordapp.com/attachments/1202714611095310469/1372539871075500082/le_generique_de_le_fromage_frais.mp3?ex=68d1df1d&is=68d08d9d&hm=101cf91c21b3e541306bb6758f8d0315ffcd89ad73f35b67403e41604995c379&]
+[12:28] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1372551309756076053/Designsanstitre_2_c9960ca7-48d5-48ca-be8a-09690197d3d5.webp?ex=68d1e9c5&is=68d09845&hm=59f5a1f8388433c981e58dda1b99fc2e012e1139e05b19f3b239ae83dd8750e4&]
+"""

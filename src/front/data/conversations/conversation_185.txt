@@ -1,0 +1,8 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 185]
+Période: 2024-12-09 à 2024-12-09
+[09:08] 293414992663805952: Je vais me faire gank par teemo demain Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1315605873611243561/image0.jpg?ex=68d26373&is=68d111f3&hm=880732e6596c55fe11f83d6abc841b37d4b09193dac6b71ce384469a7a21a5c0&]
+[09:09] 733261833993060352: Omg
+[09:31] 318105451810127872: Donc tu as dit à ton tuteur que tu seras absent tout naturellement
+"""

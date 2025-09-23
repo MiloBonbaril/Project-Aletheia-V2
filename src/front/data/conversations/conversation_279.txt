@@ -1,0 +1,8 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 279]
+Période: 2025-05-09 à 2025-05-09
+[01:09] 293414992663805952: Je viens d’apprendre que l’un des rare man qui chante dans clair obscur a fait aussi les soundtrack des devil may cry
+[02:00] 733261833993060352: Damn
+[07:50] 318105451810127872: Dans la map blanche la ? Sa mère il m’a fait flippé
+"""

@@ -1,0 +1,20 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 261]
+Période: 2025-04-09 à 2025-04-09
+[12:15] 306809650802589696: https://open.spotify.com/intl-fr/track/22wzqoECjwKEZEw37WbAXX?si=84052352c1174e69
+[18:50] 362260685540818944: Y'a du monde pour du REPO ce soir ?
+[18:58] 362260685540818944: <@304220517273960449> <@318105451810127872> <@733261833993060362> <@310887154702090243> ?
+[18:59] 310887154702090240: dispo, mais pas tout de suite je vais manger
+[19:03] 318105451810127872: oui
+[19:04] 362260685540818944: Ouais je mange viteuf aussi tkt
+[19:04] 362260685540818944: Dans 15-20 min je suis là
+[19:20] 304220517273960448: Same je serai la tard si je viens
+[19:30] 318105451810127872: pingez moi quand y'a, je finis mon chapitre pépouse
+[19:30] 362260685540818944: <@318105451810127872>
+[19:30] 362260685540818944: <:catent:1216696293754146826>
+[19:34] 318105451810127872: écoute moi bien petit batard de tes morts
+[19:36] 362260685540818944: https://tenor.com/view/gitan-gif-9655298
+[19:37] 318105451810127872: https://tenor.com/view/gitan-tu-vas-repartir-mal-copain-gif-27213397
+[19:47] 362260685540818944: <@257130155720441856>
+"""

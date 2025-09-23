@@ -1,0 +1,15 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 226]
+Période: 2025-02-09 à 2025-02-09
+[11:14] 318105451810127872: https://www.nexusmods.com/monsterhunterrise/mods/3447?tab=description
+[11:14] 318105451810127872: 'fin
+[11:14] 318105451810127872: x)
+[13:08] 293414992663805952: https://youtu.be/2w2IHbYhyk4 <@318105451810127872>
+[13:11] 318105451810127872: ça va c'est équilibré la LS
+[13:13] 318105451810127872: https://www.youtube.com/watch?v=VoCoY-swaVc
+[13:14] 318105451810127872: https://www.youtube.com/watch?v=QY9nOXPb2EM
+[13:14] 362260685540818944: Faut aller se faire foutre la LS
+[13:15] 362260685540818944: Le man, le 3/4 des attaques lui font passer à travers les attaques du monstre
+[13:15] 362260685540818944: Et son attaque focus qui proc toutes les blessures
+"""

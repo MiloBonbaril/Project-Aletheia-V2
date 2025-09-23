@@ -1,0 +1,12 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 324]
+Période: 2025-07-21 à 2025-07-21
+[08:01] 265210499627614208: <@362260685540818944> t'as cours ?
+[08:01] 362260685540818944: Ouais
+[08:01] 362260685540818944: En distanciel
+[08:02] 265210499627614208: pov mon cours
+[08:02] 265210499627614208: "si la borne wifi est débranchée, le WIFI cesse d'être emis"
+[08:03] 362260685540818944: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1396764391935967364/470051375_1124619938716641_3915004775369286370_n.jpg?ex=68d25435&is=68d102b5&hm=c7385b0c44916d0f7cbf5f8677eadfa1a9c5fcb9e2aca44a717b72301165796f&]
+[08:03] 177442452934754304: eh ouais mais comment tu aurais pu savoir si on te l'avais pas dit hein?
+"""

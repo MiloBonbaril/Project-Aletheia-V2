@@ -1,6 +1,16 @@
 Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
 """
 [Conversation 95]
-Période: 2025-05-25 à 2025-05-25
-[06:45] 894963658189332480: T'inquiète c'est la même pour moi j'ai poser des cv dans tout les BK et Mcdo a coté de chez moi je suis en vu. j'ai postuler dans des restos je suis en vu, chez Action en vu. EH GROS SAYEZ
+Période: 2024-07-24 à 2024-07-24
+[16:57] 289796655862251520: je passe sur angoulême pour faire des visites y'a une mamie qui me propose du ponche une fois que je suis installé
+[16:57] 293414992663805952: comment ça frr
+[16:58] 289796655862251520: bah je crois qu'elle a l'alcool dans le sang
+[16:59] 293414992663805952: va falloir expliqué dans quelle circonstance une mamie te propose un ponche
+[17:08] 318105451810127872: Des visites pour ton appart ?
+[17:27] 289796655862251520: bah on l'a croisée dans le rue
+[17:27] 289796655862251520: on se dit bonjour
+[17:27] 289796655862251520: qu'on est là pour des visites
+[17:27] 289796655862251520: et que si je m'installe à coté sonne au 30 et petit ponche
+[17:36] 289796655862251520: à bordeaux je dis bonjour à qqn que je connais pas je suis un alien
+[17:36] 289796655862251520: à angoulême je dis bonjour je suis un alcolo
 """

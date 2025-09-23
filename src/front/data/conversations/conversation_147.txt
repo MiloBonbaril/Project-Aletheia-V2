@@ -1,0 +1,13 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 147]
+Période: 2024-10-12 à 2024-10-12
+[05:52] 231502335287754752: ptn jveux du saucisson mtn
+[05:52] 231502335287754752: par contre dou tu prends du coca bootleg toi
+[09:27] 318105451810127872: C’est pour aller avec le whisky
+[09:27] 318105451810127872: Autrement dit osef
+[09:28] 231502335287754752: faut dormir
+[11:39] 184740927108153344: Réel
+[12:03] 318105451810127872: dis l'autre qui envoie un msg à 4h du mat
+[17:06] 231502335287754752: Eh
+"""

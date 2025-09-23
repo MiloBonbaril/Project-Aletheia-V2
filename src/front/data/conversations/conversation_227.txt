@@ -1,0 +1,37 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 227]
+Période: 2025-02-10 à 2025-02-10
+[14:26] 318105451810127872: 'fin
+[14:27] 318105451810127872: va falloir que je me refasse une config entière en fait
+[14:27] 318105451810127872: j'ai fais ni le bon choix de CPU ni de GPU
+[14:27] 293414992663805952: Bah oui
+[14:27] 293414992663805952: T’es con
+[14:27] 293414992663805952: Normal aussi
+[14:28] 362260685540818944: Après t'as joué sur la version pas optimisé sur la beta
+[14:28] 318105451810127872: mais même en général
+[14:28] 318105451810127872: mon proco se prend une torpille par tous les autres
+[14:29] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1338517108924874815/images.png?ex=68d205f3&is=68d0b473&hm=63191334030910380646fe52ae588da34742adbd21f91eefa92af67152c4340f&]
+[14:29] 318105451810127872: mon cpu en question
+[14:29] 310709886121934848: t'as quoi comme cpu
+[14:29] 318105451810127872: Ryzen 7 5800x
+[14:30] 318105451810127872: je check des bench comparatifs
+[14:30] 318105451810127872: c'est presque unanime
+[14:30] 318105451810127872: 50fps de moins qu'un 5700 X3D
+[14:32] 293414992663805952: Question
+[14:33] 293414992663805952: Pourquoi tu ne regardes pas les bench AVANT ?
+[14:33] 293414992663805952: Nan parce que c’est un peu le principe d’un bench
+[14:34] 318105451810127872: pitetre parce que j'ai fait l'erreur de trust des gens
+[14:34] 293414992663805952: ´fin
+[14:34] 293414992663805952: Déjà tu connais des gens
+[14:34] 293414992663805952: Après tu côtoies des gens cons
+[14:34] 293414992663805952: Et après tu ne vérifies pas mes dires
+[14:35] 293414992663805952: Y a un moment c’est sûr que ça va mal se passer
+[14:36] 318105451810127872: y'a que ma ram qui va bien lmao
+[14:45] 362260685540818944: Des bonnes rames dans une barque trouée ça marche pas vla bien
+[14:45] 362260685540818944: *Beyou - 2025*
+[14:46] 362260685540818944: à méditer
+[14:46] 293414992663805952: https://tenor.com/view/sardoch-sardoche-filosof-philosophe-philo-gif-24226685
+[14:56] 318105451810127872: ça fait réchléfir
+[15:19] 265210499627614208: j'avais le meme proco que toi et j'ai upgrade avec le X3D et je confirme que la diff est violente
+"""

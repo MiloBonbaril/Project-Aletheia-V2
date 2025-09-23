@@ -1,0 +1,12 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 184]
+Période: 2024-12-08 à 2024-12-08
+[13:11] 318105451810127872: Les reufs
+[13:11] 318105451810127872: C’est fini
+[13:11] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1315304828322189372/IMG_2140.png?ex=68d1f3d4&is=68d0a254&hm=9f085299fd29ec46c4601e3b86e0ec6f87c8f7e09c72d4cbcbdf51c2e119c012&]
+[13:11] 318105451810127872: Ethan va cook de la d encore
+[13:12] 318105451810127872: Nasus OS
+[13:12] 293414992663805952: comme si j'allais t'attendre
+[13:12] 318105451810127872: J’en ai la preuve
+"""

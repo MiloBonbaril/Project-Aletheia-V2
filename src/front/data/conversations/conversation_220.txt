@@ -1,0 +1,53 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 220]
+Période: 2025-02-01 à 2025-02-02
+[12:10] 306809650802589696: J’ai réussi à faire l’oignon parfait 😂 Réactions: [🤩 x1] Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1335220855570960414/ce80a305-3fd9-4ab1-beb2-496e8e1c44cd.mov?ex=68d1e593&is=68d09413&hm=d442f3e80828475c82e409905be8abcb9cb904e2efd2cf9f7cc23d1b4f862600&, https://cdn.discordapp.com/attachments/1202714611095310469/1335220855956832336/954ad7a7-defe-45bc-8fee-a6d4574bfb26.mov?ex=68d1e593&is=68d09413&hm=dc8439b1dc4139ae5aa7d5f2a22bac6c9c3983522f62431a629f17229a2e1bfd&]
+[12:19] 318105451810127872: la joie d'un homme
+[15:03] 362260685540818944: <@289796655862251521> <@304220517273960449>
+
+ça vous dit qu'on bouffe ensemble ce soir avant et/ou après de picoler ?
+[15:03] 304220517273960448: Oui pourquoi pas
+[16:01] 362260685540818944: On se rejoint à 20h à côté du Délirium et on trouve un endroit où bouffer ? Réactions: [👍 x2]
+[16:18] 289796655862251520: ça me va
+[16:18] 289796655862251520: je suis a difintel en attendant
+[17:14] 177442452934754304: je suis explosé par la fatigue ca va etre complexe ce soir
+[18:15] 293414992663805952: Je serais un peu en retard Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1335312487742050364/image0.jpg?ex=68d23ae9&is=68d0e969&hm=61e50a69fc5d5a1e3032292881b42bdfc2f43143e2d064010172a29ef9836cef&]
+[18:27] 304220517273960448: Moi aussi champion
+[18:36] 289796655862251520: bon je suis arrivé
+[18:50] 362260685540818944: Je suis là dans 30s
+[18:51] 362260685540818944: Je suis là
+[18:51] 289796655862251520: devant le bar?
+[18:52] 362260685540818944: Ouaip
+[18:52] 289796655862251520: j'arrive
+[18:59] 304220517273960448: Je suis là
+[18:59] 304220517273960448: On va pas au bureau ?
+[19:08] 293414992663805952: Je suis sur les quais j’arrive
+[19:14] 293414992663805952: <@362260685540818944> <@304220517273960449> vous êtes où ???
+[19:15] 304220517273960448: On est dans le delirium
+[19:15] 293414992663805952: Ok j’arrive
+[19:20] 362260685540818944: Là
+[22:38] 318105451810127872: https://www.tiktok.com/@tomschoenwolf/video/7465639340450778390?is_from_webapp=1&sender_device=pc
+[22:38] 318105451810127872: <@345687789146341377> elle vient de tomber dans mon feed
+[22:39] 306809650802589696: j'ai pas pu filmer le moment ou j'ai l'ai couper mais legit ça c'est passé comme ça
+[22:39] 345687789146341376: ??????????
+[22:39] 306809650802589696: il voulait peux etre me ping moi
+[22:39] 306809650802589696: mdr
+[22:39] 345687789146341376: Je pense oui
+[22:40] 318105451810127872: mb c'était pas toi alors
+[22:40] 345687789146341376: J'en ferais pas un élevage de celui là
+[22:40] 318105451810127872: c'était Beyou
+[00:58] 318105451810127872: https://vm.tiktok.com/ZNeoNbdef/
+[00:58] 318105451810127872: Allez
+[00:58] 318105451810127872: C’est trop pour moi
+[00:59] 318105451810127872: Ubisoft c’est ciao merci d’être venu
+[04:19] 293414992663805952: Bien rentré <:SH_joe_wink:1274418385488445502>
+[06:34] 231502335287754752: le site que certains profs utilisent pour des devoirs est tellement bien foutu qu'il y a moyen d'avoir leur clé github ET leur clé api admin 👍
+[06:35] 231502335287754752: (et du coup t'as 4 moyens différents de changer ton score avec ca)
+[16:00] 318105451810127872: https://x.com/Corleone040480/status/1885742532073586851
+[16:00] 318105451810127872: je devienne fou ou je rester calme
+[16:00] 231502335287754752: Tu devienne fou
+[16:27] 320991311312322560: Le compte Twitter de PX c’est très grave quand même Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1335647863061090445/IMG_7055.png?ex=68d221c1&is=68d0d041&hm=a6d8bb8e54cc496a039785e3ecec959a422458a0717e1c8de43adf3475ed6b50&]
+[17:53] 177442452934754304: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1335669496106451064/image.png?ex=68d235e7&is=68d0e467&hm=491a8974c12d1fe851c6b37bafcbebf50c0194a67ac560704347c7b8ec1ccc9d&]
+[17:53] 177442452934754304: ce fou la
+"""

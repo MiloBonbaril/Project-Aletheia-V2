@@ -1,96 +1,46 @@
 Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
 """
 [Conversation 89]
-Période: 2025-05-04 à 2025-05-07
-[20:47] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1368690537149763684/image.png?ex=68d25ea5&is=68d10d25&hm=1650e49e9fe7dd856e70c74f20bc76f768618d9f5e5df2147fb96bbc5ca43f75&]
-[20:47] 318105451810127872: vu dans la mini série d'asterix et obelix
-[20:48] 293414992663805952: oui c'est le même studio
-[08:12] 306809650802589696: https://tenor.com/view/steven-he-smells-like-unemployment-gif-24103074
-[08:12] 306809650802589696: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1368862917373722734/IMG_1961.png?ex=68d2566f&is=68d104ef&hm=4347a33fd11475f0d1d1ac5a73ebe502a651a4d6ac0e6c330f616a7aed4b5111&]
-[08:15] 293414992663805952: frr là c'est la merde
-[08:15] 293414992663805952: j'ai un déploiment en PROD qui a pété
-[08:20] 362260685540818944: Sounds like a you problem
-[08:31] 471793126873497600: Il a trouvé la solution, joué a candy crush
-[09:29] 318105451810127872: https://x.com/CerfiaFR/status/1919296621013049428 Réactions: [<a:leonardodicapriocheers:835477055889080320> x1]
-[09:30] 318105451810127872: on vit à la meilleure période de l'humanité je crois
-[21:24] 184396639593562112: C’est vraiment trop un kiffe d’être ici à ce moment là !
-[21:54] 293414992663805952: Pour toi oui c’est un kiffe, <@&1368865425018064916>
-[13:42] 318105451810127872: là j'en ai vu des choses mais là
-[13:42] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1369308358980403231/image.png?ex=68d1fb09&is=68d0a989&hm=da2df8bc223409a6d5c9390cf0fb852703b663372ec9dff0ca4055c48ad0c6e4&]
-[13:42] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1369308435627114617/image.png?ex=68d1fb1b&is=68d0a99b&hm=5d60e73aa683f432dd273bedec92e703517e8c3108e87d3dce795174e69fbe7e&]
-[13:43] 318105451810127872: j'ai eu un putain de everyone pour ça
-[13:55] 362260685540818944: C'est quoi ce serveur de con
-[13:56] 293414992663805952: Lissof
-[14:03] 318105451810127872: ui
-[14:03] 318105451810127872: je suis en taupe dessus
-[14:03] 318105451810127872: ah mais toi aussi t'y es Ethan
-[14:04] 362260685540818944: ouais ouais
-[14:04] 318105451810127872: https://www.youtube.com/watch?v=VQRLujxTm3c
-[14:04] 362260685540818944: "en taupe"
-[14:04] 318105451810127872: ah mais je vois des dingueries dedans
-[14:04] 318105451810127872: je plisse les yeux quand je vois ça
-[14:06] 318105451810127872: y'a pas un bail comme quoi les PC on aura tous les jeux xbox ? Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1369314331409514648/image.png?ex=68d20099&is=68d0af19&hm=8a6cca0616dbc4d1a3cbd5b88350c4ef82d3f8b6b1a6f7d664bf56829952391d&]
-[14:06] 293414992663805952: On aura le jeu 1 an plus tard
-[14:06] 293414992663805952: C’est rockstar
-[14:07] 318105451810127872: oui comme d'hab
-[14:09] 293414992663805952: Bon
-[14:09] 293414992663805952: Imaginez
-[14:10] 318105451810127872: ouais j'imagine là
-[14:10] 293414992663805952: Je tape un vla DELETE sur la base de données de PROD
-[14:10] 293414992663805952: Imaginé je vois que ça prend 3 plombes
-[14:10] 318105451810127872: https://tenor.com/view/doja-cat-star-wars-gif-25078126
-[14:10] 293414992663805952: Imaginez, j’annule par peur
-[14:11] 293414992663805952: Imaginez, je retourne sur la table
-[14:11] 293414992663805952: Et rien ne s’affiche
-[14:11] 293414992663805952: Je relance la vm (lecteur sql) et là y a tout
-[14:12] 293414992663805952: Et je redelete, sauf que cette fois ci je suis sur de moi
-[14:12] 293414992663805952: Histoire basée sur des faits réel
-[14:13] 318105451810127872: Mais du coup, Qu'as tu supprimé au début ?
-[14:13] 293414992663805952: Les trucs que je suis sur de vouloir supprimer
-[14:13] 293414992663805952: Juste que j’ai commencé par le plus gros
-[14:13] 293414992663805952: Genre 60millions de lignes
-[14:13] 318105451810127872: oof
-[14:13] 293414992663805952: Ça a pris 454 secondes
-[14:14] 293414992663805952: Mais mtn j’ai une BDD clean !
-[14:14] 362260685540818944: DROP TABLE aah moment
-[14:14] 318105451810127872: wtf Ethan, pourquoi je n'ai plus de compte en banque ?
-[14:16] 293414992663805952: Nan ça ça risque pas tkt
-[14:16] 318105451810127872: https://tenor.com/view/huh-huh-emote-twitch-emote-7tv-twitch-7tv-gif-18228911432715801849
-[14:16] 293414992663805952: Juste que les décideurs des banques clientes vont venir taper à ma porte
-[14:16] 318105451810127872: https://tenor.com/view/jean-marie-bigard-bigard-ils-sont-aux-ordres-du-pognon-pognon-aux-ordres-gif-20558697
-[14:18] 293414992663805952: La première fois qu’on me l’a sorti j’ai eu Bigard comme un flash dans ma gueule
-[14:18] 318105451810127872: ah mais c'est un vrai terme dans ta boite là x)
-[14:30] 293414992663805952: Ui XD
-[16:32] 318105451810127872: oh les gars je viens de faire une découverte sur moi
-[16:33] 318105451810127872: je dois être l'aigri Originel
-[16:33] 318105451810127872: j'ai l'impression d'être le seul à ne pas trouver Paul de Saint Sernin drole du tout
-[16:44] 293414992663805952: <:wut:1216695984889794570>
-[16:44] 293414992663805952: c ki
-[16:44] 310709886121934848: c ki ?
-[16:44] 310709886121934848: <:wut:1216695984889794570>
-[16:45] 318105451810127872: https://www.youtube.com/watch?v=YNETO9srEz4&list=PLSwIKxHzxkui09-8CTJu18rY3VpX4VLRe&index=1
-[16:46] 362260685540818944: <:wut:1216695984889794570>
-[16:56] 310709886121934848: inconnu au bataillon le man
-[16:57] 318105451810127872: en gros son job, c'est de faire des vannes sur l'invité sur le plateau de Quelle Epoque avec Lea Salamé
-[16:57] 318105451810127872: et genre dès que je le vois, tout le monde est HILLARE et je comprends pas où est l'humour
-[18:06] 177442452934754304: le man a été condamné pour agression sexuelle et le man a aussi eu 2 affaire sans suite pour viol parce que "prescription"
-[18:06] 177442452934754304: il a juste roasté en live
-[18:07] 177442452934754304: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1369375041548062731/001516FB-AC48-4A6E-A292-092763EF1CB2.png?ex=68d23923&is=68d0e7a3&hm=7397b596d004c377220208726c740469a27be6d458119cc54671906bcaa844cf&]
-[18:07] 177442452934754304: le passif du man
-[18:07] 177442452934754304: si jamais Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1369375119989932073/1BFB2118-8285-41B6-934A-30C438C324E8.png?ex=68d23936&is=68d0e7b6&hm=356c2b98cb80704794e86885a355f4680203a674430961ee1b14e5297b1c59ef&]
-[18:18] 293414992663805952: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1369377719531606046/IMG_1570.jpg?ex=68d23ba2&is=68d0ea22&hm=1dbbb4315f5eb12894461cbc8b6a37bde5fed1e916b4f4c48d8c01f213edf5a4&]
-[18:18] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1369377739219406848/image.png?ex=68d23ba6&is=68d0ea26&hm=c24b170b57192e8f4b732260982fee506504b0362e68facc0a3bbf26312fc2c3&]
-[18:18] 318105451810127872: c'est quoi cette merde encore
-[21:24] 318105451810127872: https://x.com/Mediavenir/status/1919863993310839123
-[21:25] 318105451810127872: https://tenor.com/view/mister-v-gif-23137790
-[21:35] 485830755537125376: C'est bizarre, je viens de voir l'info inverse
-[22:53] 318105451810127872: les reufs
-[22:53] 318105451810127872: c'est quoi cette merde
-[22:53] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1369446967075143760/image.png?ex=68d1d360&is=68d081e0&hm=94a5b9d36468e89205722d2bf5bd19746237c350f5462648aca70d10a64eb5a2&]
-[22:56] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1369447808125632553/image.png?ex=68d1d428&is=68d082a8&hm=b8dc04a32fc29e5b97613e9bd7ca1db85230310a19663f1edb9a0e3f4318e15e&]
-[22:56] 318105451810127872: ah ouais de fou là
-[22:56] 318105451810127872: donc là je viens de me faire baiser 10 balles
-[22:56] 318105451810127872: super
-[05:44] 471793126873497600: Tu te fais souvent baiser je trouve
-[07:29] 318105451810127872: Pas par les bonnes personnes je trouve
+Période: 2024-07-13 à 2024-07-14
+[18:49] 289796655862251520: je crois que je vais finir bourré ce soir
+[20:18] 293414992663805952: WP
+[21:36] 289796655862251520: je suis bieng là
+[21:44] 485830755537125376: Ça fait envie
+[21:48] 293414992663805952: on t'as jamais appris à ne pas utilisé ton tel quand tu es vourré
+[21:48] 293414992663805952: tu risque de le regretté très très fort
+[21:50] 289796655862251520: comment ça
+[21:52] 485830755537125376: Erreur de destinataire ou instant sincère si vite arrivé
+[21:52] 289796655862251520: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1261802480333750302/IMG_20240713_235211443.jpg?ex=68d1c522&is=68d073a2&hm=407bef916db33a6ea0ab9b44dd0ba56b94a6c8b13d4c4f26fb100143bd47dce3&]
+[21:52] 289796655862251520: bourré/20
+[21:53] 289796655862251520: vaaaaaaaaamos
+[21:53] 289796655862251520: - mon pote bourré
+[21:53] 293414992663805952: https://tenor.com/view/etienne-nelson-bolidage-satellis%C3%A9-vous-etes-satellis%C3%A9s-gif-13402302 Réactions: [😂 x3]
+[21:57] 289796655862251520: je m'excuse sincerement pour le doigt d'honneur
+[21:57] 289796655862251520: l'alcool me fait perdre mes moyens
+[21:57] 289796655862251520: la bise
+[21:58] 289796655862251520: - mon pte bouré
+[21:58] 289796655862251520: il veut faire un salut allemand des annes 40 Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1261804083128434688/rn_image_picker_lib_temp_8516eeeb-d9b3-4aac-887e-2399cf44816e.jpg?ex=68d1c6a0&is=68d07520&hm=91c0f25c8b4e4afc85d27e19c74cc864a4c3da2209bacb458e033604890ae140&]
+[22:05] 289796655862251520: la sobriete n'est point presente
+[22:06] 362260685540818944: https://cdn.discordapp.com/attachments/772140977921982474/1235886947474341908/teatime6.GIF
+[22:09] 289796655862251520: c'est marrant j'ai dumal à récreire des messages
+[22:10] 289796655862251520: ça me rait fortement rire
+[22:10] 293414992663805952: https://tenor.com/view/the-rock-chinese-gif-26315785
+[22:19] 289796655862251520: ca va faire des dossiers demain
+[22:19] 289796655862251520: bing chilling
+[22:20] 289796655862251520: wtf je me fais envoyel mon prtable
+[22:20] 289796655862251520: la moitié des messahes sont pas de moi wyf
+[22:22] 289796655862251520: j'ai mes shots qui se staxids commes des stacks dem mejai là
+[22:22] 289796655862251520: je suis bienyôt à 25 qtaks
+[22:51] 289796655862251520: ça c'est une  hprooto de ma pota parcequ'il sait pas dervir un verrre Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1261817386512683018/IMG_20240714_005112392.jpg?ex=68d1d304&is=68d08184&hm=27df173f18da405f95650d41e9ef932b687fd625d0f665d3d948b915b7838760&]
+[22:52] 289796655862251520: je crois q'uil es bientoit temps de vous faire chier
+[23:22] 289796655862251520: oigain là je vois deux kamos tcxfs9
+[23:52] 231502335287754752: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1261832736172277881/c85d1b58e067a086e0f431539ff45aee.jpg?ex=68d1e150&is=68d08fd0&hm=33014c017c31a107d332fdce983d0bc53a02e03619ae1f97dccde325a7ba57f3&]
+[01:55] 393029454672166912: je suis bieeeeeen
+[01:55] 393029454672166912: mais pas autant que <@289796655862251521>
+[01:56] 293414992663805952: Stickers [Chotto matte]
+[01:56] 393029454672166912: un message de soutien pour lui svp 😪
+[01:56] 293414992663805952: Stickers [catmiddlefingerv2] Réactions: [😶 x2]
+[06:06] 289796655862251520: je ne regrette rien
+[14:30] 362260685540818944: https://youtu.be/CSl-A4_uxy4
+[14:34] 293414992663805952: Terrifiant
 """

@@ -1,0 +1,17 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 302]
+Période: 2025-06-11 à 2025-06-11
+[04:39] 304220517273960448: quelqu'un s'y connaît en cartes pokémon ici ?
+[06:36] 306809650802589696: Nouvelle ou ancienne gen ?
+[17:55] 293414992663805952: Oh la gueule de la soirée tuteurs/tutrices d’epitech
+[17:56] 293414992663805952: J’le dis
+[19:18] 293414992663805952: <@362260685540818944> il se passe une zinzinerie actuellement
+[19:19] 293414992663805952: Tu vois le indian dubstep
+[19:19] 293414992663805952: Bah t’imagines ca en remix electro
+[19:19] 362260685540818944: hmm hmm
+[19:19] 362260685540818944: Intéressant
+[19:20] 293414992663805952: C’est en train de passer alors qu’on est en train de parler avec l’adm d’epitech et les tuteurs
+[19:20] 293414992663805952: Je suis full issou
+[19:30] 362260685540818944: ptdrr
+"""

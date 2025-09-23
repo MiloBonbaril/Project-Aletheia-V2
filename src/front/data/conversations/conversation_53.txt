@@ -1,7 +1,28 @@
 Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
 """
 [Conversation 53]
-Période: 2024-11-30 à 2024-11-30
-[10:07] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1312359367458422867/image0.jpg?ex=68d1c8a7&is=68d07727&hm=0e5d68ef2fd62f5e2e8d77c378760c774a3ec5b90b18ccb9205a714e243449fd&]
-[10:07] 318105451810127872: Depuis quand Facebook c’est tinder ?
+Période: 2024-05-05 à 2024-05-06
+[21:37] 471793126873497600: <@293414992663805952> t'as regardé le GP de Miami ?
+[21:37] 293414992663805952: non
+[21:38] 471793126873497600: Il était cool en vrai
+[07:13] 293414992663805952: Bon bah j’ai one shot tout le loldle
+[07:13] 362260685540818944: gg
+[07:14] 310709886121934848: perso je commence bien Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1236939164503511101/Capture_decran_610.png?ex=68d248de&is=68d0f75e&hm=d22567f7fa0d71481db0c3422c32e5a641fb7460cebeac775c135f14e11e6d05&]
+[07:25] 362260685540818944: https://hexcodle.com/
+[07:26] 362260685540818944: <@293414992663805952> nouveau moyen de procrastination unlock
+[07:28] 293414992663805952: Nan mai frr
+[07:28] 293414992663805952: C’est vla chaud en vrai nan ?
+[07:28] 293414992663805952: Je m’y connais pas assez en hexa code pour les couleur
+[07:29] 362260685540818944: ça va
+[07:29] 362260685540818944: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1236942912961646622/image.png?ex=68d24c5b&is=68d0fadb&hm=644a2d354b3641d2b0e6f5fe2fe37e1a25b70e994be8a435bdcb98c19283b44e&]
+[07:29] 362260685540818944: J'ai réussi à la dernière tentative
+[07:30] 293414992663805952: Ah ok
+[07:32] 293414992663805952: J’ai mis 1 essai en plus parce que j’ai des gros doigts x)
+[07:33] 362260685540818944: Et on peut faire les précédents
+[13:30] 362260685540818944: Pascal qui me fait faire du CSS à la con parce que gneugneu le client pouvait pas donner une idée précise de la chose day1 mais 3 mois plus tard, eh gros sayer
+[13:37] 306809650802589696: d'un côté il a pas tort, quand on te commande un produit le client il à jamais l'idée final en tête day one
+[13:38] 362260685540818944: Ouais bon 3 mois pour sortir 3 pages web
+[13:39] 306809650802589696: bon faut doser aussi
+[13:39] 362260685540818944: fin téma la gueule du machin en plus Réactions: [<:trumpe:1216696670566355004> x1] Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1237036008755957890/Interface-Enovon-UP.pdf?ex=68d1fa4f&is=68d0a8cf&hm=f7b88771037bb3e0f4913242c73f8829f4fb7550d05aeb0117834209de71fd97&]
+[15:31] 485830755537125376: Les gens, j'ai trouvé un bot marrant, "Make It Quote", pour le salon <#1205419520399908916>
 """

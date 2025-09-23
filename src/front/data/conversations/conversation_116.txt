@@ -1,11 +1,16 @@
 Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
 """
 [Conversation 116]
-Période: 2025-08-12 à 2025-08-12
-[16:41] 318105451810127872: les gars je vais devoir arrêter ma session BR de demain
-[16:41] 318105451810127872: je signe mon contrat à 15h
-[16:41] 318105451810127872: br dans les burgers les gars ?
-[18:37] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1404896566392783019/image.png?ex=68d24023&is=68d0eea3&hm=007addaf79f50b18636ea636546f263b5dec93dbe14ac0f1e56c1097509b3f72&]
-[20:20] 318105451810127872: https://wplace.live/?lat=32.36014150264228&lng=-86.25225619072266&zoom=12.056122536416737
-[20:20] 318105451810127872: je vais souffler
+Période: 2024-08-27 à 2024-08-27
+[10:39] 177442452934754304: https://open.spotify.com/album/6gwCs7zOmvbCTyNexJsMcb?si=jyqkriZAR8qt4FQOkxAPfw
+[10:39] 177442452934754304: <@362260685540818944> <@293414992663805952>  ALERTE GÉNÉRALE
+[13:26] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1277982685469610075/GV7pG2_X0AA6yyz.png?ex=68d1f75f&is=68d0a5df&hm=d1140dce4e61544809751aa69f318e676a6d017e070305221e5724d5048576dd&]
+[14:02] 177442452934754304: Alors
+[14:02] 177442452934754304: Je viens de générer un qr code pour un évent il y a 15 min littéralement
+[14:03] 177442452934754304: Je vais sur discord et je vois ca
+[14:03] 177442452934754304: Jpp
+[14:03] 231502335287754752: 👋
+[14:49] 362260685540818944: Vu, Écouté, Ajouté à la playlist
+[15:25] 177442452934754304: Machtou pichtou
+[15:25] 177442452934754304: Quel banger encore
 """

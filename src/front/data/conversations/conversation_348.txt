@@ -1,0 +1,14 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 348]
+Période: 2025-08-29 à 2025-08-29
+[12:31] 362260685540818944: Mon maitre d'alternance: "Att att on peut faire ta merde de 20 lignes en 5 lignes en faite"
+
+*Fait le code en 5 lignes*
+
+Les 3 fichiers qu'il a rajouté à côté: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1410965084171276359/image.png?ex=68d1ea62&is=68d098e2&hm=328f4e81bb33e91e267a08b48988b65baa5311dc641092a77739804c94eefa53&]
+[12:32] 293414992663805952: https://tenor.com/view/skinny-homer-homer-back-fat-homer-simpson-gif-25749447
+[12:33] 177442452934754304: Bahahahah
+[15:17] 733261833993060352: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1411006965785559162/Screenshot_2025-08-29-17-17-41-23_1c337646f29875672b5a61192b9010f9.jpg?ex=68d21163&is=68d0bfe3&hm=c95b1bbbd7986cab0756eb89a54295dd8f4bc14d1f8a0288cee3f740ddd2faeb&]
+[15:33] 318105451810127872: expedition 60 our dream
+"""

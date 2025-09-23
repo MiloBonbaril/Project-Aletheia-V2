@@ -1,0 +1,13 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 146]
+Période: 2024-10-11 à 2024-10-11
+[13:54] 318105451810127872: Le caddie de ravagés qu’on fait
+[13:54] 293414992663805952: https://tenor.com/view/shaking-cat-shaking-cat-alien-cat-gif-17719290639671130907
+[13:54] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1294297062526947410/IMG_2014.jpg?ex=68d1fdd2&is=68d0ac52&hm=b4a828d30b856ff254b97bc6941ec24a49f6d5c5fda6c26d6a31bba44fbcb548&]
+[14:28] 471793126873497600: C'est quand notre réu pour les alcooliques anonymes déjà ?
+[14:30] 362260685540818944: Le ratio alcool / soft est pas bon chef
+[14:40] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1294308644707635301/IMG_2015.jpg?ex=68d2089b&is=68d0b71b&hm=c562a2fc28b90fdd4d449bec451032b2bd1c7781fb8e370a49eec128799f524f&]
+[15:25] 184740927108153344: Bordel
+[15:26] 184740927108153344: Le jean's français c'est supposé être du coca ?
+"""

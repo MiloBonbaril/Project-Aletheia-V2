@@ -1,0 +1,11 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 339]
+Période: 2025-08-12 à 2025-08-12
+[16:41] 318105451810127872: les gars je vais devoir arrêter ma session BR de demain
+[16:41] 318105451810127872: je signe mon contrat à 15h
+[16:41] 318105451810127872: br dans les burgers les gars ?
+[18:37] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1404896566392783019/image.png?ex=68d24023&is=68d0eea3&hm=007addaf79f50b18636ea636546f263b5dec93dbe14ac0f1e56c1097509b3f72&]
+[20:20] 318105451810127872: https://wplace.live/?lat=32.36014150264228&lng=-86.25225619072266&zoom=12.056122536416737
+[20:20] 318105451810127872: je vais souffler
+"""

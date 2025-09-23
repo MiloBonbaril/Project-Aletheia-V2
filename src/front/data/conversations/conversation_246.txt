@@ -1,0 +1,7 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 246]
+Période: 2025-03-16 à 2025-03-16
+[10:36] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1350779715031666688/image0.jpg?ex=68d1cf64&is=68d07de4&hm=01cfbfdc9045cc95be999b0282b458e5403d0fc491be573e13bee2e43db64293&]
+[11:01] 293414992663805952: https://tenor.com/view/isaac-isaac-manalo-chinese-isaac-isaac-likes-men-isaac-yelling-for-no-reason-gif-21907392
+"""

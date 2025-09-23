@@ -1,0 +1,13 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 322]
+Période: 2025-07-18 à 2025-07-18
+[09:37] 306809650802589696: Toi aussi tu va nous faire des streams tinder en légende ?
+[09:39] 362260685540818944: Ptdr c'est bon ils sont assez pour faire une flex
+[12:12] 894963658189332480: non il y a déja assez de gens sur serv x)
+[12:12] 306809650802589696: Ils vont monter la squad du swipe to the right
+[12:13] 894963658189332480: après je me dis que je peux retrouver rapidement parce que demain je vais signer le bail pour ma colocation et on sera 2 hommes 2 femmes donc ça sera du 2v2
+[12:16] 362260685540818944: Le genre de coloc qui ne fini jamais bien
+[12:17] 894963658189332480: en vrai je m'en fou de la colocation j'avais plus que ça pour me loger donc bon je verrai bien mdr
+[16:29] 306809650802589696: le mec va solo 1V2 tu va avoir la mort x)
+"""

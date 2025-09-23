@@ -1,0 +1,11 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 186]
+Période: 2024-12-11 à 2024-12-11
+[11:31] 265210499627614208: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1316366830637420585/FB_IMG_1733916650033.jpg?ex=68d1dc65&is=68d08ae5&hm=b4476d010db9b8dcd10e391bf028f939ed04c49c5bd95712a9c2f7247eaba221&]
+[11:31] 265210499627614208: Pff
+[11:32] 265210499627614208: Hâte de jouer à LBGTA6
+[11:41] 177442452934754304: Issou
+[11:47] 733261833993060352: Haaaaa bon
+[11:47] 362260685540818944: https://tenor.com/view/nice-balls-gang-gif-4370207098360551720
+"""

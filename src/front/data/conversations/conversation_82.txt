@@ -1,18 +1,23 @@
 Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
 """
 [Conversation 82]
-Période: 2025-04-06 à 2025-04-06
-[18:56] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1358515623033966632/IMG_2643.jpg?ex=68d24484&is=68d0f304&hm=ce6c2f0933dfdb94274fa4c3dd9f5f353476d75d64aef9675dbdc7b9a37968ae&]
-[18:56] 318105451810127872: Du miel pour les papilles
-[21:02] 310709886121934848: qu'est ce que c'est que cette merde
-[21:06] 362260685540818944: Je sais que c'est bon
-[21:06] 362260685540818944: Mais vasi
-[21:06] 362260685540818944: y'a 0 effort sur la photo
-[21:06] 318105451810127872: alors
-[21:07] 293414992663805952: réel
-[21:07] 310709886121934848: réel
-[21:07] 318105451810127872: la photo tire la gueule parce que y'avait pas de lumière
-[21:07] 318105451810127872: mais c'était un giga bbq là
-[21:17] 177442452934754304: l'homme qui découvre son flash en 2025
-[21:18] 177442452934754304: <:blunder:1133740295729717350>
+Période: 2024-07-05 à 2024-07-05
+[07:30] 293414992663805952: ah la frr
+[07:30] 293414992663805952: c'est rigolo
+[07:31] 293414992663805952: on regarde les ploucs faire leur pres
+[07:31] 293414992663805952: avec un grand sourire
+[07:32] 362260685540818944: Et c'est Diego solo en 1er
+[07:32] 362260685540818944: Que du bonheur
+[07:32] 293414992663805952: https://tenor.com/view/guiguif-vega-missyl-indiff%C3%A9rent-%C3%A9tienne-le-bolideur-vega-missile-gif-22276654
+[07:32] 362260685540818944: Le mec ne sait pas parler c'est une folie
+[07:40] 231502335287754752: Ca va Ethan
+[07:40] 231502335287754752: Tu te mets bien
+[07:43] 293414992663805952: vla bien
+[07:43] 293414992663805952: à 2 doigts de lancer vampire survivor
+[07:43] 231502335287754752: Mdrr
+[07:43] 231502335287754752: Force
+[08:06] 293414992663805952: y a <@184396639593562113> il se croit rigolo avec son "Rick Astley" là
+[08:19] 184396639593562112: Dis ça à <@231502335287754754>
+[08:27] 231502335287754752: Moi? Jamais
+[08:28] 231502335287754752: T'as vu Pff
 """

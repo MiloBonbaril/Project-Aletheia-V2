@@ -1,0 +1,18 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 207]
+Période: 2025-01-17 à 2025-01-17
+[12:10] 362260685540818944: Le FC chomage au complet Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1329784884029554698/image.png?ex=68d1e56e&is=68d093ee&hm=b0e10e00cfffa54d8c558221915c2a91089a97e1539d179a1e87a735f87303e4&]
+[12:10] 894963658189332480: OUI 🙂 mais moi c'est normal je suis lycéen
+[12:11] 362260685540818944: Là tu cherches juste des excuses
+[12:12] 310709886121934848: j'ai demandé à être en TT ce matin
+[12:12] 894963658189332480: non c'est vrai, je fais un bac en 2 ans donc j'ai pas cours le vendredi parce que j'ai déja passer des matières mais bon moi ça me va
+[12:12] 762707476272775168: <@894963658189332530> you leveled up!
+[12:12] 310709886121934848: et puis c'est encore la pause repas
+[12:13] 362260685540818944: Tu sais Ethan est pas la meilleure source d'inspiration
+[16:25] 318105451810127872: La voiture du daron évolue
+[16:25] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1329849091928358942/IMG_2318.jpg?ex=68d2213a&is=68d0cfba&hm=e40a50bbe858349f95d4c98ca963171b8f931da6ca790b4194b69ac19f47ac0f&]
+[22:51] 318105451810127872: https://x.com/IdirHakimfr/status/1879443894091620651
+[22:52] 362260685540818944: waa Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1329946550725644448/image.png?ex=68d1d33e&is=68d081be&hm=b7cb3ea17cfacb5c3fbc246f9f23b91da830aa9c5d88a7ff07eb5a6cb891dd77&]
+[22:55] 318105451810127872: https://x.com/Pediavenir/status/1880202615541362990/photo/1
+"""

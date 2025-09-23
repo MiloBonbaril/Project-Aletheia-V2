@@ -1,6 +1,12 @@
 Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
 """
 [Conversation 41]
-Période: 2024-10-07 à 2024-10-07
-[08:09] 565140449195458560: https://tenor.com/view/peter-griffin-arabic-funny-gif-8158604463232638332
+Période: 2024-04-14 à 2024-04-14
+[08:53] 293414992663805952: <:ChillBar_rock:1011766331676299275> Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1228991613951414293/image.png?ex=68d26022&is=68d10ea2&hm=7130894be2f93421764829fefc1138dcea7d091bff36b31431643caa0b58835b&]
+[09:33] 362260685540818944: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1229001596797714534/IMG_20240414_113310.jpg?ex=68d1c0ae&is=68d06f2e&hm=7ad8a373dc24608e3c58f158ec6bf3769b1528e5be4f62bf4048704cd0160405&]
+[09:33] 362260685540818944: <@293414992663805952>
+[09:48] 293414992663805952: Stickers [yotaro]
+[09:50] 362260685540818944: Victoire du Castor Géant
+[09:50] 362260685540818944: 💪
+[10:58] 289796655862251520: il faut bien le taf
 """

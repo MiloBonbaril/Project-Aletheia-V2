@@ -1,0 +1,18 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 327]
+Période: 2025-07-25 à 2025-07-25
+[12:57] 293414992663805952: Steam montre combien tu as réellement dépensé chez eux, c’est terrifiant Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1398288089268355222/image0.jpg?ex=68d1f083&is=68d09f03&hm=76c67cee52ac532ec27aa1b44b011e63da31b3f866b2d89c4bd2c832c620bdbf&]
+[12:58] 293414992663805952: Support -> my account -> data related to the steam account -> external funds used
+[13:11] 318105451810127872: oshit
+[13:12] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1398291703240069251/image.png?ex=68d1f3e1&is=68d0a261&hm=cfe0122b332ed11ce7b61ab93515d666303c613d0c5d013d3e81dac5e9945124&]
+[13:13] 318105451810127872: putain mon compte a donc plus de 10ans mdr
+[13:53] 733261833993060352: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1398302177411203072/Screenshot_2025-07-25-15-53-20-20_a5f05134355d0c28d0e7113add1d3465.jpg?ex=68d1fda2&is=68d0ac22&hm=e8087e3008cc62b84c35a30caaf4b63247166d6a0627af8bdf2c1965560ed665&]
+[13:54] 733261833993060352: C'est quoi le oldspend ?
+[13:54] 318105451810127872: ce que tu as dépensé avant 2015
+[13:54] 733261833993060352: Daammn
+[13:55] 318105451810127872: PW c'est avec Dota et CS
+[13:55] 733261833993060352: 20€ par an a Noël là mama
+[15:42] 310709886121934848: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1398329629764354310/Capture_decran_1045.png?ex=68d21733&is=68d0c5b3&hm=f278d2070b309b539a2406e71c05371816a8e3890f25f549c77e99aecef4370d&]
+[20:18] 177442452934754304: oops Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1398399135895257249/308C228E-94D8-4FAB-BC1F-284FD1E6E14F.png?ex=68d257ee&is=68d1066e&hm=47c0c8d5bbe3aa527f76325fc215bd81398033f2d40cd98604b4da0c7bd52bd5&]
+"""

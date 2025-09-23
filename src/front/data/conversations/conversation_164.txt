@@ -1,0 +1,46 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 164]
+Période: 2024-11-08 à 2024-11-09
+[20:13] 318105451810127872: Bon à quand un petit Lethal là ?
+[20:13] 293414992663805952: pas ce soir chef
+[20:13] 318105451810127872: https://tenor.com/view/huh-huh-emote-twitch-emote-7tv-twitch-7tv-gif-18228911432715801849
+[20:21] 362260685540818944: Quand tu veux
+[20:35] 257130155720441856: oué
+[00:49] 306809650802589696: Les gars faut m’aider, apparement 7x7=49 ça a une vibe de jeudi, j’ai jurer je suis pas le seul a rien comprendre de leur truc ? Réactions: [<:wut:1216695984889794570> x1]
+[00:54] 318105451810127872: alors ça j'ai pas
+[00:54] 318105451810127872: ce que j'ai pas non plus
+[00:54] 318105451810127872: mon SSD tourne à 80% +
+[00:54] 318105451810127872: avec 4Mo/s d'écriture
+[00:58] 306809650802589696: https://tenor.com/view/squeezie-le-rapport-gif-18074327
+[08:23] 293414992663805952: Check ton cable
+[08:23] 293414992663805952: Il est où le problème
+[10:04] 306809650802589696: Sérieusement ?
+[10:29] 318105451810127872: C’est un nvme chef
+[11:02] 894963658189332480: tkt j'ai rien compris non plus
+[11:18] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1304767023649394708/image.png?ex=68d1d93b&is=68d087bb&hm=079fbfbadf61717d96be2cfa48c68e499758592b864bcfa9bb79a8b974281b1f&]
+[11:18] 318105451810127872: ff en  fait
+[11:25] 293414992663805952: iz ok, tant qu'il n'a pas les temps de réponse des serveur de R6
+[11:26] 318105451810127872: is ok non is pas ok
+[11:27] 318105451810127872: y'a rien qui justifie ça en fait
+[11:28] 293414992663805952: débranche le, souffle sur les pattes électronique, remet le et visse pas trop non plus
+[11:28] 318105451810127872: atta déjà mon reuf m'a passé des correctifs dans le cmd
+[11:28] 318105451810127872: on va tester ça
+[11:28] 318105451810127872: après ça va démonter la bête
+[11:29] 318105451810127872: pour ça qu'hier on avait 30fps les reufs sur Lethal
+[11:47] 318105451810127872: you know what
+[11:47] 318105451810127872: yipidi
+[11:47] 318105451810127872: wapidi
+[11:48] 318105451810127872: je réinstalle tout
+[11:54] 318105451810127872: bon
+[11:54] 318105451810127872: après dernier check, c'était juste iCloudPhoto qui faisait de la merde
+[11:56] 318105451810127872: Tiens, et si je synchronisais plus de 200go de photos / vidéos sur le disque C en utilisant 100% du SSD et de la co
+[13:32] 318105451810127872: <@293414992663805952> 
+https://x.com/Yariko___/status/1854663559352852943
+[13:34] 293414992663805952: jpp XD
+[13:53] 293414992663805952: <@318105451810127872> rnaked ?
+[14:33] 318105451810127872: Alors
+[14:33] 318105451810127872: Je suis au bowling atm
+[14:36] 293414992663805952: bah va bien ~~te faire foutre~~ t'amuser
+[15:55] 318105451810127872: Pardon d’avoir une vie sociale <:mmmyes:1216696107657203722> Réactions: [<:nazi:692034111551963198> x1]
+"""

@@ -1,19 +1,28 @@
 Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
 """
 [Conversation 68]
-Période: 2025-02-16 à 2025-02-16
-[02:22] 293414992663805952: Nouveau PB: 200km/h (GPS: waze) 206cc
-[09:32] 733261833993060352: Nan mais fin c'est sad
-[09:59] 345687789146341376: <@293414992663805952> <@306809650802589707> <@733261833993060362> <@318105451810127872> <@310709886121934850> 
+Période: 2024-06-11 à 2024-06-11
+[17:04] 289796655862251520: who asked?
+[17:04] 293414992663805952: moi
+[17:05] 265210499627614208: Stickers [GardonOfJudgement]
+[17:05] 289796655862251520: pourquoi c'est un sondage en fait
+[17:05] 293414992663805952: bah pour savoir si vous voulez le bot sur le serv
+[17:05] 293414992663805952: connard
+[17:06] 289796655862251520: c'est toi le bot
+[17:07] 362260685540818944: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1250134254948712458/Tu_commences_a_outrepasser_les_limites_de_la_tolerence.jpg?ex=68d22b00&is=68d0d980&hm=b5805ad82a4af282f4426307b228e33be0422f0738062ef33d66aced77b9b430&]
+[17:19] 289796655862251520: d'ailleurs je relis le message mais c'est pas clair du tout
+[17:31] 362260685540818944: Comment ça
+[17:31] 289796655862251520: t'as oublié comment parler depuis le pitch?
+[17:31] 289796655862251520: je parlais à ethan
+[17:33] 293414992663805952: au hasard apprend à lire
+[17:34] 289796655862251520: j'aime pas le hasard, mais seule constante que je vois c'est ta stupidité
+[17:34] 362260685540818944: Je pensais pas faire ça un jour, mais je vais défendre Ethan
+[17:35] 362260685540818944: Fais des efforts
+[18:14] 362260685540818944: https://www.youtube.com/watch?v=KXOPjrbkGVE
 
-on commence quand ce jdr je peux quasi tous les soirs dites moi un truc qu'on le pose ce truc là
-[10:00] 306809650802589696: Pas dispo les mardi soir et les vendredis soi après c’est good pour moi
-[10:04] 733261833993060352: Quel JDR ?
-[10:05] 345687789146341376: ché pa regarde tes mps gros cochon
-[10:06] 733261833993060352: He frr jsp j'ai oublié
-[10:07] 345687789146341376: j'avais compris tout seul ça
-[10:07] 345687789146341376: xD
-[11:57] 318105451810127872: Déjà pas les mercredis, on a séance avec Ethan
-[20:24] 362260685540818944: Eh gros sayer le seul connard qui ronfle dans tous le train il est à côté de moi
-[20:27] 293414992663805952: https://tenor.com/view/oh-la-boulette-as-de-la-jungle-roger-roger-le-jardinier-gif-11065058356198134565
+nouveau banger 🗣️ 🗣️ 🗣️
+[18:16] 177442452934754304: damn
+[18:16] 177442452934754304: je l'avais pas vu passer
+[18:32] 293414992663805952: j'aime bien la pochette d'album généré par ia
+[18:42] 177442452934754304: Ethan, on a compris que tu le voulais ton bot, mais tout le monde s'en branle
 """

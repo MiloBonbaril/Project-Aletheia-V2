@@ -1,0 +1,20 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 201]
+Période: 2025-01-06 à 2025-01-06
+[08:16] 293414992663805952: Pourquoi quand j’arrive au taf y a personne ???
+[08:17] 293414992663805952: Genre on est 3 dans un open space de 50
+[08:17] 293414992663805952: Et on est tous dans une équipe différente
+[08:18] 362260685540818944: T'es pas le seul emploi fictif tkt
+[08:18] 293414992663805952: Ça doit être ça
+[08:38] 306809650802589696: Le génie de mon école, on doit faire rentrer une classe de 35 elèves dans une salle prévu pour 20.
+[08:38] 306809650802589696: les calcules sont pas bon
+[08:42] 293414992663805952: Les calcoulles sont pas bon kevin
+[08:52] 306809650802589696: Second classique de mon école, nous ressortir la même prof de math que l'année dernière, avec le même support de cours, les meme exos à la virgule près
+[08:53] 733261833993060352: Lui il a dit trêve de hassoul
+[09:06] 306809650802589696: le nom du PDF du cours "Cours Maths M1 2020.pdf " il ont pas dosé, y'a même l'ancien logo de l'école qui existe plus
+[19:55] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1325915571140825179/image0.jpg?ex=68d2525a&is=68d100da&hm=b7a36c7cb18e006fbb88e632113723d58cfb2dab33b998f8b352a937d5468edf&]
+[19:55] 318105451810127872: <:why:1216695469997031474>
+[19:55] 318105451810127872: Sachant que
+[19:56] 318105451810127872: C’est certainement l’une des dernières fois que je viens dans cet appart <:donkeywut:1216696836144758884>
+"""

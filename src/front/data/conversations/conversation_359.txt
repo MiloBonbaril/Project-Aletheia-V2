@@ -1,0 +1,12 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 359]
+Période: 2025-09-21 à 2025-09-21
+[07:46] 733261833993060352: Je vois que 1 choix ça va pas
+[07:47] 306809650802589696: C’est l’un ou l’autre
+[08:10] 293414992663805952: team chocolatine Réactions: [🗣️ x5], [<a:leonardodicapriocheers:835477055889080320> x3]
+[09:52] 177442452934754304: StrawPoll a chier
+[09:52] 177442452934754304: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1419260089209978891/image0.gif?ex=68d1c535&is=68d073b5&hm=337baad0efa7f2616aba6451808117eab931fece795f1531b5001e6e8d04cc36&]
+[10:04] 362260685540818944: https://tenor.com/view/helldivers-2-500kg-bomb-helldiver-arrows-russianbadger-gif-13117795248049500981
+[13:04] 310709886121934848: Where chocolatine ?
+"""

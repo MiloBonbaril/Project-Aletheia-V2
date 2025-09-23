@@ -1,0 +1,20 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 298]
+Période: 2025-06-03 à 2025-06-03
+[14:04] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1379460786207985745/image.png?ex=68d20038&is=68d0aeb8&hm=58d69d9602fbeb3a26033dfad6fd8b57469d77e153ee007a551966d0d0de8312&]
+[14:04] 318105451810127872: 3 news terrifiantes
+[14:06] 177442452934754304: Tu veux une bonne nouvelle pour tout ça?
+[14:06] 318105451810127872: allez
+[14:06] 177442452934754304: All in sur le cours de nordvpn
+[14:06] 177442452934754304: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1379461295501349024/image0.gif?ex=68d200b1&is=68d0af31&hm=f04d3d67df925572d88234627c019eff43216c0018ab0c813b502dda2e36c88f&]
+[14:06] 177442452934754304: 25% minimum en 24 heures, je le call
+[16:33] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1379498279338770432/IMG_2881.png?ex=68d22323&is=68d0d1a3&hm=c981c63a23fa7c49b2b0fefca12c7b9525745dc10b487e9705cb2296cfedf313&]
+[16:33] 318105451810127872: Je comprends mieux pourquoi ils jouent autant à ce jeu
+[16:43] 293414992663805952: <:actually:1210328760986116136>
+[16:44] 293414992663805952: Nous on joue à AFK ARENA, pas journey
+[16:45] 318105451810127872: Mb
+[16:45] 318105451810127872: C’est Daer qui joue à Journey
+[17:49] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1379517394153640026/image.png?ex=68d234f0&is=68d0e370&hm=46f60d7f25ec8d7e3e12d37141e08fd8ceae6479f0b5a8b7e0e977d739a52959&]
+[17:49] 318105451810127872: je suis fatigué patron
+"""

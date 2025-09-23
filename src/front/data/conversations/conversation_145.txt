@@ -1,0 +1,8 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 145]
+Période: 2024-10-10 à 2024-10-10
+[03:13] 231502335287754752: t'es gentil mon loulou
+[03:18] 231502335287754752: ntm
+[03:25] 231502335287754752: comment ca mon reuf
+"""

@@ -1,20 +1,58 @@
 Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
 """
 [Conversation 75]
-Période: 2025-03-20 à 2025-03-20
-[11:59] 293414992663805952: https://youtube.com/shorts/ibF4sNq9jbY?si=mbqZKV6WHpX3LeS8
-[11:59] 293414992663805952: Pov <@318105451810127872>
-[15:15] 471793126873497600: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1352299598713983056/IMG_0200.jpg?ex=68d210e4&is=68d0bf64&hm=910ac6b297fe6414e20484e307c582eaa64d929e4c7018f24003174692aa71d4&]
-[15:24] 177442452934754304: Santé
-[15:31] 362260685540818944: Pas de Ricard à l'horizon on a l'air de bien s'emmerder là bas quand même Réactions: [🗣️ x1]
-[15:38] 177442452934754304: MEME PAS UN PERROQUET
-[15:47] 318105451810127872: Y’a du foie gras
-[15:49] 362260685540818944: Mouais
-[15:49] 362260685540818944: Le foie gras en question
-[15:53] 318105451810127872: J’avoue que
-[15:53] 318105451810127872: Le foie gras il est pas aromatisé
-[15:53] 318105451810127872: Ni au porto ni au cognac
-[16:03] 362260685540818944: Armagnac* stp, on est landais ici
-[16:08] 318105451810127872: Armagnac mb
-[16:09] 318105451810127872: C’est moi qui confond
+Période: 2024-06-21 à 2024-06-21
+[07:04] 265210499627614208: <@289796655862251521> <@362260685540818944> <@293414992663805952> vous avec un mail qui aurait pententiellement leak?
+[07:04] 265210499627614208: genre tu check sur haveibeenpwned
+[07:04] 265210499627614208: (j'ai déjà test la ethan.hary26)
+[07:05] 289796655862251520: perso non
+[07:05] 293414992663805952: Bah moi tu l’as deja test
+[07:06] 265210499627614208: t'en as pas une autre ?
+[07:07] 265210499627614208: pcq j'ai testé le mail de soso
+[07:07] 265210499627614208: y'a littéralement son mdp en clair sur le Dark
+[07:09] 310709886121934848: Pour ceux qui ont un compte wakanim potentiellement vous avez été leak
+[07:09] 265210499627614208: Ahhh ça c'est sur meme xD
+[07:11] 293414992663805952: Essaye peut-être « ethan.hary@outlook.fr »
+[07:11] 265210499627614208: AHHHH OUI
+[07:11] 265210499627614208: je poste ça là ?
+[07:11] 265210499627614208: ou tu veux en mp?
+[07:12] 289796655862251520: moi je veux les dossiers
+[07:12] 293414992663805952: D’abord mp
+[07:14] 265210499627614208: Bah y'a juste son mdp et son ip en clair
+[07:14] 265210499627614208: xD
+[07:14] 362260685540818944: Ptdr
+[07:14] 265210499627614208: et
+[07:15] 265210499627614208: ça a leak sur "myfitnessPal"
+[07:15] 362260685540818944: Wut
+[07:15] 265210499627614208: worth l'investissement
+[07:15] 289796655862251520: en vrai essaie chhangedouard@gmail.com, je suis pas sur haveibeenpwned mais je suis incrit sur plein de merde
+[07:20] 265210499627614208: toi ça a pas leak faut que je passe autre chose
+[07:21] 289796655862251520: ok nice
+[07:24] 289796655862251520: ok ça c'est la mail d'un pote dont le compte genshin s'est fait hacké
+[07:25] 289796655862251520: `guiraoesteban@gmail.com`
+[08:07] 265210499627614208: ```
+account:guiraoesteban@gmail.com:TcxyZyEO
+guiraoesteban@gmail.com:TcxyZyEO
+guiraoesteban@gmail.com Titi M 0 0 fr Bebop 1 1 1 1 1 1 deezer 0 none mobile \N 2015-12-03 00:00:00.0000000 0 TITI 0 \N 10 4
+
+(160847660,'trafetou','$2y$10$THA3vIhbKyy/u0n.OFltkO3vZQjxVYVRT9aHi6lHDe5cehsKgOIMq','guiraoesteban@gmail.com','2017-10-18 20:27:01','2017-10-18 20:27:01',NULL,'0000-00-00 00:00:00','0000-00-00 00:00:00',1,0,'Esteban',NULL,'FR',NULL,NULL,NULL,1,NULL,1,0,0,1,'2002-06-12','M',2,NULL,NULL,0,1,0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'0000-00-00 00:00:00','2017-11-05 04:15:48','2017-11-04 21:16:09',NULL,'0000-00-00 00:00:00',0,'0000-00-00 00:00:00',1),
+```
+[08:07] 265210499627614208: <@289796655862251521>
+[10:24] 289796655862251520: 💀
+[10:24] 289796655862251520: je lui envoie ça
+[10:25] 289796655862251520: t'as la source?
+[10:56] 289796655862251520: je pourrais lui envoyer ou je pourrais envoyer des messages très sus depuis son compte discord
+[12:05] 362260685540818944: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1253682153468989591/4gb03j4weo7d1.png?ex=68d1e43d&is=68d092bd&hm=ba6685e341f78a33e86386f9be277cc4d28cf508d4a03f592005a46c50221ca6&]
+[12:11] 293414992663805952: https://tenor.com/view/yummy-nom-nom-hungry-hangry-starving-gif-24442611
+[14:01] 265210499627614208: Tape son mail sur haveibeenpwned
+[14:01] 265210499627614208: Et tu auras les sources
+[14:01] 289796655862251520: ok
+[15:25] 231502335287754752: Moi jen ai pas mal stv 💀
+[15:26] 265210499627614208: Little bit late là je suis plus au taff
+[15:26] 265210499627614208: Mais tu me donner et je verrai lundi stv
+[15:26] 231502335287754752: Rip
+[19:31] 362260685540818944: Bon 30min que je suis à Bayonne, on est déjà à 2 pintes au compteur pas mal pas mal
+[19:31] 293414992663805952: peu sar tek
+[20:06] 362260685540818944: Je le sens ça va mal finir cette histoire Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1253803205805215804/IMG_20240621_220550.jpg?ex=68d254fa&is=68d1037a&hm=ebc0f02deb23155f1a039bf94ae08a52f150a27eca2924ee1ef9492ff7f04198&]
+[21:20] 318105451810127872: Oh bk c’est pas drôle ce soir
 """

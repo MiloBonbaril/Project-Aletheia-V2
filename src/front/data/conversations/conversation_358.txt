@@ -1,0 +1,9 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 358]
+Période: 2025-09-18 à 2025-09-18
+[15:36] 318105451810127872: les mans
+[15:36] 318105451810127872: cimer la mutuelle
+[15:36] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1418259379748212858/image.png?ex=68d215ba&is=68d0c43a&hm=ea07e7472be4a22a46f91429867d7ec92bd14022a0e3ea779cdf508f8fa9c4aa&]
+[15:36] 318105451810127872: OK GARMIN
+"""

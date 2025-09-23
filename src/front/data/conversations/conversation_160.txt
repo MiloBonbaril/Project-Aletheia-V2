@@ -1,0 +1,11 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 160]
+Période: 2024-11-03 à 2024-11-03
+[15:15] 265210499627614208: A quand la soirée sur ça avec un ricard ?
+https://store.steampowered.com/app/2075480/Power_of_Petanque/
+[15:16] 293414992663805952: less go
+[17:16] 318105451810127872: <@894963658189332530>, pour le bug des settings, va dans le microsoft store, downloads en bas à gauche, et le gros bouton bleu en haut à droite. Normalement y'a un truc services de jeu à mettre à jour
+[17:21] 894963658189332480: Ok ça marche
+[17:22] 894963658189332480: Je suis là mais je reste avec un mon père donc je serais là tout a l'heure
+"""

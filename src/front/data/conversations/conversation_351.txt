@@ -1,0 +1,19 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 351]
+Période: 2025-09-03 à 2025-09-03
+[09:47] 293414992663805952: Réactions: [🤯 x1]
+[09:47] 293414992663805952: /!\ les concerts de clair obscur arrive bientôt !
+[09:49] 293414992663805952: <@362260685540818944> <@310887154702090243> <@318105451810127872>
+[09:51] 362260685540818944: https://tenor.com/view/expedition-33-gestral-dance-clair-obscur-gif-701325252045507211
+[09:52] 293414992663805952: https://tenor.com/view/happy-esquie-expedition33-obscur-clair-gif-8790475245597466468
+[10:35] 306809650802589696: https://tenor.com/view/clair-obscur-gif-3997765438463569121
+[21:33] 293414992663805952: https://youtu.be/MlrF7YLcayU
+[21:33] 293414992663805952: <@362260685540818944>
+[21:40] 362260685540818944: https://tenor.com/view/mother-of-god-shit-no-gif-9321147
+[21:44] 733261833993060352: https://www.reddit.com/r/factorio/s/zfSGzt2zaM
+[21:45] 362260685540818944: Je l'avais envoyé à Flo' mais "bouh bouh bouh c'est trop compliqué"
+[21:50] 318105451810127872: https://tenor.com/view/pourquoi-gif-16986327888488388021
+[22:01] 733261833993060352: Feur mec
+[22:23] 293414992663805952: Pour que tes trains marchent correctement
+"""

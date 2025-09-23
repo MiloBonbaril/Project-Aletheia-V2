@@ -1,0 +1,83 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 278]
+Période: 2025-05-06 à 2025-05-07
+[13:42] 318105451810127872: là j'en ai vu des choses mais là
+[13:42] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1369308358980403231/image.png?ex=68d1fb09&is=68d0a989&hm=da2df8bc223409a6d5c9390cf0fb852703b663372ec9dff0ca4055c48ad0c6e4&]
+[13:42] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1369308435627114617/image.png?ex=68d1fb1b&is=68d0a99b&hm=5d60e73aa683f432dd273bedec92e703517e8c3108e87d3dce795174e69fbe7e&]
+[13:43] 318105451810127872: j'ai eu un putain de everyone pour ça
+[13:55] 362260685540818944: C'est quoi ce serveur de con
+[13:56] 293414992663805952: Lissof
+[14:03] 318105451810127872: ui
+[14:03] 318105451810127872: je suis en taupe dessus
+[14:03] 318105451810127872: ah mais toi aussi t'y es Ethan
+[14:04] 362260685540818944: ouais ouais
+[14:04] 318105451810127872: https://www.youtube.com/watch?v=VQRLujxTm3c
+[14:04] 362260685540818944: "en taupe"
+[14:04] 318105451810127872: ah mais je vois des dingueries dedans
+[14:04] 318105451810127872: je plisse les yeux quand je vois ça
+[14:06] 318105451810127872: y'a pas un bail comme quoi les PC on aura tous les jeux xbox ? Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1369314331409514648/image.png?ex=68d20099&is=68d0af19&hm=8a6cca0616dbc4d1a3cbd5b88350c4ef82d3f8b6b1a6f7d664bf56829952391d&]
+[14:06] 293414992663805952: On aura le jeu 1 an plus tard
+[14:06] 293414992663805952: C’est rockstar
+[14:07] 318105451810127872: oui comme d'hab
+[14:09] 293414992663805952: Bon
+[14:09] 293414992663805952: Imaginez
+[14:10] 318105451810127872: ouais j'imagine là
+[14:10] 293414992663805952: Je tape un vla DELETE sur la base de données de PROD
+[14:10] 293414992663805952: Imaginé je vois que ça prend 3 plombes
+[14:10] 318105451810127872: https://tenor.com/view/doja-cat-star-wars-gif-25078126
+[14:10] 293414992663805952: Imaginez, j’annule par peur
+[14:11] 293414992663805952: Imaginez, je retourne sur la table
+[14:11] 293414992663805952: Et rien ne s’affiche
+[14:11] 293414992663805952: Je relance la vm (lecteur sql) et là y a tout
+[14:12] 293414992663805952: Et je redelete, sauf que cette fois ci je suis sur de moi
+[14:12] 293414992663805952: Histoire basée sur des faits réel
+[14:13] 318105451810127872: Mais du coup, Qu'as tu supprimé au début ?
+[14:13] 293414992663805952: Les trucs que je suis sur de vouloir supprimer
+[14:13] 293414992663805952: Juste que j’ai commencé par le plus gros
+[14:13] 293414992663805952: Genre 60millions de lignes
+[14:13] 318105451810127872: oof
+[14:13] 293414992663805952: Ça a pris 454 secondes
+[14:14] 293414992663805952: Mais mtn j’ai une BDD clean !
+[14:14] 362260685540818944: DROP TABLE aah moment
+[14:14] 318105451810127872: wtf Ethan, pourquoi je n'ai plus de compte en banque ?
+[14:16] 293414992663805952: Nan ça ça risque pas tkt
+[14:16] 318105451810127872: https://tenor.com/view/huh-huh-emote-twitch-emote-7tv-twitch-7tv-gif-18228911432715801849
+[14:16] 293414992663805952: Juste que les décideurs des banques clientes vont venir taper à ma porte
+[14:16] 318105451810127872: https://tenor.com/view/jean-marie-bigard-bigard-ils-sont-aux-ordres-du-pognon-pognon-aux-ordres-gif-20558697
+[14:18] 293414992663805952: La première fois qu’on me l’a sorti j’ai eu Bigard comme un flash dans ma gueule
+[14:18] 318105451810127872: ah mais c'est un vrai terme dans ta boite là x)
+[14:30] 293414992663805952: Ui XD
+[16:32] 318105451810127872: oh les gars je viens de faire une découverte sur moi
+[16:33] 318105451810127872: je dois être l'aigri Originel
+[16:33] 318105451810127872: j'ai l'impression d'être le seul à ne pas trouver Paul de Saint Sernin drole du tout
+[16:44] 293414992663805952: <:wut:1216695984889794570>
+[16:44] 293414992663805952: c ki
+[16:44] 310709886121934848: c ki ?
+[16:44] 310709886121934848: <:wut:1216695984889794570>
+[16:45] 318105451810127872: https://www.youtube.com/watch?v=YNETO9srEz4&list=PLSwIKxHzxkui09-8CTJu18rY3VpX4VLRe&index=1
+[16:46] 362260685540818944: <:wut:1216695984889794570>
+[16:56] 310709886121934848: inconnu au bataillon le man
+[16:57] 318105451810127872: en gros son job, c'est de faire des vannes sur l'invité sur le plateau de Quelle Epoque avec Lea Salamé
+[16:57] 318105451810127872: et genre dès que je le vois, tout le monde est HILLARE et je comprends pas où est l'humour
+[18:06] 177442452934754304: le man a été condamné pour agression sexuelle et le man a aussi eu 2 affaire sans suite pour viol parce que "prescription"
+[18:06] 177442452934754304: il a juste roasté en live
+[18:07] 177442452934754304: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1369375041548062731/001516FB-AC48-4A6E-A292-092763EF1CB2.png?ex=68d23923&is=68d0e7a3&hm=7397b596d004c377220208726c740469a27be6d458119cc54671906bcaa844cf&]
+[18:07] 177442452934754304: le passif du man
+[18:07] 177442452934754304: si jamais Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1369375119989932073/1BFB2118-8285-41B6-934A-30C438C324E8.png?ex=68d23936&is=68d0e7b6&hm=356c2b98cb80704794e86885a355f4680203a674430961ee1b14e5297b1c59ef&]
+[18:18] 293414992663805952: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1369377719531606046/IMG_1570.jpg?ex=68d23ba2&is=68d0ea22&hm=1dbbb4315f5eb12894461cbc8b6a37bde5fed1e916b4f4c48d8c01f213edf5a4&]
+[18:18] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1369377739219406848/image.png?ex=68d23ba6&is=68d0ea26&hm=c24b170b57192e8f4b732260982fee506504b0362e68facc0a3bbf26312fc2c3&]
+[18:18] 318105451810127872: c'est quoi cette merde encore
+[21:24] 318105451810127872: https://x.com/Mediavenir/status/1919863993310839123
+[21:25] 318105451810127872: https://tenor.com/view/mister-v-gif-23137790
+[21:35] 485830755537125376: C'est bizarre, je viens de voir l'info inverse
+[22:53] 318105451810127872: les reufs
+[22:53] 318105451810127872: c'est quoi cette merde
+[22:53] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1369446967075143760/image.png?ex=68d1d360&is=68d081e0&hm=94a5b9d36468e89205722d2bf5bd19746237c350f5462648aca70d10a64eb5a2&]
+[22:56] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1369447808125632553/image.png?ex=68d1d428&is=68d082a8&hm=b8dc04a32fc29e5b97613e9bd7ca1db85230310a19663f1edb9a0e3f4318e15e&]
+[22:56] 318105451810127872: ah ouais de fou là
+[22:56] 318105451810127872: donc là je viens de me faire baiser 10 balles
+[22:56] 318105451810127872: super
+[05:44] 471793126873497600: Tu te fais souvent baiser je trouve
+[07:29] 318105451810127872: Pas par les bonnes personnes je trouve
+"""

@@ -1,0 +1,10 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 300]
+Période: 2025-06-07 à 2025-06-07
+[07:15] 293414992663805952: btw il y a ça sur GTA, c'est le moment de faire le braquage du casino Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1380807474457608192/image.png?ex=68d2492c&is=68d0f7ac&hm=a557188c0ac19c5268402d5a5b19a39dec8c6a65f13907965de8da7451881180&]
+[11:40] 306809650802589696: Ta quelque jours de retard
+[12:20] 293414992663805952: comment je peux être en retard de quelques jours alors que la news est sortie hier
+[12:21] 293414992663805952: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1380884294221692970/image.png?ex=68d1e7f7&is=68d09677&hm=925d404b821e737d0f5d78e2bd8fb6d25a70b43e5976e54f1b05a8e87717ecc7&]
+[13:08] 306809650802589696: Elle est pas sortie hier j’en parlais à flo et beyou mardi 😂
+"""

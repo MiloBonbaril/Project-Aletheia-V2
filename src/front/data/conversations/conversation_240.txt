@@ -1,0 +1,42 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 240]
+Période: 2025-03-06 à 2025-03-08
+[15:48] 177442452934754304: CHEF CHEF
+[15:48] 177442452934754304: vous vous rappellez de vos benchmarks?
+[15:48] 177442452934754304: https://cdn.discordapp.com/attachments/533752263416741891/1347230114399916032/image.png?ex=67cb1151&is=67c9bfd1&hm=12d07cd8368fd9910a98a287f5f5072b75d231f9648d28fae71d84b01f6f6dc2&
+[15:49] 177442452934754304: https://cdn.discordapp.com/attachments/533752263416741891/1347232292472619038/image.png?ex=67cb1358&is=67c9c1d8&hm=422ddc35c1ca88d5f2043299b08c5924ea3c12eebef62def9841bf499438b2db&
+[15:49] 177442452934754304: j'ai essayé sur mes 2 screens
+[15:49] 293414992663805952: https://tenor.com/view/oh-no-top-gear-jeremy-clarkson-no-one-cares-gif-18925814
+[15:49] 177442452934754304: ca tourne pas mal en vrai
+[15:53] 265210499627614208: J'ai pas fait mon benchmark
+[15:53] 265210499627614208: Moi il doit être à 70 fps mdr
+[15:53] 265210499627614208: Et encore
+[15:54] 177442452934754304: je me suis dis, va falloir que je regarde ce qu'elle a dans le bide ma nouvelle config, et je savais pas ou tester
+[15:54] 177442452934754304: je me suis rappelé de tous vos bench
+[15:54] 177442452934754304: j'ai fait let's go
+[15:56] 265210499627614208: Mdr
+[15:56] 177442452934754304: a tous les gens qui disaient que les 50XX puaient la merde d'ailleurs hein
+[15:56] 177442452934754304: force a vous
+[15:57] 265210499627614208: Moi j'ai rien dit, j'ai dit "g po dthune"
+[15:58] 177442452934754304: je sais bien mais certains ont parlé
+[15:58] 177442452934754304: https://cdn.discordapp.com/attachments/197014201301073920/1347235587882614814/image.png?ex=67cb166a&is=67c9c4ea&hm=5b3ae98422c9eccbfaf9bb4a5924dfc96a0aafb682322db2f2147b1c176d75f2& ca tourne bien sur WoW en tout cas
+[15:58] 177442452934754304: <:nez:415921564840755201>
+[16:00] 265210499627614208: Mdr
+[17:33] 362260685540818944: Tout ça pour jouer à WoW classic
+[17:33] 362260685540818944: Jusqu'a 6h du zba
+[23:43] 177442452934754304: je suis level 26 et toujours pas mort 🙂
+[00:13] 265210499627614208: C'est grace aux fps ça
+[00:36] 177442452934754304: au moins
+[00:36] 177442452934754304: mon acolyte guérrier est mort a 23h15 ce soir
+[00:36] 177442452934754304: je suis triste
+[02:09] 184396639593562112: Une pensée va à lui, sa famille, et ses compagnons d'aventure
+[11:24] 310709886121934848: Mort de chute ou d'une charge dans un pack de mobs trop gros
+[13:39] 177442452934754304: 2eme réponse
+[13:39] 177442452934754304: avec un respawn dantesque derrière lui
+[13:54] 310709886121934848: je sais pas pourquoi mais en tant que main war je savais que c'était la deuxième
+[13:54] 310709886121934848: c'qui est bien c'est qu'entre war on partage le même neurone
+[17:01] 318105451810127872: Cadillac 11e équipe en 2026 en F1
+[01:56] 471793126873497600: Ouais fin la grid de 2026 va y en avoir du changement
+[01:57] 471793126873497600: Fallait bien que ces mecs arrivent aussi
+"""

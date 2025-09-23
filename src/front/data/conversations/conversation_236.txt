@@ -1,0 +1,23 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 236]
+Période: 2025-02-22 à 2025-02-22
+[09:15] 320991311312322560: https://youtube.com/watch?v=76kFUjcN4JI&si=UgSk1D_oF4VHTW7W
+[09:16] 320991311312322560: Un vrai tft
+[13:22] 733261833993060352: https://youtube.com/shorts/3YZjXYahcEM?si=4kTeqrxGH9CX_pqC
+[16:58] 320991311312322560: Rendez moi mon ancien league of legends
+[17:41] 318105451810127872: Oh sa mère je vais caner
+[17:41] 318105451810127872: On mange depuis midi
+[17:41] 318105451810127872: On n’a pas quitté la table depuis
+[17:42] 318105451810127872: Et là on sort l’apéro
+[19:06] 735948373697364096: https://youtu.be/EQuT57H8CDI?si=TfKM-KwYMJb--Cn9
+[19:06] 735948373697364096: Nouvelle mécanique chiante
+[19:06] 735948373697364096: yipee
+[19:44] 471793126873497600: Boit ca va faire passer et après tu vas rouler tkt
+[20:12] 318105451810127872: Merde
+[20:12] 318105451810127872: J’ai survécu
+[20:12] 318105451810127872: Je suis dans la voiture j’arrive dans 1h
+[20:27] 471793126873497600: Dit moi que c'est toi qui conduit
+[20:29] 318105451810127872: Au hasard non
+[20:29] 318105451810127872: Et au hasard j’aurai pas pu
+"""

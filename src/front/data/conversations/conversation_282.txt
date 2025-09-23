@@ -1,0 +1,16 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 282]
+Période: 2025-05-13 à 2025-05-13
+[13:02] 177442452934754304: <:hapy:1216695875644952616>
+[13:03] 362260685540818944: <:wut:1216695984889794570>
+[13:03] 177442452934754304: <:hapy:1216695875644952616>
+[13:04] 293414992663805952: <:CB_catblush:843943592065761320>
+[13:05] 177442452934754304: <:confused:1210624814591639652>
+[13:08] 733261833993060352: https://cdn.discordapp.com/attachments/860123141338562570/943646251495329833/312354827.gif
+[13:12] 362260685540818944: https://tenor.com/view/horse-agree-agreement-affirmative-yes-gif-2872428400733497437
+[13:17] 293414992663805952: https://tenor.com/view/clair-obscur-clair-obscur-expedition-33-expedition-33-33-clair-gif-13372527364953386407
+[13:24] 733261833993060352: https://tenor.com/view/fuck-you-expedition-33-mime-aggressive-attack-gif-16726768188759728671
+[13:43] 293414992663805952: https://tenor.com/view/happy-esquie-expedition33-obscur-clair-gif-8790475245597466468
+[14:00] 733261833993060352: https://tenor.com/view/esquie-clair-obscur-expedition-33-clair-obscur-expedition-33-my-beloved-gif-9811085869863892510
+"""

@@ -1,55 +1,71 @@
 Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
 """
 [Conversation 18]
-Période: 2024-07-04 à 2024-07-06
-[08:58] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1258346216954138664/image0.jpg?ex=68d2613d&is=68d10fbd&hm=6acc97fe5d8408f1a85938a16e38c4acf8f6cabbb9b9afd5d68a637fce311642&]
-[08:58] 318105451810127872: En 15h semaine
-[09:00] 362260685540818944: Et dire que ça va disparaître en 3j
-[09:08] 184396639593562112: C'est BK qui paye ooooooooooooooouuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
-[09:11] 293414992663805952: c'est fou ça, c'est la tune que je vais me faire en alternance, et en plus ils payent l'école
-[09:14] 318105451810127872: je préfère 20x travailler que 15h/semaines avec des potes
-[09:14] 318105451810127872: que de taffer et d'en plus aller à Tek
-[09:17] 362260685540818944: Le message il a une odeur de 8 6
-[09:20] 485830755537125376: BK paye + que le service civique mais c'est pas les mêmes conditions.  Sachant que je bosse toute la semaine mais dans un bureau de 9h30 à 17h.
-[09:21] 318105451810127872: Je suis au smic, je rhalass juste les heures supp et de nuit
-[09:22] 362260685540818944: https://tenor.com/view/cat-jam-stonks-stonk-jam-head-shot-hans-gif-21157324
-[09:22] 318105451810127872: quasiment toutes mes heures ce mois qui étaient majorées heures de nuit
-[09:23] 318105451810127872: et comme je faisais toutes les closes presque, majoration heures supplémentaires
-[09:23] 293414992663805952: https://tenor.com/view/etienne-nelsom-ca-pousse-vega-missyl-missile-gif-26009566
-[09:25] 485830755537125376: Y a ça aussi.  Si c'est un rythme qui te correspond, c'est cool
-[09:25] 318105451810127872: Yup, c'est pas donné à tout le monde après
-[09:25] 318105451810127872: Encore moins BK Sainte Catherine
-[09:36] 265210499627614208: après moi je dis, si vous n'aimez pas votre taff
-[09:36] 265210499627614208: la lettre O le chiffre 7
-[09:38] 318105451810127872: https://tenor.com/view/snake-mgs-mgs3-metal-gear-solid-che-gif-793405683592836141
-[09:40] 293414992663805952: https://media.discordapp.net/attachments/983363975200776192/1053810239532711976/giphy_14.gif
-[09:41] 318105451810127872: c'est ce que j'ai prévu hein <@265210499627614209>
-[09:41] 318105451810127872: gendarmerie là
-[10:15] 265210499627614208: kek
-[07:30] 293414992663805952: ah la frr
-[07:30] 293414992663805952: c'est rigolo
-[07:31] 293414992663805952: on regarde les ploucs faire leur pres
-[07:31] 293414992663805952: avec un grand sourire
-[07:32] 362260685540818944: Et c'est Diego solo en 1er
-[07:32] 362260685540818944: Que du bonheur
-[07:32] 293414992663805952: https://tenor.com/view/guiguif-vega-missyl-indiff%C3%A9rent-%C3%A9tienne-le-bolideur-vega-missile-gif-22276654
-[07:32] 362260685540818944: Le mec ne sait pas parler c'est une folie
-[07:40] 231502335287754752: Ca va Ethan
-[07:40] 231502335287754752: Tu te mets bien
-[07:43] 293414992663805952: vla bien
-[07:43] 293414992663805952: à 2 doigts de lancer vampire survivor
-[07:43] 231502335287754752: Mdrr
-[07:43] 231502335287754752: Force
-[08:06] 293414992663805952: y a <@184396639593562113> il se croit rigolo avec son "Rick Astley" là
-[08:19] 184396639593562112: Dis ça à <@231502335287754754>
-[08:27] 231502335287754752: Moi? Jamais
-[08:28] 231502335287754752: T'as vu Pff
-[22:42] 293414992663805952: Bon <@362260685540818944> je suis rentrer
-[22:42] 293414992663805952: Et c’était pas si raisonnable
-[22:42] 362260685540818944: Gg
-[22:42] 289796655862251520: j'ai vu les résultats du match
-[22:42] 289796655862251520: xd
-[22:43] 293414992663805952: <:catent:1216696293754146826>
-[11:42] 265210499627614208: <@177442452934754305> tiens c'est chelou, ils ont l'air de perdre comme hier Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1259112351131635753/image.png?ex=68d1df01&is=68d08d81&hm=b0484e7b6b4aba8139c11ce004d755d58ad37fa770f66bd5f780231ddc15dfa6&]
-[12:19] 177442452934754304: Ptdr
+Période: 2024-03-04 à 2024-03-04
+[08:02] 362260685540818944: Envie de crever, ça fait 2 fois depuis 5 mois qu'ils changent les horaires Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1214120769723043880/image.png?ex=68d25414&is=68d10294&hm=ce36b46daa50180af2d19b096e4eb87c5aabf47d0f7cf6a5f0e7669a980e81f0&, https://cdn.discordapp.com/attachments/1202714611095310469/1214120769966309396/image.png?ex=68d25414&is=68d10294&hm=33ed302e9354d9f94961bfcc256653dbd5b271633a37f890fcd2cdac85298b5c&]
+[09:28] 265210499627614208: sans compter les grèves là
+[09:28] 265210499627614208: jpp
+[09:29] 362260685540818944: Oui grève de taxi, c'est quoi ça encore
+[09:30] 265210499627614208: comme la première semaine de février
+[09:30] 265210499627614208: genre ça m'casse légèrements les couilles en vrai xD
+[09:30] 293414992663805952: Bah moi ya personne sur la route XD
+[09:31] 265210499627614208: normal toi t'habite dans la petite ville de trou du cul pomé
+[09:31] 293414992663805952: Je taffe tout de même à angouleme
+[09:32] 293414992663805952: Y a des camions quand même
+[09:32] 265210499627614208: Comme même
+[10:10] 293414992663805952: Mdr
+[10:10] 293414992663805952: Y a une coupure d’internet a toulouse
+[10:10] 293414992663805952: Donc on a plus accès aux serveurs de la boite
+[10:10] 293414992663805952: Et devinez sur quoi je taffe
+[10:10] 293414992663805952: Le serveur svn de la boite
+[10:11] 293414992663805952: Donc la, je peux littéralement pas taffer
+[10:11] 293414992663805952: :/
+[10:16] 362260685540818944: c'est pas comme si tu taffais dans tous les cas
+[10:16] 289796655862251520: https://tenor.com/view/big-oof-size-small-medium-switch-gif-17355313
+[10:18] 293414992663805952: Effectivement,
+J’ai relancé un truc du coup Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1214155070799880212/IMG_0884.png?ex=68d1cb46&is=68d079c6&hm=a929886d7911caa2ae563ae2a0b19e854d8c32880094719e3b04a90caa43781c&]
+[10:19] 289796655862251520: tu peux même pas bouger...
+[10:20] 289796655862251520: regarde ton avatar il a l'air aussi con que toi à jouer à pokemon go sans marcher et sans pokéstop à coté
+[10:30] 293414992663805952: Je te permet pas, ca marche assez bien, j’ai eu 6 pokemon comme ça
+[10:31] 289796655862251520: je pense que te branler c'est plus productif
+[10:31] 362260685540818944: where clash of clans
+[10:42] 293414992663805952: Bah, ca joue, là j’ai les ballons et explose tout le monde
+[10:42] 293414992663805952: J’ai aussi le village d’ouvrier
+[10:43] 293414992663805952: Et mes 4 ouvrier marchent 24/24
+[10:43] 362260685540818944: ptn déjà 4
+[10:44] 293414992663805952: ´fin 3 sur le normal puis celui sur le village d’ouvriers
+[10:44] 362260685540818944: ah oui
+[10:45] 293414992663805952: Ah et j’ai ca pour les prochaines améliorations Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1214161855480725546/image0.jpg?ex=68d1d198&is=68d08018&hm=ccbbaad09e56ff4918fa110b319793cb587089a0deff7bdfe48b6040909ff7a9&]
+[10:46] 362260685540818944: noice
+[10:46] 293414992663805952: Mais là j’ai juste envie de faire du minecraft ou du mhw
+[10:46] 293414992663805952: Je me fais un peu iech
+[10:47] 362260685540818944: understandable
+[10:47] 265210499627614208: non non non
+[10:47] 265210499627614208: WHERE API
+[10:55] 293414992663805952: https://tenor.com/view/vietnam-flashback-cat-gif-18770750
+[11:59] 293414992663805952: Bon bah je viens d’apprendre que la boite fête ses 5 ans le 7juin
+[12:00] 362260685540818944: ok
+[12:00] 293414992663805952: Donc je suis invité le jeudi et le vendredi a faire des activités, le tout payer par la boite
+[12:00] 362260685540818944: nice
+[12:00] 293414992663805952: *stonks*
+[12:53] 318105451810127872: lezgo
+[12:53] 318105451810127872: payé a rien foutre
+[12:53] 318105451810127872: *dab*
+[12:53] 293414992663805952: Ewy
+[12:53] 318105451810127872: après je parle
+[12:53] 318105451810127872: mais pour mon stage
+[12:54] 318105451810127872: j'ai fait une journée jesaisplusquoi avec tous les employés du groupe de Lyon
+[12:54] 318105451810127872: on a graille, fait des blind tests et du biathlon au Groupama Stadium
+[16:46] 177442452934754304: <@265210499627614209> imagine tu te fais voler des informations confidentielles pour les JO 4 mois avant qu'ils aient lieux, ça n'arrive jamais mais imagine quand meme
+[16:46] 177442452934754304: Imagine maintenant le faire 2 fois
+[16:47] 177442452934754304: https://vxtwitter.com/Mediavenir/status/1764682493867729393?t=OQ3GkONCiCjZZ0gsKuIVWQ&s=19
+[16:47] 293414992663805952: 🗿
+[16:49] 177442452934754304: Soon le comité d'organisation des JO :
+[16:49] 177442452934754304: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1214253381992972338/image0.gif?ex=68d226d6&is=68d0d556&hm=74f42e8d61b897e4eb3ebe38428af37db9bf642d48dc1c9e724bb3dcfac345c2&]
+[17:05] 265210499627614208: non mais gros
+[17:05] 265210499627614208: y'a un moment où être le plus con c'est pas une compétition genre
+[17:06] 362260685540818944: Aucun dosage
+[17:21] 289796655862251520: attends ça veut dire que ça fait 20 ans que je m'entraîne pour rien?
+[18:08] 289796655862251520: https://store.steampowered.com/app/1479140/AKxolotl/
+[18:08] 289796655862251520: xD
 """

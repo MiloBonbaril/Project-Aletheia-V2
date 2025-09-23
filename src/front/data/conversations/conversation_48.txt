@@ -1,481 +1,111 @@
 Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
 """
 [Conversation 48]
-Période: 2024-10-27 à 2024-11-07
-[20:35] 293414992663805952: https://open.spotify.com/intl-fr/track/4Qgcx3CfIfObK0aWuCk92A?si=fe2f69dd89424a32 <@265210499627614209>
-[20:35] 293414992663805952: turbo kevin qui est de retour
-[15:22] 231502335287754752: <:nooo:708005120939524106> Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1300479739424931953/SmartSelect_20241028_102143_Email.png?ex=68d21263&is=68d0c0e3&hm=c4e96a6fa601bc68d80acf251a0571e7afe8f17cb8da0747afdab5c2233f2e54&]
-[15:23] 293414992663805952: Balec Réactions: [<a:Cat_Bruh:854901327381135410> x1]
-[15:25] 362260685540818944: Elle a vraiment fait un everyone c'te conne jpp
-[15:25] 293414992663805952: Stickers [jmlp-notif]
-[15:26] 265210499627614208: where la suite du message
-[15:27] 231502335287754752: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1300480991432806430/Screenshot_20241028_102647_Email.jpg?ex=68d2138e&is=68d0c20e&hm=13ec88f4830cd938c00310545f59305e6c6231fffa33a015c84d48b379b74de6&]
-[15:27] 362260685540818944: Et sous la table ! Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1300481141693747261/image.png?ex=68d213b1&is=68d0c231&hm=384568f91717149bfe7ba2f1f715a0ee2804b8636959dee5f189854309f14153&]
-[15:28] 265210499627614208: "En vous aidant au bureau, sous le bureau" Réactions: [😂 x1]
-[15:28] 265210499627614208: Stickers [g pas de verr]
-[15:28] 362260685540818944: Stickers [g pas de verr]
-[15:38] 318105451810127872: https://tenor.com/view/oh-no-top-gear-jeremy-clarkson-no-one-cares-gif-18925814 Réactions: [😂 x2]
-[15:48] 177442452934754304: OH BORDEL JE CHIALE
-[15:57] 293414992663805952: Stickers [g pas de verr]
-[10:29] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1300768445771546644/image0.jpg?ex=68d1cdc4&is=68d07c44&hm=9be4f42a2e3756704c56f098014766f31ebaddd20ddab6b394eb699232d69cba&]
-[10:29] 293414992663805952: <a:q_pepeblushytips:737817891751067779>
-[10:29] 318105451810127872: <:12moche:1298985639424954483>
-[10:57] 306809650802589696: Je suis officiellement le dev le plus Pipo de l’histoire Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1300775608879550514/IMG_1535.png?ex=68d1d470&is=68d082f0&hm=c4df9b147796b467d981bbcc4d570f1484d2e7648f386a850b50a2a5d7144864&]
-[10:58] 306809650802589696: J’ai jamais taper une seul ligne de code même pas un hello world et on me qualifie de dev dans mon diplôme
-[11:01] 293414992663805952: Fait gaffes y a moi dans la course
-[11:03] 306809650802589696: Même toi tu a fait plus que moi, 
-Mon palmarès de dev c’est une applis en C qui reproduit teams fait en full chat GPT donc bon
-[11:03] 306809650802589696: Même pas sécurisé
-[14:07] 293414992663805952: palmarès de la journée: faire 1 commentaire jira
-[14:07] 293414992663805952: psartek
-[14:08] 231502335287754752: Ca va tu te touches pas trop les couilles
-[14:09] 293414992663805952: ah et j'ai oublié 1 réunion ou j'ai juste dit bonjour et aurevoir
-[14:09] 293414992663805952: <:7thumbsUp:581980200758411305>
-[14:09] 231502335287754752: Where do i sign up
-[14:10] 293414992663805952: arkea (cmso et cmb)
-[14:11] 293414992663805952: tout ce qu'on fait, c'est des réunions pour prévoir de taffer, se rendre compte qu'on a pas les permissions, demander les permissions, attendre et recommencer
-[14:11] 231502335287754752: Pas mal
-[14:12] 231502335287754752: Productif, j'aime bien
-[14:12] 289796655862251520: legit le mec aurait pas pu trouver un meilleur job
-[14:13] 231502335287754752: Ah bah branlette land là
-[14:13] 289796655862251520: Il est chômeur professionnel et il trouve un taff adapté à ses compétences Réactions: [😂 x1]
-[14:13] 231502335287754752: En plus le mec on va lui dire tas bien taffé 20/20
-[14:14] 293414992663805952: et le tout très bien payé
-[14:14] 293414992663805952: Stickers [mazal]
-[14:15] 293414992663805952: alors déconne mais hier ils m'ont félicité parce que j'ai fait des commentaires sur jira, parce que meme eux n'en font pas
-[14:15] 231502335287754752: Ptn moi aussi jveux être bien payer pour me branler
-[14:15] 231502335287754752: A.. ah...
-[14:15] 289796655862251520: 🤡
-[14:15] 293414992663805952: <:clownyai:625755115759861771>
-[15:25] 310709886121934848: Mon bilan de la journée 500 km un repas payé par mon etp et un dessin
-[15:29] 289796655862251520: je commence à coder avec un écran vertical ça fait bizarre au début
-[18:05] 293414992663805952: <@289796655862251521> y a des watch party pour la finale des worlds comme l'année dernière ?
-[19:35] 289796655862251520: en ligne?
-[19:36] 293414992663805952: même en physique
-[23:18] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1300962102730686495/image.png?ex=68d1d95f&is=68d087df&hm=8dc480a10b02a9148fb1f5f0acbf1e53fd022f0d0bf7947aa11754dded134b2b&]
-[10:57] 293414992663805952: ptn <@362260685540818944> y a pas la beta de wilds qui a commencé ?
-[10:57] 362260685540818944: Pour PS5
-[10:57] 293414992663805952: ahhhhh
-[10:57] 293414992663805952: il est vrai
-[10:57] 362260685540818944: C'est début novembre PC
-[10:58] 293414992663805952: ok ok
-[10:59] 362260685540818944: C'est du 1 au 4 sur toutes les plateformes
-[11:01] 293414992663805952: Je l’aurais peut-être acheté d’ici là
-[12:56] 306809650802589696: Faut que je le fasse ce soir
-[14:58] 289796655862251520: d'ailleurs <@293414992663805952> c'est nsfw pas nswf (pour "Not safe for work")
-[14:58] 289796655862251520: https://tenor.com/view/nerd-emoji-nerd-emoji-avalon-play-avalon-gif-24241051
-[14:59] 293414992663805952: Eh gros sayer
-[14:59] 293414992663805952: Commence pas toi
-[15:00] 289796655862251520: c'est pas comme si tu bossais
-[15:00] 289796655862251520: donc t'as le temps de le changer
-[15:00] 293414992663805952: C’est fait
-[09:22] 293414992663805952: <:hapy:1216695875644952616> Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1301476414142545930/image0.jpg?ex=68d1be1d&is=68d06c9d&hm=9e9909eb7ae89e4bed150ac42661c8370c4492ed17683daf96d2a86b5b83516d&]
-[09:26] 293414992663805952: j'sui conten
-[09:55] 894963658189332480: Les impôts a payer mtn <:hapy:1216695875644952616>
-[09:56] 293414992663805952: l'année prochaine chef
-[10:24] 362260685540818944: On peut jouer à Wilds demain à 4h du mat normalement  <@293414992663805952>
-[10:25] 293414992663805952: ah ouai mais lààààà
-[10:25] 293414992663805952: <@733261833993060362> <@310709886121934850> ptite LAN demain ?
-[10:28] 733261833993060352: Comment ça mon reuf ?
-[10:28] 762707476272775168: <@733261833993060362> you leveled up!
-[10:30] 293414992663805952: bah tu veux pas faire une lan de mh wilds pour halloween
-[10:37] 310709886121934848: bah j'ai pas le jeu donc non
-[10:37] 310709886121934848: et puis j'aurais pas de pc quoi...
-[10:37] 762707476272775168: feur
-[10:38] 293414992663805952: <:PensiveClown:585541849662357505>
-[10:38] 310709886121934848: moi je pense que ton bot il lui manque plus que le coubé
-[10:38] 762707476272775168: <@310709886121934850> you leveled up!
-[10:39] 293414992663805952: j'ai hésité, mais ça peut se faire tkt
-[11:01] 733261833993060352: Mais il sort pas en janvier ?
-[11:01] 293414992663805952: si mais t'as une beta (demo) qui sors demain à 4h
-[11:02] 733261833993060352: En vrai, est ce que j'en ai pas un peu rien à foutre
-[11:04] 293414992663805952: Stickers [Aaaah d'accord !]
-[11:04] 293414992663805952: ahhh mais voilà
-[11:04] 293414992663805952: il faut aller se faire fou-tre
-[11:19] 362260685540818944: A vérifier l'horaire après
-[11:20] 177442452934754304: https://pbs.twimg.com/media/GbNMWTtWUAAFEIz?format=jpg&name=small
-[11:20] 177442452934754304: Je pose ça la
-[11:20] 362260685540818944: Ptn non pas ça
-[11:20] 362260685540818944: Je l'ai vu hier j'ai hésité
-[11:20] 177442452934754304: Bordel
-[11:27] 733261833993060352: Tu vas bien voir toi, on voir qui va se faire foutrer
-[11:28] 293414992663805952: Stickers [foutre moi]
-[11:29] 733261833993060352: Stickers [biden blast!]
-[12:51] 318105451810127872: rappelle moi ce que tu vas acheter ce weekend ?
-[13:27] 293414992663805952: <:x_oof:554253023036309505>
-[22:12] 289796655862251520: je suis dans une soirée halloween à mon école, ça jam à coté de moi et une des seule musique que j'ai reconnu c'est MTC 😭
-[22:19] 177442452934754304: https://x.com/NzoChegg/status/1851992701501120835?t=xpcqwnMdLiU82X2ywF_zsg&s=19
-[22:22] 289796655862251520: <@265210499627614209> toi et tes musiques dégénérées là
-[22:22] 265210499627614208: fin frr
-[22:22] 265210499627614208: J'écoute pas ça toute le journée
-[22:23] 265210499627614208: tu voulais peut être ping ethan
-[22:23] 289796655862251520: c'est toi qui m'a fait écouter ça en tout cas
-[22:24] 289796655862251520: en vrai en soirée ça passe bien tu capte pas les paroles
-[22:25] 265210499627614208: xD
-[22:27] 289796655862251520: maintenant remix de crazy frog
-[22:28] 289796655862251520: je crois que y'avais le thème de combat de pokemon avec plein de basses à fond aussi
-[23:32] 293414992663805952: Je vois que tu t’amuses autant que moi
-[09:20] 362260685540818944: Bon bah Wilds risque d'être un motif d'échec pour mon master
-[09:36] 293414992663805952: Stickers [Unconcerned Fatalis]
-[10:38] 318105451810127872: imagines un peu l'année 2025
-[10:38] 318105451810127872: Wilds
-[10:38] 318105451810127872: BO6
-[10:38] 318105451810127872: GTA6
-[10:38] 318105451810127872: 'fin
-[10:38] 318105451810127872: manquerait plus qu'un petit confinement et c'est le prime de l'HUMANITE
-[10:39] 362260685540818944: Une année d'or comme en 2012
-[10:41] 318105451810127872: tu rentres de l'école
-[10:41] 318105451810127872: petite graille de 16h30
-[10:41] 362260685540818944: Y'a Civilization 7 / Kingdom Come Delivrance 2 aussi
-[10:42] 318105451810127872: paf t'arrives du lances youtube, coopTeam, MrBboy, Diablox9
-[10:51] 293414992663805952: https://tenor.com/view/regarder-squeezie-gif-6212731
-[10:51] 293414992663805952: Avec le squeezie de tah l’epoque
-[10:54] 894963658189332480: tandis que ce squeezie la Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1301861827835203667/CD4DB38D-9D34-444F-96E7-CF51EDFD73D0.png?ex=68d1d38f&is=68d0820f&hm=db21c83fcb3d21a8496f362b34dc662dfd1c56b5926692848111d17182e7c250&]
-[11:17] 318105451810127872: c'était plus le squeezie de Leroy
-[11:18] 318105451810127872: Avec le EpicCommedyClub
-[11:18] 894963658189332480: siiiii
-[11:18] 894963658189332480: je l'ai connu avec ça première facecam
-[11:18] 894963658189332480: les défis cod
-[11:18] 894963658189332480: avec fezio
-[11:18] 318105451810127872: celui où il s'éclate un oeuf sur la tête à chaque mort
-[11:18] 318105451810127872: EXACTEEMNT
-[11:22] 894963658189332480: meilleur époque
-[11:23] 894963658189332480: moi j'aime call offfff
-[08:08] 894963658189332480: Des gens chaud pour un lethal company ce soir ?
-[09:52] 318105451810127872: Je sais pas à quelle heure je rentre mais ouais
-[09:53] 318105451810127872: <@471793126873497601> prends le en vrai
-[09:53] 318105451810127872: 8 balles wsh
-[09:56] 894963658189332480: 6,82 même
-[09:57] 894963658189332480: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1302209874922307646/6FA787EA-413B-49AA-A2D7-8189E8BA2995.png?ex=68d1c634&is=68d074b4&hm=27a1dfce85e5df9c628446b2eb9e01132a93fc16536d9216d1b443bb47dc2ff7&]
-[09:57] 318105451810127872: Les 6,82 les plus renta
-[09:58] 894963658189332480: avec un modpack et une seul game
-[10:00] 318105451810127872: Et une bonne bande de con
-[10:01] 894963658189332480: OUIIIIIIIIIIIIIIIIIII <:hapy:1216695875644952616>
-[10:04] 894963658189332480: <@293414992663805952> <@362260685540818944> <@202530349845184514> <@211867169263321091> <@306809650802589707> <@257130155720441856> vous serez chaud ?
-[10:05] 362260685540818944: Oui
-[10:05] 894963658189332480: niquel
-[10:23] 306809650802589696: Pas dispo
-[10:23] 894963658189332480: ok
-[11:17] 293414992663805952: Ca peut se faire
-[11:17] 894963658189332480: pour le modpack c'est lucas qu'il la
-[11:20] 211867169263321088: j'peux faire ça ouais !
-[11:20] 894963658189332480: t'as fini le modpack ?
-[11:29] 211867169263321088: normalement il devrait fonctionner ouais
-[11:30] 211867169263321088: faut juste que je revois les configs de mods et on devrait être bon !
-[11:30] 894963658189332480: okay bro
-[13:17] 202530349845184512: normalement je suis dispo aussi
-[13:17] 894963658189332480: okay
-[14:26] 211867169263321088: 0192ed45-5d81-577d-ad12-19fe255fa51a
-[14:26] 211867169263321088: Voilà le nouveau code du modpack lethal company
-[15:42] 289796655862251520: <@293414992663805952> tu regarde les worlds?
-[15:42] 293414992663805952: ui
-[15:43] 289796655862251520: nice moi aussi
-[15:43] 293414992663805952: <@318105451810127872> <@471793126873497601> <@265210499627614209> ptite watch party ?
-[15:43] 289796655862251520: je suis déjà avec un pote perso
-[15:51] 318105451810127872: La on est en terrasse
-[15:51] 293414992663805952: XD
-[15:51] 318105451810127872: Pas une place possible pour me garer chez moi
-[15:51] 318105451810127872: Parking 6 étages PLEIN
-[17:34] 289796655862251520: SILVER SCRAPES!
-[17:34] 306809650802589696: mêmpas je suis dans le ping ...
-[17:35] 293414992663805952: chais pas je te vois dans un autre vocal
-[17:35] 293414992663805952: # LES CREPES D'ARGENT
-[18:47] 265210499627614208: Hâte du skin prestige T1 Faker ultra mid édition à 1000€ là
-[20:47] 211867169263321088: <@318105451810127872>
-[20:48] 894963658189332480: <@362260685540818944> on est tous la
-[21:41] 211867169263321088: 0192eed3-0343-b322-174d-8489c0cdccda
-[21:41] 289796655862251520: Ils en font un par joueur, j'espère que t'es pas trop déçu
-[21:42] 265210499627614208: Oui je suis au courant mais bon faker en mvp etc bon
-[21:43] 289796655862251520: il aura juste skin prestige qu'il n'utilisera jamais
-[15:15] 265210499627614208: A quand la soirée sur ça avec un ricard ?
-https://store.steampowered.com/app/2075480/Power_of_Petanque/
-[15:16] 293414992663805952: less go
-[17:16] 318105451810127872: <@894963658189332530>, pour le bug des settings, va dans le microsoft store, downloads en bas à gauche, et le gros bouton bleu en haut à droite. Normalement y'a un truc services de jeu à mettre à jour
-[17:21] 894963658189332480: Ok ça marche
-[17:22] 894963658189332480: Je suis là mais je reste avec un mon père donc je serais là tout a l'heure
-[13:12] 293414992663805952: Oh les khoya, ce matin j’ai bien taffé
-[13:13] 293414992663805952: <:gx_proud:876454066585227315>
-[13:16] 362260685540818944: Mais non
-[13:16] 362260685540818944: T'as écris combien de commentaire ?
-[13:16] 293414992663805952: *j’en ai supprimé 1
-[13:17] 293414992663805952: Mais là je taffe sur les schémas de toute la base de données utilisée pour l’outil qu’on produit
-[13:17] 293414992663805952: Excusez moi, les ***MCD***
-[13:26] 265210499627614208: pov le schéma de la base de donnée d'ethan
-[13:26] 265210499627614208: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1302987264174850129/image.png?ex=68d1f734&is=68d0a5b4&hm=171f1fd99df0036ade9ceede5b9377fe1f57140db7d2de84443da58247e43c46&]
-[13:27] 293414992663805952: Alors
-[13:27] 293414992663805952: Non
-[13:27] 293414992663805952: Ils sont méchants les schemas
-[13:27] 318105451810127872: proof or fake
-[13:27] 293414992663805952: Att
-[13:28] 265210499627614208: dsl petite update
-[13:28] 265210499627614208: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1302987920696676443/image.png?ex=68d1f7d0&is=68d0a650&hm=fc54142fcb6124711f81f97161fee67cdbb09bb5575df966f28af18ca07e7ce2&]
-[13:29] 293414992663805952: Stickers [g pas de verr]
-[13:29] 265210499627614208: Stickers [g pas de verr]
-[13:29] 362260685540818944: https://tenor.com/view/aigri-gif-26825439
-[13:30] 293414992663805952: Ça *3 Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1302988397115211837/IMG_1539.jpg?ex=68d1f842&is=68d0a6c2&hm=15565bd390ebd73edf6c4e22a2ee2a63bc1d432c2df2c6849ea2a9e43724322e&]
-[13:31] 265210499627614208: Where uml?
-[13:31] 293414992663805952: Nan nan monsieur, ceci est un « MCD »
-[13:31] 265210499627614208: https://cdn.discordapp.com/attachments/1298360655719432233/1298664435560222770/Treve_de_Hassoul.gif
-[13:31] 265210499627614208: bah c'est pobo
-[13:31] 293414992663805952: Je confirme
-[13:31] 362260685540818944: McDonalds ? Réactions: [<:kekw:917151549355077663> x3]
-[13:32] 293414992663805952: Stickers [g pas de verr]
-[13:32] 293414992663805952: Et après avec les mcd il va falloir faire des mpd
-[13:33] 265210499627614208: oh la la attention
-[13:33] 265210499627614208: t'en as au moins pour 8 mois de taff là
-[13:33] 293414992663805952: On a compté 14jh
-[13:33] 293414992663805952: Inch, parce qu’il y a pas de deadline
-[13:33] 293414992663805952: XD
-[13:34] 265210499627614208: https://tenor.com/view/mhm-mhmm-sure-thing-sure-doubt-gif-22192499
-[13:36] 293414992663805952: Par contre j’ai juré y a mon tuteur qui travaille mon mental comme jamais, tout les jours il me propose des gâteaux ou des chips
-[13:36] 265210499627614208: non mais
-[13:36] 293414992663805952: Jusqu’à présent j’ai résisté à la tentation
-[13:36] 265210499627614208: Fin
-[13:36] 265210499627614208: Bref
-[13:36] 265210499627614208: J'ai pas les mots
-[13:36] 293414992663805952: Mais j’ai juré aue les petites gaufrettes choco noisettes là
-[13:36] 293414992663805952: C’est compliqué
-[13:37] 265210499627614208: Non mais Ethan
-[13:37] 265210499627614208: C'est lunaire ce que tu racontes
-[13:37] 265210499627614208: par pitié, dis nous que c'est une blague et que tu taffes vriament xD
-[13:38] 293414992663805952: J’ai bien peur que tu peterais un cable si tu avais mon alternance
-[13:42] 293414992663805952: Et pour te dire là je suis en train de faire ma demande de Télétravail, normalement j’aurais 2 jours par semaine
-[13:43] 362260685540818944: ntm
-[13:43] 265210499627614208: https://tenor.com/view/hasbulla-hasbullah-hasbik-khabib-massage-gif-21821624
-[13:43] 362260685540818944: Vraiment étouffe toi avec tes gaufrettes
-[13:44] 265210499627614208: Mange un cul
-[13:44] 293414992663805952: Et on oublie pas les +1331€ à la fin du mois, qui vont prendre +15% d’ici avril 2025 parce que j’aurais 21 ans
-[13:44] 293414992663805952: Stickers [guh]
-[13:44] 362260685540818944: Stickers [azerty]
-[13:45] 265210499627614208: https://tenor.com/view/penguin-leaving-gif-24228491
-[13:46] 293414992663805952: https://tenor.com/view/steve-harvey-drinking-steve-harvey-head2seoker-drinking-party-gif-5069515457533912064
-[13:46] 362260685540818944: Att att
-[13:46] 362260685540818944: Tu sais si tu vas avoir un CDI là bas à la fin ?
-[13:47] 293414992663805952: Pas sûr parce que là, bordeaux a eu le droit à des restrictions budgétaires et peuvent plus embaucher jusqu’à nouvel ordre, mais ca peux changer d’ici là
-[13:47] 293414992663805952: Mais bon, les restrictions budgétaires en questions
-[13:47] 265210499627614208: Vrai question
-[13:48] 265210499627614208: Tu préfères rester là-bas et rien foutre toute ta vie ou taffer un peu comme-même
-[13:48] 362260685540818944: Fin tu demandes ça à Ethan
-[13:48] 265210499627614208: Peut être qu'il voit plus loin que le bout de son nez
-[13:48] 293414992663805952: Bah si j’y reste à rien foutre croit moi bien que je tafferais au moins pour moi
-[13:49] 265210499627614208: Stickers [g pas de verr]
-[13:49] 362260685540818944: https://tenor.com/view/bisou-jeune-entrepreneur-entrepreneur-jpzer-moi-jpense-gif-17382084
-[13:49] 265210499627614208: si je peux me permettre de reprendre les propos de <@318105451810127872>
-[13:49] 293414992663805952: Faire des bots discord je trouve ca rigolo
-[13:49] 265210499627614208: proof or fake
-[13:49] 265210499627614208: non mais c'est bon gros
-[13:49] 265210499627614208: il a fait son bot avec chatgpt
-[13:49] 265210499627614208: ya 2 cog
-[13:49] 265210499627614208: et il vient faire passer ça pour du taff
-[13:49] 265210499627614208: Suce un cul
-[13:49] 265210499627614208: https://tenor.com/view/mom-me-me-and-mom-seks-sex-gif-21011302
-[13:50] 293414992663805952: https://tenor.com/view/alderiate-boo-pleure-gif-19794840
-[13:50] 362260685540818944: Stickers [STOP]
-[13:50] 362260685540818944: je suis full issou ptn
-[13:50] 293414992663805952: Moi aussi
-[13:50] 362260685540818944: "suce un cul"
-[13:51] 265210499627614208: Je suis à 2 doigts de pleurer de rire mais Nelson est en réunion
-[13:51] 265210499627614208: xD
-[13:51] 265210499627614208: J'ai la veine sur le front comme le mec sur le meme là
-[13:51] 293414992663805952: https://tenor.com/view/angry-mad-gif-24414440
-[13:52] 265210499627614208: exa
-[13:52] 293414992663805952: -decimal
-[13:52] 265210499627614208: ftg
-[13:53] 265210499627614208: Stickers [GardonOfJudgement]
-[13:53] 265210499627614208: Tu te prends pour qui là fils
-[13:53] 293414992663805952: <:rigolo:760672686728020029>
-[13:58] 293414992663805952: J’ai oublié de dire que j’ai envoyé 2 message ajd pour le taf
-[13:58] 293414992663805952: Attention sans eux je suis bloqué
-[13:59] 265210499627614208: Stickers [beyou ded]
-[14:05] 265210499627614208: ça va être quand tes jours de TT en vrai?
-[14:11] 293414992663805952: Mercredis et vendredis, mais le vendredi en temps « normal » je suis en ecole
-[15:45] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1303022276052258836/image.png?ex=68d217cf&is=68d0c64f&hm=f656c39ee36bc10412972f45e3c74d250ef4a8c54b67a90df1911a859c7508b5&]
-[15:45] 318105451810127872: faut pardonner
-[15:45] 318105451810127872: c'est des devs indé aussi
-[15:45] 293414992663805952: Pardonne mon fils, pardonne
-[15:46] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1303022538971942972/image.png?ex=68d2180e&is=68d0c68e&hm=5e267d4c2d1f03a5f2f731501289cccfa234691b27f29222acff1c4527ed969e&]
-[15:46] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1303022595154776144/image.png?ex=68d2181b&is=68d0c69b&hm=331d6292ccf3e56f4b7df242c06648ff3bc972c1a9c0e5b9f46e9caf8f1137e5&]
-[15:46] 362260685540818944: Des zombies strouchmpf
-[15:46] 318105451810127872: je savais pas qu'il y avait le rtx sur BO6
-[15:46] 362260685540818944: stroumchpf ?
-[15:47] 362260685540818944: stroumpfch
-[15:47] 318105451810127872: f
-[15:47] 318105451810127872: schtroumpf
-[15:47] 362260685540818944: schtroumpf
-[15:47] 318105451810127872: quel nom de merde
-[15:47] 362260685540818944: https://cdn.discordapp.com/attachments/772140977921982474/1292191411407687691/cat-thumbs-up-cat.gif
-[15:48] 293414992663805952: Ces bugs ressemble au fait que tu n’a pas assez de VRAM
-[15:48] 318105451810127872: je sais
-[15:48] 318105451810127872: j'ai fait un alt tab un peu trop véner
-[15:48] 318105451810127872: alt tab into lancer apple music
-[15:51] 293414992663805952: Ou alors c’est ton cpu, j’avais le même genre de bug sur mh wilds hier
-[15:52] 318105451810127872: plus VRAM
-[15:52] 318105451810127872: je suis à la limite
-[12:52] 318105451810127872: Y’a un reuf qui a suivi les dramas du moment ?
-[12:52] 318105451810127872: Prime / Kameto Sixen / Slipix
-[12:53] 318105451810127872: De ce que j’ai vu, Sixen / Slipix c’est une balle perdue de P / K mais j’ai pas capté pourquoi
-[13:01] 293414992663805952: Parce qu’il y a un drama ?
-[13:02] 318105451810127872: Bah askip un bon gros drama en plus
-[13:02] 318105451810127872: Prime aurait fait du gros détournement de fond sur le dos de la KC
-[13:02] 293414992663805952: Cki ?
-[13:02] 318105451810127872: Tu connais pas prime ?
-[13:03] 318105451810127872: Fin mec
-[13:03] 318105451810127872: https://tenor.com/view/dies-from-cringe-meme-cringe-imagine-gif-23477312
-[13:03] 293414992663805952: Bah nan connard
-[13:03] 318105451810127872: Co Fonda de la KC
-[13:04] 293414992663805952: Ok, m’enfou
-[13:04] 293414992663805952: Moi j’aime pas kameto de toute façon Réactions: [✅ x1], [<:KL1BlushYes:648397184408092682> x1]
-[13:04] 318105451810127872: https://tenor.com/view/pikachu-surprise-shock-shocked-what-gif-183527077784725044
-[13:05] 293414992663805952: Mais je chie sur la kc
-[13:05] 362260685540818944: Sixen / Slipix j'ai vu viteuf
-[13:06] 362260685540818944: Sixen qu'a tenté de récup TDS gratos là
-[13:07] 362260685540818944: Alors que le man a pas investi un rond
-[13:07] 293414992663805952: Moi je suis team alderiate et c’est tout
-[13:19] 362260685540818944: https://www.youtube.com/watch?v=X_zwic05oTk
-
-https://www.youtube.com/watch?v=mgZxZDM7OUA
-
-bahaha oh les lives me fracassent
-[13:19] 762707476272775168: <@362260685540818944> you leveled up!
-[13:19] 362260685540818944: Doucement sur les pubs fils
-[13:19] 362260685540818944: 'culé
-[13:20] 293414992663805952: touche pas à mon gosse toi
-[13:22] 362260685540818944: Le jour où t'as un gosse, j'aurai peut être le droit à la retraite
-[13:22] 293414992663805952: Stickers [ImGonnaSayN]
-[13:23] 362260685540818944: Stickers [g pas de verr]
-[13:43] 293414992663805952: <@211867169263321091> es-tu dispo ?
-[13:54] 211867169263321088: euh, ouais ?
-[13:55] 211867169263321088: que puis-je pour vous mon cher ?
-[13:55] 293414992663805952: c'était pour tester la qualité de mon bot parce que mes écouteurs sont raciste envers discord
-[13:55] 211867169263321088: hmmm hmmm
-[13:55] 211867169263321088: j'peut faire a ouais
-[13:55] 293414992663805952: tu peux te co voc ?
-[13:56] 293414992663805952: ok
-[13:56] 762707476272775168: Joined Le comptoir
-[13:56] 293414992663805952: setup le son avant peut etre
-[13:56] 293414992663805952: tu veux une musique particulière ?
-[13:57] 293414992663805952: merde je t'entends pas XD
-[13:57] 211867169263321088: Titre -> Y2k - Ivycomb <- artiste
-[13:57] 762707476272775168: Downloading audio...
-[13:57] 762707476272775168: Downloaded Y2K
-[13:57] 762707476272775168: Now playing: Y2K
-[13:58] 211867169263321088: ça c'est bon ça !
-[13:58] 293414992663805952: merde j'entends plus discord :/
-[13:58] 211867169263321088: écoute, jusqu'a la, ça à l'ai de marcher !
-[13:58] 762707476272775168: <@211867169263321091> you leveled up!
-[13:58] 293414992663805952: mais la qualité est good ?
-[13:58] 211867169263321088: ouais !
-[13:58] 293414992663805952: ok cool
-[13:58] 211867169263321088: genre comme si je l'écoutais sur youtube
-[13:58] 293414992663805952: ouai bah normal du coup XD
-[13:59] 211867169263321088: ouais logique
-[13:59] 211867169263321088: mais j'précise comme ça !
-[13:59] 293414992663805952: yes
-[13:59] 293414992663805952: parfé
-[13:59] 293414992663805952: moi avoir bien travaillé alors
-[13:59] 362260685540818944: chatgpt*
-[13:59] 293414992663805952: alors non
-[13:59] 293414992663805952: loin de la
-[14:00] 293414992663805952: pour le bot discord je demande pas au chat
-[14:00] 293414992663805952: parce que il est un peu merdique
-[14:10] 733261833993060352: https://tenor.com/view/monster-hunter-palico-cat-food-cooking-gif-18632874
-[14:10] 762707476272775168: <@733261833993060362> you leveled up!
-[14:10] 733261833993060352: Comment j'imagine Ethan Cook le bot
-[14:11] 265210499627614208: COmment j'imagine ethan cook le bot :
-[14:11] 265210499627614208: https://tenor.com/view/tattoos-tatuajes-ink-blazzord-goth-gif-10397564224548759022
-[14:12] 293414992663805952: https://tenor.com/view/monkey-developer-software-coding-debug-gif-15160023
-[14:12] 293414992663805952: la réalité:
-[14:14] 265210499627614208: https://tenor.com/view/when-code-fish-warsaken-yani-fun-gif-23813325
-[14:15] 293414992663805952: https://tenor.com/view/waterloo-roblox-where-is-code-gory-barraux-gif-24940325
-[20:28] 318105451810127872: https://x.com/jerry22717/status/1853557321500127713/photo/1 Réactions: [🤣 x1]
-[09:11] 293414992663805952: **My Steam Profile** *(from [SteamDB](https://steamdb.info/calculator/76561197968745517/?cc=eu))*
-* **Value:** 1199€
-* **Games owned:** 455
-* **Games played:** 364 *(80%)*
-
-* **Hours on record:** 9,527.6h
-[09:11] 293414992663805952: Oof
-[09:11] 293414992663805952: 1200€
-[09:11] 293414992663805952: Ça pique
-[09:11] 293414992663805952: Et 9500h
-[09:13] 293414992663805952: 1 an de ma vie perdue dans le jeu vidéo Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1303648339580944395/image0.jpg?ex=68d264a0&is=68d11320&hm=e44662eeb1baa92aae21aee34f010dd32cf7e5a9ae23fa68b09659336211c10d&]
-[09:13] 293414992663805952: Et dire que ça compte QUE les jeux steam
-[09:14] 362260685540818944: Que 1 an ?
-[09:15] 293414992663805952: Mais c’est 1 an de pur gaming non stop 24/24
-[09:15] 293414992663805952: Et c’est sans compter lol, minecraft, et les jeux d’autre plateforme
-[09:16] 362260685540818944: Oui
-[09:16] 362260685540818944: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1303649307639152680/image.png?ex=68d26587&is=68d11407&hm=f53e7180f024b344a588595365fe1d6f7cdf01fec3cc48913adb1290eec63524&]
-[09:17] 293414992663805952: C’est mignon
-[09:18] 293414992663805952: Btw steam db me dis que j’ai eco 2400€
-[09:18] 293414992663805952: Rentable
-[09:22] 362260685540818944: oh bordel de merde
-[09:23] 362260685540818944: J'ai réfléchis à qui pourrait avoir des grosses stats
-[09:23] 362260685540818944: J'ai pensé à Alexandre direct
-[09:23] 293414992663805952: Y avait jacques aussi
-[09:23] 362260685540818944: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1303651062221242378/image.png?ex=68d1be69&is=68d06ce9&hm=a6e8a37b32211c104eb8b641e282e5bbffcb8cdfddf791ddbef70bf18e66bebe&]
-[09:24] 293414992663805952: SHEEESH
-[09:24] 293414992663805952: Et <@177442452934754305> ?
-[09:25] 362260685540818944: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1303651542284369982/image.png?ex=68d1bedc&is=68d06d5c&hm=a8e15b78a91c008a5fe770105d350109e437e8895f31c90187a2148e3b4da978&]
-[09:26] 362260685540818944: Le man a du patrimoine sur Steam
-[09:28] 293414992663805952: Putain sur steam on voit pas le nombre de jeux/dlc posséder
-[09:35] 306809650802589696: les gars je suis en cours de scrum, mon prof c'est oussama amar, il nous raconte de ses histoire, le gars il est dev, ingénieur cyber, prof en scrum, tech hardware, designer. Je me tape une barre
-[09:37] 293414992663805952: https://tenor.com/view/tourne-dans-ma-tete-amar-gif-4862078780827965604
-[11:57] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1303689611272261642/image.png?ex=68d1e250&is=68d090d0&hm=21a1c4c1437dae753a369f98462fd3199c886ba673fadbf96aded172deab00c0&]
-[12:41] 310709886121934848: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1303700817844502559/Capture_decran_19.png?ex=68d1ecc0&is=68d09b40&hm=e8fea7b159732c60a411fd383fe4b6ed67f1a2dec1e876d3486899d3092a9b54&]
-[12:42] 310709886121934848: dinguerie de me dire que j'ai 4200h de jeux sur des jeux steam dont 2000 sur monster hunter et 1000 sur warframe
-[12:57] 293414992663805952: Le man est rentable en terme d’argent dépensés par rapport au nombre d’heure
-[12:57] 177442452934754304: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1303704861094711366/image0.jpg?ex=68d1f084&is=68d09f04&hm=ba62e19590749e6c1f45b9f0d0741163b2ce0c6d9a22a9d7f5d20d513c2d08e7&]
-[12:57] 177442452934754304: 3x rien mon compte
-[12:58] 177442452934754304: 0,04€/h qui dit mieux
-[12:59] 293414992663805952: https://tenor.com/view/spiderman-defoe-respect-gif-24551385
-[12:59] 293414992663805952: Je m’attendais à voir des sommes d’argent plus élevées
-[13:00] 362260685540818944: Oh sa mère le average playtime
-[13:10] 177442452934754304: Bah je suis pas Crésus non plus hein
-[13:37] 293414992663805952: Ptn jpp des formations: « lutte contre le blanchiment et financement du terrorisme »
-[13:48] 265210499627614208: mdr
-[13:58] 293414992663805952: Nan mais c’est bien, j’ai appris que fabrice fait des virement d’espèces douteux
-[13:58] 293414992663805952: Et qu’en tant que banquier je me dois de me renseigner sur tout ça
-[13:58] 293414992663805952: C’EST VRAI QUE JE SUIS BANQUIER CONNARD !!!
-[14:01] 265210499627614208: La vrai question c'est
-[14:01] 265210499627614208: PTDRTKIENFETE
-[14:01] 265210499627614208: https://tenor.com/view/ptdr-t-ki-talk-twitch-streamer-stream-gif-17670249
-[14:01] 293414992663805952: https://tenor.com/view/rugby-presentez-presentez-vous-top14-moscato-gif-15020246
-[14:22] 310709886121934848: ah bah sur Steam j'ai pas acheté beaucoup de jeu
-[15:40] 306809650802589696: Vous checker ça ou ?
-[15:42] 362260685540818944: https://discord.com/channels/1202714609396486154/1202714611095310469/1303647891688128552 y'a le lien
-[16:52] 306809650802589696: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1303763933127114752/image.png?ex=68d22788&is=68d0d608&hm=8f4c2a04bdfb21cc0e8c4fcad3a6c16b9b501d1d8a218e67f5a4ab0a08c5a239&]
-[17:05] 293414992663805952: Vous me faites passer pour un acheteur compulsif
-[17:06] 265210499627614208: oui
-[17:08] 265210499627614208: bon faut juste rajouter 3k heures de css / csgo sur mon main qui s'est fait ban vac Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1303767869527425126/image.png?ex=68d22b32&is=68d0d9b2&hm=deb70cee2ba2368d9a657502d956543847056640225e00a7b1cd999e99021ee6&]
-[17:58] 257130155720441856: road to 0.03 Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1303780689313009664/image.png?ex=68d23723&is=68d0e5a3&hm=a83d9dd930c1e8b728be7ac000a88b1e11f573fbd81ee608debf55b75331f0ad&]
-[17:59] 293414992663805952: propre
-[00:10] 265210499627614208: on peut noté ça
-[00:10] 265210499627614208: https://steamcommunity.com/profiles/76561198888573095/
-[00:10] 265210499627614208: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1303874281113124995/image.png?ex=68d1e58d&is=68d0940d&hm=d330dd4cf13ced57910f948a47171a797afbf6611e9424d745bcaefaeeba4e09&]
-[09:29] 318105451810127872: c'est quoi ce jeu de con avec un seul succès ?
-[09:29] 318105451810127872: après faut voir la gueule du succès
-[09:29] 318105451810127872: "Atteindre Global Elite"
-[09:30] 362260685540818944: Je crois que c'est vraiment juste lancer le jeu le succès
-[09:31] 318105451810127872: dis toi que même si c'était que ça
-[09:31] 318105451810127872: JAMAIS il y a 100% des joueurs qui l'ont
-[09:31] 318105451810127872: genre moi
-[09:32] 265210499627614208: Ils n'ont pas mit de succès sur le jeu quand ils ont fait la bascule de csgo à cs2
-[09:32] 293414992663805952: Le succès, c’est lancé counter strike 2 et pas le 1
-[09:33] 265210499627614208: Mais bon le man à 30k heure de jeu là
-[09:33] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1304015923492950056/image.png?ex=68d1c0b7&is=68d06f37&hm=450cc88ef5fe604ab3c2aaa31dc03cac85d1968f3309a3e4544d613c9404cafe&]
-[09:33] 362260685540818944: Alors j'ai regardé le profil il a 310h de jeu sur les 15 derniers jours
-[09:34] 362260685540818944: ça sent le mec qui laisse tourner le jeu ou le compte partager
-[09:34] 293414992663805952: C’est le genre de man qui lache une bad review au jeu en mode « please send help »
-[09:34] 265210499627614208: Non mais le mec gros
-[09:34] 265210499627614208: la game on l'enculait de zinzin jacques peut confirmer
-[09:34] 265210499627614208: à chaque fois qu'il mourrait
-[09:34] 265210499627614208: "fucking cheater with wallhack"
-[09:35] 265210499627614208: y'avait legit 10 - 2
-[09:35] 265210499627614208: mdr
-[12:02] 177442452934754304: "Yeah yeah walling is obvious at this point"
-[12:03] 293414992663805952: Le man avait une haine pour les dentistes
-[12:03] 177442452934754304: Bah dire ça quand tu gagne 10-2 c'est chaud quoi
-[12:06] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1304054267140898816/image.png?ex=68d1e46d&is=68d092ed&hm=4e430ca0f8f1ca88272fa210c7c3ccc23a133acbf7e72edd861595de56d121d8&]
-[12:06] 318105451810127872: je suis si joie
-[15:57] 733261833993060352: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1304112518179979284/image.png?ex=68d21aad&is=68d0c92d&hm=d8c443011fdaf3cd3329511d8235b07a46bf721d94083be55850f4d46f55d1f7&]
+Période: 2024-04-25 à 2024-04-27
+[05:45] 265210499627614208: Et beh c'est ff15 ça je reconnais
+[05:46] 265210499627614208: Pk c'est pas toi le chef du groupe si tu sais qu Alex n'a pas besoin de réussir ses projets pour passer à l'année d'après vu qu'il ne lui manque que 2 3 crédits
+[07:10] 293414992663805952: <@&1209087627890917406> y a une grosse skill issue qui est présente
+[07:55] 293414992663805952: Pour rappel <@362260685540818944> la soirée fruitz de tek, c’est ce soir, compte tu vraiment y aller ?
+[07:55] 362260685540818944: AH
+[07:56] 362260685540818944: grosse flemme
+[07:56] 293414992663805952: <:rigolo:760672686728020029>
+[07:56] 293414992663805952: C’est exactement ce que je me suis dis
+[07:56] 293414992663805952: X)
+[08:00] 293414992663805952: D’ailleurs <@362260685540818944> <@306809650802589707> <@733261833993060362>, j’ai lancé une guerre de clan
+[08:00] 293414992663805952: Free win
+[08:02] 362260685540818944: Comment ça t'as lancé une guerre de clan
+[08:09] 293414992663805952: Bah y a eu un vote
+[08:09] 293414992663805952: Tout le monde a dis oui
+[08:09] 293414992663805952: Puis personne a lance
+[08:09] 293414992663805952: Donc j’ai lancé
+[09:18] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1232984030270459965/image.png?ex=68d265dc&is=68d1145c&hm=000b2c8a9502dcb3193499be9c78acb48c2d4d9c0fa8678d62e792dd5e1e388e&]
+[09:18] 318105451810127872: <@289796655862251521>
+[09:39] 289796655862251520: déjà terminée y'a un moment
+[09:40] 318105451810127872: et voilà le mec est accro au jeu
+[09:41] 289796655862251520: bah en fait je crois que cette quête à l'air compliquée mais c'est facile quand tu as des amis
+[09:41] 318105451810127872: t'es en train de dire que je n'ai pas d'amis c'est ça
+[09:41] 318105451810127872: c'est ce que tu sous entends
+[09:41] 289796655862251520: non ^^
+[09:41] 289796655862251520: ^^
+[09:41] 293414992663805952: Oui
+[09:42] 289796655862251520: ^^
+[09:43] 318105451810127872: https://imgur.com/gallery/IsWDJWa
+[09:43] 318105451810127872: take this bozo
+[09:43] 318105451810127872: Shrek 1
+[09:48] 318105451810127872: oh t'es un fils de pute
+[09:48] 733261833993060352: Go tout casser
+[09:48] 318105451810127872: même pas tu respectes mon prénom
+[09:48] 293414992663805952: On va les crottex
+[09:50] 289796655862251520: oups pas fait exprès ^^
+[09:52] 293414992663805952: C’est la preuve que ce n’est pas son ami
+[09:53] 289796655862251520: https://tenor.com/view/discord-disable-reply-pings-pinging-gif-19259231
+[09:58] 293414992663805952: <@318105451810127872> Réactions: [<:RubySmug:1101129096831979573> x1] Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1232994138513735732/IMG_1353.jpg?ex=68d1c686&is=68d07506&hm=46ec842d3ee88486536190a8c4a325c5b93c1d4714788107667448976ab0feb7&]
+[10:07] 362260685540818944: Eh gros sayer, la Estelle qui m'appel en plein attaque clash of clan
+[10:57] 265210499627614208: XD
+[11:00] 293414992663805952: C’est qui estelle
+[11:05] 265210499627614208: La personne que tu ne verras pas à epitech digital
+[11:05] 265210499627614208: Stickers [:D]
+[11:06] 293414992663805952: Stickers [OK]
+[15:04] 304220517273960448: @everyone désolé pour le ping les copaings, mais j'ai besoin de vos conseils. Dans le cadre de ma certification, je dois interroger des professeurs/accompagnant pédagogiques qui travaillent (ou ont travaillé)  avec des jeunes de 10-17 ans. Je fais des recherches  autour de l'éducation et des addictions. Vous avez des contacts à me passer dans le secteur par hasard ? Ca peut être des profs, des staffs de collèges/lycées, des pédopsychiatres par exemple (désolé pour le double ping pour ceux qui ont d’autres serveurs en commun avec moi)
+[15:05] 362260685540818944: <@177442452934754305>
+[15:08] 289796655862251520: j'ai un pote dans l'éducation qui a fait des accompagnement et je peux surement retrouver le mail d'anciens prof / ma psy de mon lycée si ça t'intéresse
+[15:33] 177442452934754304: 🖕 Réactions: [😘 x1]
+[17:27] 304220517273960448: je serai vraiment chaud pour le coup
+[17:28] 304220517273960448: devine qui j'ai appelé en premier x)
+[17:31] 293414992663805952: <@265210499627614209> t'as ramené le picon ?
+[20:21] 265210499627614208: Bah ouais vu que l'autre fois ça ne s'était pas bu
+[20:21] 293414992663805952: ok
+[07:28] 293414992663805952: Wtf les amis Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1233318877451255828/image0.jpg?ex=68d24c36&is=68d0fab6&hm=d4b226fd19c0a62e75eff0de90211521558e7978a709da3945f8c566b5866e24&]
+[07:29] 293414992663805952: C’est quoi cette merde
+[07:31] 293414992663805952: C’est bon je l’ai, et c’est sacrément de la merde
+[07:32] 293414992663805952: ´fin wtf y a pas un truc raciste dans les emoji
+[07:35] 362260685540818944: C'est obligé tu fais exprès là
+[07:36] 293414992663805952: Bah je vois pas le chronomètre et la boule de cristal
+[07:36] 362260685540818944: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1233320879749074994/Screenshot_2024-04-26-09-36-40-589-edit_com.android.chrome.jpg?ex=68d24e13&is=68d0fc93&hm=862e7887a111a0c3ff05181541581349d3f76a8411c5ea3c22a44935df8d2143&]
+[07:37] 362260685540818944: Skill issue quoi
+[07:51] 293414992663805952: Nan mais je sais c’est qui
+[07:52] 293414992663805952: Juste que je ne comprends pas les emoji utiliser
+[09:41] 293414992663805952: J’ai juré ils m’ont cassé les couille Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1233352348424732693/image0.jpg?ex=68d1c2a2&is=68d07122&hm=2511d31e81befcf13423f35d9f9e571d94fc959e78c153faf878edc3cfc667a9&]
+[09:44] 293414992663805952: Sans compter les 2 mails
+[09:44] 362260685540818944: au secours
+[09:45] 293414992663805952: D’une j’ai pas fini mon cv, et de 2 flemme de faire du php pendant 2ans alors que je ne sais meme pas installer le truc
+[09:47] 293414992663805952: ´fin genre dans le message y a juste marqué: envoyé un message si intéressé
+[09:47] 293414992663805952: Frr
+[09:47] 293414992663805952: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1233353718892855346/IMG_1364.jpg?ex=68d1c3e9&is=68d07269&hm=24909b1000ebdca4b685224a9ebd07cf4822e3f52a087d33ff818f90c3275e90&]
+[10:53] 293414992663805952: Je suis pas sûr d’avoir compris mon daron XD Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1233370294089945230/image0.jpg?ex=68d1d359&is=68d081d9&hm=fd52a1ba8d7eb644acaa5b4f2129442c8ddbbca33ac0110b96a534ebd02f4253&]
+[10:57] 362260685540818944: *clé*
+[12:43] 265210499627614208: ce genre de msg Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1233398008897339454/image.png?ex=68d1ed28&is=68d09ba8&hm=aacd87ea5796b61d92589c60fbc7902f46899c0c1554085697cca10f3a86cbf4&]
+[12:52] 293414992663805952: Woa
+[12:52] 293414992663805952: La c’est trop
+[12:53] 265210499627614208: ah frr
+[12:54] 265210499627614208: ça propose l'argent
+[12:54] 265210499627614208: à tout moment je lui donne le capyabara.exe pour "educ only" et il fait ce qu'il veut après
+[12:54] 265210499627614208: xD
+[12:56] 293414992663805952: Oh no pas le *capybara.exe*
+[13:04] 265210499627614208: oh que si
+[13:49] 362260685540818944: Pascal qui a un peu trop confiance en moi, il voulait que je lui fasse un ptit truc pour supprimer tous les vieux logs en récursif. De base c'était dans un projet, là il m'a demandé de faire ça à partir du root du serveur, atm j'enlève 2 if ça encule tous les fichiers du serveur ptdr
+[13:52] 362260685540818944: Par contre PHP qui est pire que la TA epitech et qui dit stop au bout de 30s de temps d'execution
+[13:52] 362260685540818944: Le PHP en mode :
+[13:52] 362260685540818944: Stickers [STOP]
+[14:15] 265210499627614208: Stickers [Sip Sakura]
+[14:58] 362260685540818944: ça me fatigue tellement ton truc <@293414992663805952> Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1233432109453021224/image.png?ex=68d20cea&is=68d0bb6a&hm=539cac9da3e07f792b83a087248a8cd759c56a5a8879eef258785515d59a1bfa&]
+[14:59] 293414992663805952: <:bingchilling:1210328942800535643>
+[15:01] 265210499627614208: Ethan
+[15:01] 265210499627614208: Tu postules quand à lepsi
+[15:02] 293414992663805952: bah dans 1 an minimum, parce que j'ai déjà payé les frais d'inscription
+[15:03] 265210499627614208: Ok
+[15:04] 265210499627614208: Et maintenant ?
+[15:08] 362260685540818944: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1233434589838573639/Screenshot_2024-04-26-17-08-25-700-edit_com.twitter.android.jpg?ex=68d20f3a&is=68d0bdba&hm=45709d3657b6bcb01fdeadb59b5a10495a21471476eb89a2f5b8645a7dfb1ad6&]
+[15:14] 265210499627614208: <:mmmyes:1216696107657203722>
+[23:53] 293414992663805952: https://www.youtube.com/shorts/bFbtnbU6ub8?feature=share
+[08:01] 289796655862251520: je viens de tousser si fort que je l'ai senti dans mes couilles
+[08:02] 289796655862251520: et bonne journée à vous
+[08:57] 293414992663805952: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1233703497917141033/IMG_0846.jpg?ex=68d260eb&is=68d10f6b&hm=270e805c78c153db24bfedd4b955962175c921f75f0ee0ad1d5f068dbf6b3682&]
+[09:00] 362260685540818944: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1233704409905762335/Sans_nom_1.jpg?ex=68d261c4&is=68d11044&hm=b1b09bb1be4cad6725895e27069056e29218318b9574594e0aedd1823d1643f5&]
+[10:27] 293414992663805952: ff hdv16 x) Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1233726295804870666/image.png?ex=68d1cd66&is=68d07be6&hm=05ee6c29b02ceb855f41ed8807dc5671d5d6d826c613e19903e64aa99ef04d1d&]
+[10:28] 362260685540818944: Fin comment ça t'as relancé
+[10:29] 293414992663805952: bah on enchaine
+[11:41] 471793126873497600: Force
+[14:31] 471793126873497600: Il ressemble a quoi l'hdv 16 en face <@293414992663805952> si il faut c'est un prema de fou
+[14:32] 362260685540818944: C'est un hdv15  qui vient de passer 16
 """

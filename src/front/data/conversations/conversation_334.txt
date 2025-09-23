@@ -1,0 +1,12 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 334]
+Période: 2025-08-05 à 2025-08-05
+[08:50] 289796655862251520: y'a un mec devant moi au u qui a laché 1 an de pièces de 1 centimes il me fatigue
+[09:15] 362260685540818944: Comment ça 1 an de pièce de 1 centime
+[09:16] 289796655862251520: bah assez pour que le caissier perde le 1v1 et qu'il lui demande de passer à la caisse automatique
+[09:17] 289796655862251520: y'en avais plus d'une centaine en tout cas
+[09:19] 362260685540818944: Mais il est venu avec sa bourse ou quoi
+[09:19] 362260685540818944: Fin qui se trimballe avec ça
+[09:20] 289796655862251520: il avait une portefeuille avec que des pièces je crois
+"""

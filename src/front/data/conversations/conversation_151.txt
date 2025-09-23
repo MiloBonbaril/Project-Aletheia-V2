@@ -1,0 +1,7 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 151]
+Période: 2024-10-21 à 2024-10-21
+[19:03] 318105451810127872: Turbo stonks, j’ai passé mes premiers concours SOG
+[19:05] 293414992663805952: gg
+"""

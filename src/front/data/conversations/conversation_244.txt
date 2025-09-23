@@ -1,0 +1,9 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 244]
+Période: 2025-03-13 à 2025-03-13
+[01:52] 231502335287754752: bonjour
+[01:54] 231502335287754752: https://tenor.com/view/ils-sont-partout-marine-le-pen-gif-13046184
+[11:12] 318105451810127872: "ouais je me mets en tt" Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1349701604013772830/C44FD585-172C-4C22-B512-1E5CFDD3E7C4.png?ex=68d1d7d2&is=68d08652&hm=181e04b1f8a8f1f853b357b0931eaa46c51c4244288679fc41939dcc82349b8c&]
+[11:32] 310709886121934848: bah pose midi chef
+"""

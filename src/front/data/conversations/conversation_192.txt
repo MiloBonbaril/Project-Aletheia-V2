@@ -1,0 +1,13 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 192]
+Période: 2024-12-22 à 2024-12-22
+[18:25] 318105451810127872: Les gars
+[18:25] 318105451810127872: La voiture fuit de la pompe à eau
+[18:25] 318105451810127872: Il reste encore 100 bornes
+[18:40] 733261833993060352: <:donkeywut:1216696836144758884>
+[18:43] 293414992663805952: Stickers [STOP]
+[18:48] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1320463043884220559/IMG_2174.png?ex=68d242ca&is=68d0f14a&hm=143aefd500c75dedfa88c11697c20c0dd328be7517700cbb763b9bef9189bba0&]
+[18:48] 318105451810127872: Issou
+[20:33] 318105451810127872: On est arrivés c’est magnifique
+"""

@@ -1,0 +1,11 @@
+Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
+"""
+[Conversation 275]
+Période: 2025-04-30 à 2025-04-30
+[12:38] 318105451810127872: https://x.com/CerfiaFR/status/1917486930972811273
+[12:40] 318105451810127872: pov moi qui es sur pc depuis littéralement mes 2ans
+[12:57] 362260685540818944: Ils pourront rajouter dans leur étude que ça cause une calvitie très jeune  alors
+[12:58] 362260685540818944: <:actually2:1216696977547333692>
+[12:58] 293414992663805952: Stickers [g pas de verr]
+[18:19] 318105451810127872: Réactions: [❤️ x1] Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1367203615466328074/IMG_2767.jpg?ex=68d23bd7&is=68d0ea57&hm=c3fb8711ea0b3e7f7ba9bc112ee3093a320b4bb393d78f2ad80cfed7f3717ffa&]
+"""

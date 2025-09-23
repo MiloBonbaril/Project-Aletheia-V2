@@ -1,7 +1,11 @@
 Voici une conversation avec les amis de ton créateur (id: '293414992663805952'). La conversation se déroule chronologiquement:
 """
 [Conversation 98]
-Période: 2025-05-31 à 2025-05-31
-[17:07] 318105451810127872: Attachments: [https://cdn.discordapp.com/attachments/1202714611095310469/1378419728434860194/IMG_2866.png?ex=68d22b29&is=68d0d9a9&hm=65edfee227b3930f53f739a01ce18d1e99c19d1a7f5739209f76e3b8c2f51ee1&]
-[17:21] 362260685540818944: https://tenor.com/view/renoir-renoir-clair-obscur-clair-obscur-clair-obscur-expedition-33-expedition-33-gif-13774132755670698427
+Période: 2024-07-27 à 2024-07-27
+[19:47] 362260685540818944: https://www.youtube.com/watch?v=cJowjYixfEs
+
+ptn en faite on a raté le meilleur moment de la cérémonie hier soir
+[19:47] 362260685540818944: C'est quoi cette dingz
+[19:48] 293414992663805952: bah oui
+[19:48] 293414992663805952: le monde ne parle que de ça XD
 """
