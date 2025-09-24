@@ -38,6 +38,7 @@ dev = [
   "numpy>=1.25",
   "alembic>=1.10",
   "asyncpg>=0.27",
+  "groq>=0.7",
 ]
 
 [tool.setuptools]
