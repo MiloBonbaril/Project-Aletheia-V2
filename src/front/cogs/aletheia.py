@@ -69,7 +69,8 @@ class Aletheia(commands.Cog):
         if bool(llm_response['want_to_speak']):
             await message.channel.send(f"{llm_response['content']}")
         else:
-            await message.channel.send(f"Aletheia ne veut pas parler\n{llm_response}")
+            #await message.channel.send(f"Aletheia ne veut pas parler\n{llm_response}")
+            pass
         return
 
 
