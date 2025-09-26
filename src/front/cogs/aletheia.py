@@ -3,6 +3,7 @@ from discord.ext import commands
 from config import Config
 import json
 import logging
+import sys
 import os  # For checking file existence and removing files after playback
 
 class Aletheia(commands.Cog):
@@ -11,7 +12,7 @@ class Aletheia(commands.Cog):
         self.bot: commands.Bot = bot
         self.logger = logging.getLogger('aletheia')
         self.logger.setLevel(logging.DEBUG)
-        handler = logging.FileHandler(filename='aletheia.log', encoding='utf-8', mode='w')
+        handler = logging.StreamHandler(sys.stdout)
         handler.setFormatter(logging.Formatter('%(asctime)s:%(levelname)s:%(name)s: %(message)s'))
         self.logger.addHandler(handler)
         self.logger.info("Aletheia cog initialized.")
@@ -19,6 +20,16 @@ class Aletheia(commands.Cog):
 
     aletheia = discord.SlashCommandGroup("aletheia", "aletheia related commands", guild_ids=[Config.GUILD_ID])
     text = aletheia.create_subgroup("text", "commands to interact with aletheia using text", guild_ids=[Config.GUILD_ID])
+
+    @commands.Cog.listener()
+    async def on_message(self, message):
+        # Ignore messages from other guilds
+        if not message.guild or message.guild.id != Config.GUILD_ID:
+            return
+
+        # Ignore messages from bots and self
+        if message.author.bot or message.author == self.bot.user:
+            return
 
     @text.command(guild_ids=[Config.GUILD_ID], name="activate_chat", description="activate the ability to chat with Aletheia")
     async def aletheia_chat(self, ctx: discord.ApplicationContext, force_state: bool = None):
