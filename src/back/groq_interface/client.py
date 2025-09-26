@@ -21,11 +21,11 @@ class GroqClient:
 
     def pull_model(self, model_name: str) -> None:
         """Pull a model from the Ollama repository."""
-        return {"error": "Can't pull model on Groq"}
+        raise Exception("Can't pull model on Groq")
 
     def warm_model(self, model_name: str) -> None:
         """Warm up a model to reduce initial latency."""
-        return {"error": "No need to warm model on Groq"}
+        raise Exception("No need to warm model on Groq")
 
     def chat(self, model_name: str, messages: List[Dict[str, str]], options: Optional[Dict[str, Any]] = None):
         """Generate a chat response from the model."""

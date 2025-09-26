@@ -3,15 +3,39 @@
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from typing import List, Dict, Any, Optional
+import os
+from dotenv import load_dotenv
+from contextlib import asynccontextmanager
 from ollama_interface.client import OllamaClient
+from groq_interface.client import GroqClient
 
-app = FastAPI()
+# Create a factory function to get the appropriate client
+def get_client(client_type: str = "ollama"):
+    if client_type.lower() == "ollama":
+        return OllamaClient()
+    elif client_type.lower() == "groq":
+        return GroqClient()
+    else:
+        raise ValueError(f"Unknown client type: {client_type}")
 
-#
-# OLLAMA CLIENT INSTANCE
-#
+# Initialize client as None - will be set when app starts
+client = None
 
-client = OllamaClient()
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    # Startup
+    global client
+    load_dotenv()
+
+    # Set the client based on argument
+    client = get_client(os.getenv("LLM_CLIENT", "ollama"))
+
+    yield
+
+    # Cleanup (if needed)
+    # Add any cleanup code here
+
+app = FastAPI(lifespan=lifespan)
 
 class PullModelRequest(BaseModel):
     model_name: str
