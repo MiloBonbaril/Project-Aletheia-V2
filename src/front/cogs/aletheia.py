@@ -4,6 +4,7 @@ from config import Config
 import json
 import logging
 import sys
+import requests
 import os  # For checking file existence and removing files after playback
 
 class Aletheia(commands.Cog):
@@ -15,14 +16,29 @@ class Aletheia(commands.Cog):
         handler = logging.StreamHandler(sys.stdout)
         handler.setFormatter(logging.Formatter('%(asctime)s:%(levelname)s:%(name)s: %(message)s'))
         self.logger.addHandler(handler)
-        self.logger.info("Aletheia cog initialized.")
         self.chat_activated:bool = False
+        response = requests.get("http://127.0.0.1:8000/system")
+        if response.status_code != 200:
+            return
+        self.system_prompt = dict(response.json())['prompt']
+        self.logger.debug(f"system prompt: {self.system_prompt}")
+        self.logger.info("Aletheia cog initialized.")
 
     aletheia = discord.SlashCommandGroup("aletheia", "aletheia related commands", guild_ids=[Config.GUILD_ID])
     text = aletheia.create_subgroup("text", "commands to interact with aletheia using text", guild_ids=[Config.GUILD_ID])
 
+    async def load_context(self, channel:discord.TextChannel, nb_message:int=10):
+        messages = []
+        async for message in channel.history(limit=nb_message, oldest_first=False):
+            messages.append({
+                "role": "user",
+                "content": f"{message.author}: {message.content}"
+            })
+        messages.reverse()  # To get chronological order
+        return messages
+
     @commands.Cog.listener()
-    async def on_message(self, message):
+    async def on_message(self, message: discord.Message):
         # Ignore messages from other guilds
         if not message.guild or message.guild.id != Config.GUILD_ID:
             return
@@ -31,11 +47,38 @@ class Aletheia(commands.Cog):
         if message.author.bot or message.author == self.bot.user:
             return
 
+        if not self.chat_activated:
+            return
+
+        self.logger.debug(f"received message: {message.content}")
+
+        context = await self.load_context(message.channel, 10)
+
+        messages = [{"role": "system", "content": self.system_prompt}]
+        messages.extend(context)
+        messages.append({"role": "user", "content": f"""{message.author}, utilisateur du serveur Discord "Berlin Est" a envoyé un message: <message>{message.content}</message>"""})
+        self.logger.debug(f"nb of llm messages: {len(messages)}")
+
+        response = requests.post("http://localhost:8000/chat", json={
+            "model_name": "llama-3.3-70b-versatile",
+            "messages": messages,
+            "options": {"seed": 42, "response_format": {"type": "json_object"}}
+        })
+        self.logger.debug(f"response status: {response.status_code}")
+        llm_response = json.loads(response.json()['choices'][0]['message']['content'])
+        if bool(llm_response['want_to_speak']):
+            await message.channel.send(f"{llm_response['content']}")
+        else:
+            await message.channel.send(f"Aletheia ne veut pas parler\n{llm_response}")
+        return
+
+
     @text.command(guild_ids=[Config.GUILD_ID], name="activate_chat", description="activate the ability to chat with Aletheia")
     async def aletheia_chat(self, ctx: discord.ApplicationContext, force_state: bool = None):
         """
         Lets you having a chat with Aletheia
         """
+        self.logger.debug(f"received the activate_chat command with force_state = {force_state}")
         if force_state is None:
             self.chat_activated = not self.chat_activated
         else:

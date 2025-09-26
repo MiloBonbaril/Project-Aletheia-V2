@@ -8,13 +8,16 @@ from dotenv import load_dotenv
 from contextlib import asynccontextmanager
 from ollama_interface.client import OllamaClient
 from groq_interface.client import GroqClient
+from db.client import DBClient
+
+load_dotenv()
 
 # Create a factory function to get the appropriate client
 def get_client(client_type: str = "ollama"):
     if client_type.lower() == "ollama":
         return OllamaClient()
     elif client_type.lower() == "groq":
-        return GroqClient()
+        return GroqClient(os.getenv('GROQ_API_KEY', None))
     else:
         raise ValueError(f"Unknown client type: {client_type}")
 
@@ -25,7 +28,6 @@ client = None
 async def lifespan(app: FastAPI):
     # Startup
     global client
-    load_dotenv()
 
     # Set the client based on argument
     client = get_client(os.getenv("LLM_CLIENT", "ollama"))
@@ -36,6 +38,8 @@ async def lifespan(app: FastAPI):
     # Add any cleanup code here
 
 app = FastAPI(lifespan=lifespan)
+
+db_client = DBClient(os.getenv("DB_URL", None))
 
 class PullModelRequest(BaseModel):
     model_name: str
@@ -79,3 +83,11 @@ def chat(req: ChatRequest):
         return response
     except Exception as e:
         raise HTTPException(status_code=400, detail=str(e))
+
+@app.get("/system")
+def get_system_prompt():
+    prompt = db_client.get_system_prompt()
+    if prompt:
+        return {"prompt": prompt}
+    else:
+        return HTTPException(status_code=400, detail=str("error: No prompt found"))

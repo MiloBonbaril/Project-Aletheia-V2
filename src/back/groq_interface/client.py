@@ -6,7 +6,9 @@ from typing import List, Optional, Dict, Any
 from dotenv import load_dotenv
 
 class GroqClient:
-    def __init__(self, api_key: str = os.getenv('GROQ_API_KEY'), ):
+    def __init__(self, api_key: str = os.getenv('GROQ_API_KEY', None)):
+        if not api_key:
+            raise Exception("Missing an API Key")
         self.client: Groq = Groq(
             api_key=api_key,
             max_retries=2,
@@ -30,13 +32,19 @@ class GroqClient:
     def chat(self, model_name: str, messages: List[Dict[str, str]], options: Optional[Dict[str, Any]] = None):
         """Generate a chat response from the model."""
         seed = 42
+        response_format = None
         if options:
             if 'seed' in options.keys():
                 try:
                     seed = int(options['seed'])
                 except Exception as e:
                     pass
-        return self.client.chat.completions.create(messages=messages, model=model_name, seed=seed, stream=False)
+            if 'response_format' in options.keys():
+                try:
+                    response_format = dict(options['response_format'])
+                except Exception as e:
+                    pass
+        return self.client.chat.completions.create(messages=messages, model=model_name, seed=seed, stream=False, response_format=response_format)
 
 if __name__ == "__main__":
     load_dotenv(".env")
