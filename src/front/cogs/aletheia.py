@@ -15,9 +15,22 @@ class Aletheia(commands.Cog):
         handler.setFormatter(logging.Formatter('%(asctime)s:%(levelname)s:%(name)s: %(message)s'))
         self.logger.addHandler(handler)
         self.logger.info("Aletheia cog initialized.")
+        self.chat_activated:bool = False
 
     aletheia = discord.SlashCommandGroup("aletheia", "aletheia related commands", guild_ids=[Config.GUILD_ID])
     text = aletheia.create_subgroup("text", "commands to interact with aletheia using text", guild_ids=[Config.GUILD_ID])
+
+    @text.command(guild_ids=[Config.GUILD_ID], name="activate_chat", description="activate the ability to chat with Aletheia")
+    async def aletheia_chat(self, ctx: discord.ApplicationContext, force_state: bool = None):
+        """
+        Lets you having a chat with Aletheia
+        """
+        if force_state is None:
+            self.chat_activated = not self.chat_activated
+        else:
+            self.chat_activated = force_state
+        await ctx.respond(f"chat mode set to: {"on" if self.chat_activated else "off"}")
+        return
 
     # Retrieve all data from a channel using the given channel ID, put it in a JSON and save it in the data folder and send it to the user
     @text.command(guild_ids=[Config.GUILD_ID], name="gather_channel_data", description="gather all data from a channel using the given channel ID")
